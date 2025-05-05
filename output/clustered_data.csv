@@ -1,0 +1,1090 @@
+CaseID,ReportDateTime,Location,Symptoms,AgeGroup,Cluster
+1,2024-01-01 05:27:38,Libertad,"['Joint Pain', 'Nausea', 'Fatigue']",50-59,4
+2,2024-01-01 12:26:09,Bagumbayan,"['Diarrhea', 'Cough', 'Fatigue', 'Headache', 'Runny Nose', 'Vomiting', 'Sore Throat']",20-29,1
+3,2024-01-01 14:23:09,Bagumbayan,"['Cough', 'Diarrhea', 'Sore Throat', 'Runny Nose', 'Fatigue']",50-59,1
+4,2024-01-01 17:49:20,Bagumbayan,"['Sore Throat', 'Mild Bleeding', 'Retro-orbital Pain']",50-59,3
+5,2024-01-01 22:16:18,Libertad,"['Fever', 'Diarrhea', 'Sore Throat', 'Runny Nose', 'Cough', 'Fatigue']",50-59,1
+6,2024-01-02 01:38:53,Paclasan,"['Rash', 'Cough']",30-39,0
+7,2024-01-02 09:19:06,San Jose,"['Fatigue', 'Runny Nose', 'Cough', 'Diarrhea']",10-19,1
+8,2024-01-02 11:14:14,Maraska,"['Sore Throat', 'Runny Nose', 'Retro-orbital Pain', 'Diarrhea', 'Fatigue', 'Fever']",40-49,1
+9,2024-01-02 13:47:54,Cantil,"['Nausea', 'Mild Bleeding', 'Fatigue', 'Runny Nose', 'Fever']",50-59,4
+10,2024-01-02 16:02:21,San Vicente,"['Muscle Pain', 'Rash', 'Fatigue', 'Runny Nose', 'Fever']",50-59,4
+11,2024-01-02 16:38:31,San Mariano,"['Muscle Pain', 'Diarrhea', 'Fever']",0-9,3
+12,2024-01-02 18:07:19,Bagumbayan,"['Rash', 'Joint Pain', 'Diarrhea', 'Nausea', 'Fatigue', 'Retro-orbital Pain', 'Headache', 'Mild Bleeding', 'Fever', 'Vomiting']",50-59,2
+13,2024-01-03 01:30:04,Cantil,"['Sore Throat', 'Headache', 'Fatigue']",0-9,4
+14,2024-01-03 10:01:04,Libertad,"['Cough', 'Vomiting', 'Rash', 'Nausea', 'Retro-orbital Pain', 'Fever', 'Headache', 'Joint Pain', 'Mild Bleeding', 'Muscle Pain']",0-9,2
+15,2024-01-03 11:53:24,Maraska,"['Diarrhea', 'Runny Nose']",30-39,3
+16,2024-01-03 16:51:46,Dangay,"['Sore Throat', 'Fatigue', 'Cough']",30-39,4
+17,2024-01-03 18:15:43,Libertad,"['Vomiting', 'Fatigue']",10-19,4
+18,2024-01-03 22:37:15,San Isidro,"['Mild Bleeding', 'Nausea', 'Fatigue']",40-49,4
+19,2024-01-03 23:59:37,Libtong,"['Fatigue', 'Retro-orbital Pain', 'Fever']",20-29,4
+20,2024-01-04 01:11:39,Libertad,"['Rash', 'Diarrhea', 'Runny Nose', 'Fatigue']",20-29,4
+21,2024-01-04 06:04:20,San Vicente,"['Sore Throat', 'Fatigue', 'Cough', 'Runny Nose', 'Diarrhea']",50-59,1
+22,2024-01-04 06:52:34,Paclasan,"['Diarrhea', 'Sore Throat']",30-39,3
+23,2024-01-04 09:36:45,San Rafael,"['Joint Pain', 'Diarrhea', 'Cough', 'Headache']",50-59,3
+24,2024-01-04 10:47:57,Maraska,"['Cough', 'Headache']",40-49,0
+25,2024-01-04 13:05:08,Dangay,"['Nausea', 'Sore Throat', 'Cough']",40-49,0
+26,2024-01-04 15:32:31,Cantil,"['Headache', 'Diarrhea', 'Muscle Pain', 'Cough']",20-29,3
+27,2024-01-04 15:43:47,San Jose,"['Cough', 'Fatigue', 'Retro-orbital Pain', 'Diarrhea', 'Runny Nose']",50-59,1
+28,2024-01-04 17:34:54,Cantil,"['Runny Nose', 'Diarrhea', 'Retro-orbital Pain', 'Cough', 'Fever', 'Sore Throat']",20-29,1
+29,2024-01-04 17:35:17,San Miguel,"['Mild Bleeding', 'Fatigue', 'Muscle Pain', 'Sore Throat']",30-39,4
+30,2024-01-04 19:10:40,San Jose,"['Cough', 'Fatigue', 'Retro-orbital Pain']",0-9,4
+31,2024-01-05 06:00:57,Dangay,"['Diarrhea', 'Rash', 'Runny Nose', 'Fatigue']",20-29,4
+32,2024-01-05 07:56:58,Happy Valley,"['Diarrhea', 'Cough', 'Fever', 'Retro-orbital Pain', 'Joint Pain', 'Vomiting']",20-29,3
+33,2024-01-05 11:35:50,San Mariano,"['Diarrhea', 'Sore Throat', 'Retro-orbital Pain', 'Runny Nose', 'Muscle Pain', 'Fatigue', 'Cough']",0-9,1
+34,2024-01-05 12:38:48,Poblacion,"['Muscle Pain', 'Cough', 'Nausea']",30-39,0
+35,2024-01-05 15:19:19,Odiong,"['Cough', 'Sore Throat', 'Fatigue', 'Fever', 'Runny Nose', 'Diarrhea']",30-39,1
+36,2024-01-05 15:50:23,Cantil,"['Rash', 'Sore Throat', 'Cough', 'Runny Nose', 'Fatigue']",40-49,1
+37,2024-01-05 17:20:37,San Vicente,"['Retro-orbital Pain', 'Fatigue', 'Cough']",30-39,4
+38,2024-01-06 06:00:35,Odiong,"['Runny Nose', 'Sore Throat', 'Retro-orbital Pain']",20-29,0
+39,2024-01-06 06:14:41,San Isidro,"['Sore Throat', 'Runny Nose', 'Headache', 'Retro-orbital Pain', 'Cough', 'Fatigue', 'Diarrhea']",0-9,1
+40,2024-01-06 08:34:15,San Miguel,"['Sore Throat', 'Rash', 'Runny Nose', 'Fever']",0-9,0
+41,2024-01-06 10:12:04,Maraska,"['Diarrhea', 'Runny Nose', 'Fatigue', 'Nausea']",10-19,4
+42,2024-01-06 10:47:40,Odiong,"['Runny Nose', 'Retro-orbital Pain', 'Diarrhea', 'Fever', 'Nausea', 'Sore Throat', 'Cough']",10-19,1
+43,2024-01-06 13:12:35,Happy Valley,"['Sore Throat', 'Rash', 'Cough', 'Fever']",30-39,0
+44,2024-01-06 14:03:26,Bagumbayan,"['Fatigue', 'Cough', 'Runny Nose', 'Headache', 'Sore Throat', 'Vomiting', 'Diarrhea']",60+,1
+45,2024-01-06 16:29:15,Maraska,"['Rash', 'Mild Bleeding', 'Diarrhea']",60+,3
+46,2024-01-06 16:49:24,Libtong,"['Sore Throat', 'Runny Nose', 'Rash']",20-29,0
+47,2024-01-06 18:49:26,San Jose,"['Vomiting', 'Fatigue', 'Runny Nose', 'Headache', 'Rash', 'Cough']",30-39,0
+48,2024-01-06 21:41:10,San Jose,"['Fatigue', 'Mild Bleeding', 'Sore Throat', 'Diarrhea']",40-49,4
+49,2024-01-07 00:49:32,San Aquilino,"['Fever', 'Sore Throat', 'Runny Nose']",10-19,0
+50,2024-01-07 00:54:14,Libertad,"['Runny Nose', 'Joint Pain']",50-59,0
+51,2024-01-07 04:30:25,San Rafael,"['Nausea', 'Runny Nose', 'Fever', 'Cough', 'Fatigue']",40-49,0
+52,2024-01-07 08:44:53,Victoria,"['Retro-orbital Pain', 'Muscle Pain', 'Sore Throat', 'Fever', 'Vomiting']",10-19,2
+53,2024-01-07 09:51:11,Poblacion,"['Fatigue', 'Sore Throat', 'Cough', 'Runny Nose', 'Diarrhea']",0-9,1
+54,2024-01-07 14:06:35,Libtong,"['Sore Throat', 'Runny Nose', 'Cough']",50-59,0
+55,2024-01-07 14:29:54,Maraska,"['Mild Bleeding', 'Diarrhea', 'Cough']",0-9,3
+56,2024-01-07 14:42:07,Libtong,"['Runny Nose', 'Diarrhea', 'Cough', 'Sore Throat']",10-19,1
+57,2024-01-07 17:23:03,Paclasan,"['Retro-orbital Pain', 'Diarrhea', 'Sore Throat', 'Fever']",20-29,3
+58,2024-01-07 18:30:39,Odiong,"['Fatigue', 'Muscle Pain', 'Sore Throat', 'Retro-orbital Pain', 'Diarrhea', 'Fever']",40-49,4
+59,2024-01-07 22:29:57,San Aquilino,"['Runny Nose', 'Cough']",60+,0
+60,2024-01-08 02:36:01,Paclasan,"['Headache', 'Rash', 'Diarrhea', 'Fever']",40-49,3
+61,2024-01-08 05:10:19,Maraska,"['Retro-orbital Pain', 'Rash', 'Sore Throat', 'Mild Bleeding']",50-59,3
+62,2024-01-08 07:50:07,Happy Valley,"['Nausea', 'Fatigue', 'Fever', 'Vomiting']",40-49,4
+63,2024-01-08 08:31:56,Libertad,"['Sore Throat', 'Runny Nose', 'Fatigue', 'Cough', 'Diarrhea', 'Nausea', 'Fever']",0-9,1
+64,2024-01-08 13:01:56,Libertad,"['Sore Throat', 'Vomiting', 'Retro-orbital Pain', 'Fatigue', 'Nausea']",0-9,4
+65,2024-01-08 18:52:56,Libtong,"['Diarrhea', 'Runny Nose', 'Retro-orbital Pain']",0-9,3
+66,2024-01-08 19:59:50,Happy Valley,"['Cough', 'Runny Nose', 'Diarrhea']",30-39,0
+67,2024-01-08 20:36:38,San Isidro,"['Nausea', 'Headache', 'Muscle Pain', 'Vomiting', 'Retro-orbital Pain', 'Rash', 'Mild Bleeding', 'Fever', 'Joint Pain']",50-59,2
+68,2024-01-08 23:05:17,Poblacion,"['Runny Nose', 'Cough', 'Sore Throat', 'Fatigue']",0-9,1
+69,2024-01-09 01:40:11,Cantil,"['Diarrhea', 'Cough', 'Runny Nose', 'Joint Pain', 'Retro-orbital Pain']",20-29,0
+70,2024-01-09 03:08:08,Poblacion,"['Diarrhea', 'Sore Throat', 'Rash', 'Cough', 'Vomiting', 'Runny Nose']",30-39,1
+71,2024-01-09 09:01:25,Paclasan,['Runny Nose'],30-39,0
+72,2024-01-09 10:17:58,Libertad,"['Rash', 'Cough', 'Mild Bleeding']",10-19,0
+73,2024-01-09 10:39:53,Odiong,"['Sore Throat', 'Vomiting']",20-29,3
+74,2024-01-09 18:33:36,San Vicente,"['Diarrhea', 'Headache', 'Muscle Pain']",0-9,3
+75,2024-01-09 23:38:41,Bagumbayan,"['Cough', 'Fatigue', 'Nausea', 'Fever', 'Runny Nose', 'Sore Throat']",50-59,1
+76,2024-01-10 01:46:14,San Aquilino,"['Joint Pain', 'Sore Throat', 'Diarrhea', 'Runny Nose', 'Vomiting']",20-29,3
+77,2024-01-10 02:14:20,Little Tanauan,"['Runny Nose', 'Mild Bleeding', 'Diarrhea', 'Cough']",60+,0
+78,2024-01-10 02:19:19,San Isidro,"['Vomiting', 'Muscle Pain', 'Joint Pain', 'Retro-orbital Pain', 'Fever', 'Nausea']",60+,2
+79,2024-01-10 04:34:48,San Vicente,"['Fever', 'Diarrhea', 'Runny Nose', 'Sore Throat', 'Nausea', 'Vomiting', 'Muscle Pain']",60+,3
+80,2024-01-10 06:36:18,San Aquilino,"['Diarrhea', 'Fatigue', 'Runny Nose']",0-9,4
+81,2024-01-10 10:00:18,Happy Valley,"['Diarrhea', 'Rash', 'Fever', 'Sore Throat', 'Cough', 'Runny Nose']",60+,1
+82,2024-01-10 10:38:12,Poblacion,"['Sore Throat', 'Cough', 'Fever']",30-39,0
+83,2024-01-10 10:49:29,Little Tanauan,"['Sore Throat', 'Diarrhea', 'Runny Nose', 'Cough', 'Headache']",20-29,1
+84,2024-01-10 16:25:09,Maraska,"['Diarrhea', 'Fatigue', 'Runny Nose', 'Cough', 'Sore Throat']",60+,1
+85,2024-01-10 16:53:59,Libertad,"['Sore Throat', 'Runny Nose', 'Vomiting', 'Fatigue']",40-49,4
+86,2024-01-10 18:23:10,Cantil,"['Fatigue', 'Retro-orbital Pain', 'Nausea', 'Mild Bleeding', 'Diarrhea']",30-39,4
+87,2024-01-10 23:11:09,San Mariano,"['Fatigue', 'Sore Throat', 'Nausea', 'Cough']",60+,4
+88,2024-01-11 00:19:16,Dangay,"['Sore Throat', 'Mild Bleeding']",40-49,3
+89,2024-01-11 00:19:50,Cantil,"['Sore Throat', 'Cough', 'Muscle Pain']",20-29,0
+90,2024-01-11 06:20:43,San Isidro,"['Fatigue', 'Rash', 'Runny Nose', 'Muscle Pain']",20-29,4
+91,2024-01-11 06:33:58,Bagumbayan,"['Muscle Pain', 'Cough', 'Nausea']",20-29,0
+92,2024-01-11 06:37:14,San Isidro,"['Headache', 'Diarrhea']",0-9,3
+93,2024-01-11 06:55:16,San Miguel,"['Diarrhea', 'Runny Nose']",50-59,3
+94,2024-01-11 07:11:19,Dangay,"['Fatigue', 'Joint Pain', 'Diarrhea', 'Muscle Pain', 'Sore Throat']",30-39,4
+95,2024-01-11 08:15:00,Bagumbayan,"['Diarrhea', 'Runny Nose', 'Mild Bleeding']",20-29,3
+96,2024-01-11 11:10:03,Maraska,"['Fatigue', 'Mild Bleeding']",40-49,4
+97,2024-01-11 14:33:24,Paclasan,"['Fever', 'Cough', 'Muscle Pain', 'Vomiting', 'Nausea', 'Sore Throat']",60+,2
+98,2024-01-11 14:44:31,Victoria,"['Nausea', 'Vomiting', 'Diarrhea']",0-9,3
+99,2024-01-11 20:34:36,Libertad,"['Runny Nose', 'Cough', 'Diarrhea']",10-19,0
+100,2024-01-11 21:10:14,Cantil,"['Sore Throat', 'Diarrhea', 'Cough', 'Runny Nose', 'Fatigue']",40-49,1
+101,2024-01-11 21:12:28,Paclasan,"['Diarrhea', 'Nausea', 'Mild Bleeding', 'Fever', 'Joint Pain']",0-9,3
+102,2024-01-11 22:13:27,San Vicente,"['Sore Throat', 'Runny Nose', 'Retro-orbital Pain', 'Fatigue']",20-29,4
+103,2024-01-11 23:04:30,San Isidro,"['Rash', 'Vomiting', 'Cough', 'Sore Throat']",20-29,0
+104,2024-01-12 00:00:32,San Vicente,"['Fever', 'Cough', 'Sore Throat']",0-9,0
+105,2024-01-12 01:04:18,Libtong,"['Sore Throat', 'Cough']",0-9,0
+106,2024-01-12 01:28:58,Paclasan,"['Retro-orbital Pain', 'Fatigue', 'Sore Throat', 'Muscle Pain', 'Runny Nose', 'Cough']",50-59,1
+107,2024-01-12 02:27:08,Libtong,"['Muscle Pain', 'Sore Throat', 'Diarrhea', 'Runny Nose', 'Fatigue', 'Fever']",30-39,1
+108,2024-01-12 06:15:07,San Rafael,"['Vomiting', 'Headache', 'Muscle Pain', 'Diarrhea', 'Runny Nose']",20-29,3
+109,2024-01-12 07:32:11,Libtong,"['Muscle Pain', 'Joint Pain', 'Fatigue', 'Sore Throat', 'Fever']",0-9,4
+110,2024-01-12 08:23:21,Little Tanauan,"['Muscle Pain', 'Diarrhea', 'Fatigue', 'Runny Nose', 'Cough']",30-39,1
+111,2024-01-12 10:36:22,Bagumbayan,"['Diarrhea', 'Fever', 'Joint Pain', 'Mild Bleeding']",50-59,3
+112,2024-01-12 12:15:47,San Vicente,"['Diarrhea', 'Vomiting', 'Runny Nose', 'Fatigue', 'Sore Throat', 'Cough']",0-9,1
+113,2024-01-12 15:37:55,Libtong,"['Runny Nose', 'Mild Bleeding', 'Retro-orbital Pain', 'Sore Throat', 'Cough', 'Diarrhea']",40-49,1
+114,2024-01-12 17:37:19,San Isidro,"['Fever', 'Mild Bleeding', 'Rash', 'Diarrhea', 'Cough']",10-19,3
+115,2024-01-13 00:01:02,Cantil,"['Fatigue', 'Runny Nose', 'Nausea']",0-9,4
+116,2024-01-13 00:12:09,Victoria,"['Runny Nose', 'Diarrhea', 'Joint Pain', 'Fever']",50-59,3
+117,2024-01-13 03:18:19,Odiong,"['Rash', 'Cough', 'Diarrhea']",0-9,3
+118,2024-01-13 03:39:06,Poblacion,"['Diarrhea', 'Muscle Pain', 'Nausea', 'Joint Pain', 'Runny Nose', 'Cough', 'Sore Throat', 'Vomiting']",50-59,1
+119,2024-01-13 05:47:53,Libtong,"['Runny Nose', 'Fever', 'Headache', 'Nausea']",10-19,0
+120,2024-01-13 05:49:37,San Miguel,"['Joint Pain', 'Rash', 'Diarrhea', 'Mild Bleeding']",10-19,3
+121,2024-01-13 07:54:11,Happy Valley,"['Muscle Pain', 'Sore Throat', 'Headache', 'Cough']",10-19,0
+122,2024-01-13 08:40:41,Libtong,"['Sore Throat', 'Nausea', 'Cough', 'Fever', 'Mild Bleeding']",60+,0
+123,2024-01-13 09:23:59,Odiong,"['Sore Throat', 'Joint Pain', 'Headache']",10-19,3
+124,2024-01-13 11:33:46,Cantil,"['Muscle Pain', 'Cough', 'Fatigue']",10-19,4
+125,2024-01-13 12:33:50,San Miguel,"['Muscle Pain', 'Rash', 'Cough', 'Headache']",40-49,0
+126,2024-01-13 14:05:55,Libtong,"['Muscle Pain', 'Cough', 'Mild Bleeding', 'Sore Throat']",10-19,0
+127,2024-01-13 19:17:52,Libertad,"['Diarrhea', 'Runny Nose', 'Fatigue', 'Cough']",30-39,1
+128,2024-01-13 21:09:01,Libertad,"['Runny Nose', 'Diarrhea', 'Nausea']",50-59,3
+129,2024-01-14 02:07:30,Dangay,"['Muscle Pain', 'Fatigue', 'Cough', 'Runny Nose', 'Sore Throat', 'Diarrhea']",0-9,1
+130,2024-01-14 04:18:28,Odiong,"['Rash', 'Fatigue']",0-9,4
+131,2024-01-14 15:53:03,San Isidro,"['Muscle Pain', 'Fever', 'Diarrhea', 'Cough']",20-29,3
+132,2024-01-14 21:00:26,Libertad,"['Runny Nose', 'Cough', 'Fatigue']",30-39,0
+133,2024-01-15 07:57:46,Victoria,"['Cough', 'Runny Nose', 'Sore Throat', 'Mild Bleeding']",30-39,0
+134,2024-01-15 12:48:34,San Jose,"['Cough', 'Mild Bleeding', 'Sore Throat', 'Fatigue', 'Muscle Pain', 'Diarrhea']",0-9,1
+135,2024-01-15 15:59:29,Victoria,"['Cough', 'Fatigue']",40-49,4
+136,2024-01-16 02:03:48,Little Tanauan,"['Runny Nose', 'Fever', 'Sore Throat']",40-49,0
+137,2024-01-16 02:42:19,Libertad,"['Vomiting', 'Cough', 'Sore Throat', 'Runny Nose', 'Diarrhea']",50-59,1
+138,2024-01-16 03:29:02,Paclasan,"['Runny Nose', 'Fatigue', 'Cough', 'Diarrhea']",30-39,1
+139,2024-01-16 07:43:52,Victoria,"['Muscle Pain', 'Headache', 'Sore Throat']",0-9,3
+140,2024-01-16 15:22:05,Maraska,"['Diarrhea', 'Sore Throat', 'Fever', 'Fatigue']",40-49,4
+141,2024-01-16 15:40:16,San Vicente,"['Fever', 'Fatigue', 'Sore Throat', 'Diarrhea']",0-9,4
+142,2024-01-16 19:35:28,Dangay,"['Diarrhea', 'Sore Throat', 'Rash', 'Cough', 'Fatigue']",40-49,1
+143,2024-01-16 19:51:12,San Rafael,"['Fatigue', 'Diarrhea', 'Sore Throat', 'Retro-orbital Pain', 'Headache', 'Vomiting']",60+,4
+144,2024-01-16 19:55:31,San Rafael,"['Retro-orbital Pain', 'Cough', 'Runny Nose']",0-9,0
+145,2024-01-16 21:59:39,San Vicente,"['Fatigue', 'Cough', 'Rash', 'Retro-orbital Pain', 'Headache', 'Mild Bleeding']",20-29,4
+146,2024-01-17 01:58:12,San Miguel,"['Cough', 'Vomiting', 'Headache', 'Rash', 'Joint Pain', 'Retro-orbital Pain', 'Muscle Pain', 'Diarrhea', 'Nausea', 'Mild Bleeding', 'Fever']",0-9,2
+147,2024-01-17 03:32:08,Bagumbayan,"['Diarrhea', 'Cough', 'Muscle Pain', 'Nausea', 'Runny Nose', 'Sore Throat']",10-19,1
+148,2024-01-17 04:16:27,San Isidro,"['Joint Pain', 'Retro-orbital Pain', 'Runny Nose', 'Sore Throat', 'Headache']",50-59,0
+149,2024-01-17 14:01:32,Maraska,"['Fatigue', 'Retro-orbital Pain']",40-49,4
+150,2024-01-17 23:42:27,Bagumbayan,"['Fever', 'Runny Nose', 'Rash', 'Fatigue', 'Cough', 'Vomiting', 'Muscle Pain']",10-19,0
+151,2024-01-18 02:18:34,San Vicente,"['Sore Throat', 'Fatigue', 'Rash', 'Muscle Pain', 'Fever', 'Cough']",20-29,4
+152,2024-01-18 05:15:30,San Vicente,"['Diarrhea', 'Fatigue', 'Cough', 'Runny Nose', 'Sore Throat']",50-59,1
+153,2024-01-18 06:27:22,Cantil,"['Sore Throat', 'Diarrhea', 'Fatigue']",20-29,4
+154,2024-01-18 06:35:12,Cantil,"['Fatigue', 'Mild Bleeding', 'Runny Nose', 'Sore Throat', 'Diarrhea']",0-9,1
+155,2024-01-18 11:55:07,San Miguel,"['Cough', 'Fatigue', 'Sore Throat']",20-29,4
+156,2024-01-18 12:30:18,Poblacion,"['Fatigue', 'Diarrhea', 'Fever', 'Runny Nose']",0-9,4
+157,2024-01-18 14:53:35,Odiong,"['Sore Throat', 'Muscle Pain']",0-9,3
+158,2024-01-18 15:42:29,Maraska,"['Nausea', 'Diarrhea', 'Fatigue']",0-9,4
+159,2024-01-18 15:55:21,Maraska,"['Fatigue', 'Nausea', 'Runny Nose', 'Retro-orbital Pain', 'Headache', 'Diarrhea']",40-49,4
+160,2024-01-18 19:20:29,Bagumbayan,"['Retro-orbital Pain', 'Nausea', 'Diarrhea', 'Joint Pain', 'Sore Throat', 'Cough', 'Headache']",60+,3
+161,2024-01-18 20:53:09,Maraska,"['Joint Pain', 'Cough']",20-29,0
+162,2024-01-19 00:00:19,Paclasan,"['Mild Bleeding', 'Fatigue']",10-19,4
+163,2024-01-19 03:20:46,Poblacion,"['Fatigue', 'Runny Nose', 'Sore Throat']",10-19,4
+164,2024-01-19 07:09:14,San Mariano,"['Vomiting', 'Rash', 'Sore Throat']",50-59,3
+165,2024-01-19 07:58:35,San Mariano,"['Runny Nose', 'Cough', 'Fatigue', 'Diarrhea']",40-49,1
+166,2024-01-19 09:28:06,Libtong,"['Fatigue', 'Joint Pain', 'Sore Throat', 'Diarrhea', 'Rash', 'Fever']",40-49,4
+167,2024-01-19 13:26:57,Maraska,"['Sore Throat', 'Runny Nose']",60+,0
+168,2024-01-19 13:41:21,San Rafael,"['Cough', 'Fatigue', 'Runny Nose']",10-19,0
+169,2024-01-19 16:27:54,San Miguel,"['Cough', 'Diarrhea', 'Muscle Pain', 'Fatigue']",20-29,4
+170,2024-01-19 16:48:36,San Isidro,"['Headache', 'Fatigue']",30-39,4
+171,2024-01-19 16:51:29,Dangay,"['Rash', 'Muscle Pain', 'Fatigue']",30-39,4
+172,2024-01-19 19:24:46,Maraska,"['Runny Nose', 'Diarrhea', 'Fatigue', 'Joint Pain', 'Fever']",60+,4
+173,2024-01-19 19:35:16,San Mariano,"['Sore Throat', 'Headache', 'Cough', 'Mild Bleeding', 'Fatigue']",0-9,4
+174,2024-01-19 19:40:09,San Miguel,"['Diarrhea', 'Cough', 'Nausea']",50-59,3
+175,2024-01-19 20:00:13,San Aquilino,['Diarrhea'],20-29,3
+176,2024-01-19 22:30:58,San Jose,"['Sore Throat', 'Fatigue', 'Runny Nose', 'Retro-orbital Pain', 'Diarrhea', 'Muscle Pain']",10-19,1
+177,2024-01-20 00:33:01,Dangay,"['Sore Throat', 'Runny Nose', 'Fatigue', 'Cough', 'Diarrhea']",20-29,1
+178,2024-01-20 03:58:50,Maraska,"['Cough', 'Fatigue', 'Diarrhea', 'Runny Nose', 'Sore Throat', 'Headache']",60+,1
+179,2024-01-20 04:32:06,San Vicente,"['Diarrhea', 'Mild Bleeding', 'Fever', 'Vomiting', 'Sore Throat']",10-19,3
+180,2024-01-20 04:54:09,Paclasan,"['Fever', 'Diarrhea', 'Sore Throat', 'Headache', 'Runny Nose', 'Retro-orbital Pain']",60+,3
+181,2024-01-20 15:23:50,San Aquilino,"['Mild Bleeding', 'Fever', 'Runny Nose']",60+,0
+182,2024-01-20 16:13:11,Dangay,"['Rash', 'Cough', 'Diarrhea', 'Joint Pain', 'Runny Nose']",10-19,0
+183,2024-01-20 19:09:07,Libertad,"['Fatigue', 'Runny Nose']",60+,4
+184,2024-01-20 20:29:30,Odiong,"['Runny Nose', 'Fatigue', 'Cough', 'Diarrhea']",60+,1
+185,2024-01-20 20:36:17,Dangay,"['Fatigue', 'Diarrhea', 'Runny Nose']",50-59,4
+186,2024-01-20 21:43:20,Victoria,"['Headache', 'Fever', 'Cough', 'Diarrhea', 'Runny Nose', 'Joint Pain']",0-9,0
+187,2024-01-20 22:07:24,San Isidro,"['Diarrhea', 'Vomiting', 'Fatigue', 'Runny Nose', 'Fever', 'Sore Throat', 'Cough']",40-49,1
+188,2024-01-20 23:36:53,Maraska,"['Diarrhea', 'Cough', 'Runny Nose', 'Sore Throat', 'Fatigue', 'Mild Bleeding']",30-39,1
+189,2024-01-21 09:54:17,Dangay,"['Diarrhea', 'Rash', 'Fatigue', 'Mild Bleeding']",50-59,4
+190,2024-01-21 10:54:25,Little Tanauan,"['Headache', 'Fatigue', 'Diarrhea', 'Sore Throat', 'Cough', 'Retro-orbital Pain', 'Runny Nose']",50-59,1
+191,2024-01-21 15:11:15,Little Tanauan,"['Rash', 'Cough', 'Nausea', 'Runny Nose']",20-29,0
+192,2024-01-21 15:39:40,San Aquilino,"['Runny Nose', 'Vomiting', 'Nausea', 'Joint Pain', 'Muscle Pain', 'Mild Bleeding', 'Fever', 'Retro-orbital Pain', 'Rash', 'Diarrhea']",0-9,2
+193,2024-01-21 18:40:39,Maraska,"['Runny Nose', 'Nausea', 'Diarrhea', 'Cough']",60+,0
+194,2024-01-21 22:26:49,San Mariano,"['Fatigue', 'Runny Nose', 'Cough', 'Sore Throat', 'Diarrhea']",20-29,1
+195,2024-01-22 03:09:23,Poblacion,"['Diarrhea', 'Sore Throat', 'Cough', 'Retro-orbital Pain', 'Headache']",50-59,3
+196,2024-01-22 03:11:50,San Isidro,"['Diarrhea', 'Cough', 'Fever', 'Runny Nose']",60+,0
+197,2024-01-22 06:24:14,Paclasan,"['Fatigue', 'Diarrhea', 'Runny Nose', 'Nausea', 'Rash', 'Fever']",60+,4
+198,2024-01-22 13:54:28,San Miguel,"['Retro-orbital Pain', 'Fatigue', 'Nausea']",40-49,4
+199,2024-01-22 15:29:51,Bagumbayan,"['Sore Throat', 'Cough', 'Runny Nose', 'Fever', 'Fatigue', 'Diarrhea']",30-39,1
+200,2024-01-22 17:48:02,Cantil,"['Diarrhea', 'Fever', 'Runny Nose', 'Fatigue']",60+,4
+201,2024-01-22 17:48:34,Happy Valley,"['Cough', 'Joint Pain', 'Runny Nose']",0-9,0
+202,2024-01-23 06:27:33,San Miguel,"['Sore Throat', 'Cough', 'Diarrhea', 'Runny Nose']",60+,1
+203,2024-01-23 06:28:57,San Miguel,"['Diarrhea', 'Nausea', 'Headache', 'Cough', 'Sore Throat']",50-59,3
+204,2024-01-23 11:12:30,San Mariano,"['Fatigue', 'Headache', 'Sore Throat', 'Cough']",10-19,4
+205,2024-01-23 13:15:45,San Aquilino,"['Sore Throat', 'Runny Nose', 'Diarrhea', 'Mild Bleeding', 'Fatigue']",20-29,1
+206,2024-01-23 13:36:15,Poblacion,"['Muscle Pain', 'Fatigue']",50-59,4
+207,2024-01-23 14:27:23,Libertad,"['Cough', 'Sore Throat', 'Runny Nose', 'Fatigue', 'Diarrhea']",30-39,1
+208,2024-01-23 17:36:43,Victoria,"['Fever', 'Cough', 'Sore Throat']",20-29,0
+209,2024-01-24 00:48:32,Little Tanauan,['Fatigue'],20-29,4
+210,2024-01-24 06:53:00,San Rafael,"['Rash', 'Headache', 'Muscle Pain', 'Fever', 'Retro-orbital Pain', 'Nausea', 'Runny Nose', 'Mild Bleeding', 'Vomiting']",50-59,2
+211,2024-01-24 06:55:24,Paclasan,"['Headache', 'Muscle Pain', 'Fever', 'Diarrhea']",50-59,3
+212,2024-01-24 10:11:59,Paclasan,"['Fatigue', 'Diarrhea', 'Cough', 'Sore Throat', 'Muscle Pain', 'Headache']",30-39,1
+213,2024-01-24 10:21:37,Cantil,"['Nausea', 'Runny Nose', 'Cough']",40-49,0
+214,2024-01-24 10:56:18,Happy Valley,"['Sore Throat', 'Mild Bleeding', 'Diarrhea', 'Runny Nose', 'Vomiting']",60+,3
+215,2024-01-24 11:55:50,Paclasan,"['Fatigue', 'Fever', 'Sore Throat', 'Diarrhea', 'Joint Pain', 'Runny Nose', 'Cough']",30-39,1
+216,2024-01-24 11:57:35,Little Tanauan,"['Rash', 'Runny Nose', 'Joint Pain', 'Fatigue']",40-49,4
+217,2024-01-25 00:28:23,Victoria,"['Fatigue', 'Runny Nose', 'Sore Throat', 'Cough']",30-39,1
+218,2024-01-25 01:47:16,Victoria,"['Diarrhea', 'Fatigue']",30-39,4
+219,2024-01-25 02:26:34,San Isidro,"['Diarrhea', 'Runny Nose', 'Cough', 'Headache']",30-39,0
+220,2024-01-25 02:46:59,Paclasan,"['Sore Throat', 'Runny Nose', 'Mild Bleeding', 'Muscle Pain']",50-59,0
+221,2024-01-25 05:07:23,Poblacion,"['Runny Nose', 'Sore Throat', 'Fever', 'Headache']",30-39,0
+222,2024-01-25 05:44:57,Dangay,"['Fever', 'Vomiting', 'Fatigue', 'Diarrhea', 'Nausea', 'Retro-orbital Pain']",20-29,4
+223,2024-01-25 08:24:40,San Vicente,"['Fatigue', 'Sore Throat', 'Diarrhea']",20-29,4
+224,2024-01-25 08:54:11,Victoria,"['Sore Throat', 'Diarrhea', 'Nausea', 'Vomiting', 'Cough', 'Fatigue']",20-29,1
+225,2024-01-25 09:11:03,San Miguel,"['Runny Nose', 'Retro-orbital Pain', 'Fatigue', 'Sore Throat', 'Vomiting', 'Diarrhea']",40-49,1
+226,2024-01-25 12:15:31,Bagumbayan,"['Sore Throat', 'Runny Nose', 'Fatigue', 'Muscle Pain']",60+,4
+227,2024-01-25 14:08:26,Little Tanauan,"['Rash', 'Vomiting', 'Muscle Pain', 'Joint Pain', 'Fatigue', 'Fever', 'Mild Bleeding', 'Nausea']",30-39,2
+228,2024-01-26 00:36:22,Libtong,"['Fatigue', 'Retro-orbital Pain', 'Muscle Pain', 'Sore Throat']",50-59,4
+229,2024-01-26 03:31:26,Dangay,"['Mild Bleeding', 'Diarrhea', 'Sore Throat', 'Retro-orbital Pain', 'Vomiting']",30-39,3
+230,2024-01-26 06:41:58,Poblacion,"['Cough', 'Sore Throat', 'Runny Nose', 'Muscle Pain', 'Diarrhea', 'Retro-orbital Pain']",60+,1
+231,2024-01-26 09:03:48,Victoria,"['Headache', 'Nausea', 'Vomiting', 'Runny Nose']",20-29,0
+232,2024-01-26 09:54:20,San Mariano,"['Fatigue', 'Cough', 'Runny Nose', 'Rash', 'Nausea']",10-19,0
+233,2024-01-26 14:02:31,San Rafael,"['Runny Nose', 'Sore Throat', 'Nausea']",0-9,0
+234,2024-01-26 18:36:35,Dangay,"['Cough', 'Mild Bleeding', 'Diarrhea']",30-39,3
+235,2024-01-26 19:15:22,San Isidro,"['Headache', 'Cough']",40-49,0
+236,2024-01-26 19:37:31,Bagumbayan,"['Fever', 'Cough', 'Diarrhea', 'Sore Throat', 'Retro-orbital Pain', 'Fatigue', 'Runny Nose']",0-9,1
+237,2024-01-27 01:36:19,Little Tanauan,"['Cough', 'Fever', 'Sore Throat', 'Runny Nose', 'Headache', 'Joint Pain']",10-19,0
+238,2024-01-27 02:39:44,Dangay,"['Fatigue', 'Joint Pain']",40-49,4
+239,2024-01-27 05:09:56,Libertad,"['Mild Bleeding', 'Sore Throat', 'Diarrhea', 'Runny Nose', 'Fatigue', 'Cough', 'Vomiting']",40-49,1
+240,2024-01-27 05:11:13,Cantil,"['Fatigue', 'Runny Nose', 'Diarrhea', 'Retro-orbital Pain', 'Cough', 'Sore Throat', 'Headache']",60+,1
+241,2024-01-27 11:12:13,Paclasan,"['Fatigue', 'Mild Bleeding', 'Fever', 'Diarrhea', 'Rash', 'Sore Throat']",10-19,4
+242,2024-01-27 12:32:55,Little Tanauan,"['Diarrhea', 'Retro-orbital Pain', 'Cough', 'Joint Pain']",40-49,3
+243,2024-01-27 13:16:56,San Mariano,"['Vomiting', 'Retro-orbital Pain', 'Diarrhea', 'Sore Throat']",20-29,3
+244,2024-01-27 19:58:41,Cantil,"['Vomiting', 'Muscle Pain', 'Cough']",0-9,0
+245,2024-01-27 20:58:25,Happy Valley,"['Mild Bleeding', 'Diarrhea']",0-9,3
+246,2024-01-27 22:52:40,San Mariano,"['Mild Bleeding', 'Retro-orbital Pain', 'Cough', 'Diarrhea', 'Sore Throat']",60+,3
+247,2024-01-27 23:47:18,San Aquilino,['Runny Nose'],30-39,0
+248,2024-01-28 01:15:37,Victoria,"['Diarrhea', 'Fatigue', 'Rash', 'Retro-orbital Pain', 'Fever']",10-19,4
+249,2024-01-28 01:54:32,Cantil,"['Fever', 'Cough', 'Muscle Pain', 'Diarrhea']",10-19,3
+250,2024-01-28 03:46:08,Libertad,"['Retro-orbital Pain', 'Fatigue', 'Cough']",40-49,4
+251,2024-01-28 05:52:48,Bagumbayan,"['Headache', 'Diarrhea', 'Muscle Pain']",30-39,3
+252,2024-01-28 09:15:27,San Miguel,"['Cough', 'Diarrhea']",10-19,3
+253,2024-01-28 10:46:56,San Isidro,"['Runny Nose', 'Sore Throat', 'Cough', 'Fatigue']",40-49,1
+254,2024-01-28 14:57:15,Maraska,"['Diarrhea', 'Runny Nose', 'Cough', 'Sore Throat']",60+,1
+255,2024-01-28 19:18:36,Odiong,"['Runny Nose', 'Cough', 'Fatigue', 'Retro-orbital Pain', 'Diarrhea', 'Sore Throat']",10-19,1
+256,2024-01-29 02:56:38,Libtong,"['Fatigue', 'Diarrhea', 'Muscle Pain', 'Runny Nose', 'Cough', 'Vomiting']",50-59,1
+257,2024-01-29 04:54:44,Little Tanauan,"['Cough', 'Fever', 'Runny Nose', 'Sore Throat']",0-9,0
+258,2024-01-29 05:05:43,Odiong,"['Diarrhea', 'Retro-orbital Pain', 'Fatigue', 'Joint Pain']",50-59,4
+259,2024-01-29 07:39:10,Poblacion,"['Sore Throat', 'Cough', 'Headache', 'Fatigue']",10-19,4
+260,2024-01-29 09:45:22,San Isidro,"['Sore Throat', 'Joint Pain', 'Mild Bleeding']",50-59,3
+261,2024-01-29 11:08:48,San Vicente,"['Vomiting', 'Muscle Pain', 'Joint Pain', 'Fever']",10-19,2
+262,2024-01-29 13:19:22,San Aquilino,['Cough'],50-59,0
+263,2024-01-29 18:16:17,Paclasan,"['Fever', 'Rash', 'Fatigue', 'Diarrhea', 'Retro-orbital Pain', 'Headache']",20-29,4
+264,2024-01-29 22:35:03,San Jose,"['Joint Pain', 'Diarrhea', 'Fever', 'Cough', 'Fatigue', 'Sore Throat']",50-59,1
+265,2024-01-30 01:02:12,Odiong,"['Headache', 'Runny Nose', 'Vomiting']",0-9,0
+266,2024-01-30 02:22:47,Little Tanauan,"['Diarrhea', 'Sore Throat', 'Fatigue', 'Runny Nose', 'Cough']",30-39,1
+267,2024-01-30 02:41:10,San Miguel,['Diarrhea'],20-29,3
+268,2024-01-30 03:01:11,Paclasan,"['Runny Nose', 'Sore Throat', 'Retro-orbital Pain', 'Fatigue', 'Muscle Pain', 'Cough']",60+,1
+269,2024-01-30 05:11:42,San Vicente,"['Cough', 'Rash', 'Nausea', 'Sore Throat', 'Vomiting']",50-59,0
+270,2024-01-30 06:09:30,Maraska,"['Headache', 'Cough', 'Diarrhea']",0-9,3
+271,2024-01-30 11:02:08,San Vicente,"['Sore Throat', 'Joint Pain', 'Headache']",30-39,3
+272,2024-01-30 18:06:26,Happy Valley,"['Cough', 'Runny Nose', 'Nausea', 'Fever', 'Vomiting', 'Headache']",40-49,0
+273,2024-01-30 19:32:19,San Mariano,"['Muscle Pain', 'Sore Throat', 'Diarrhea', 'Fatigue', 'Fever', 'Nausea']",30-39,4
+274,2024-01-30 20:24:21,Bagumbayan,"['Fatigue', 'Headache']",50-59,4
+275,2024-01-31 03:11:33,San Aquilino,"['Nausea', 'Headache', 'Cough']",40-49,0
+276,2024-01-31 03:21:24,Victoria,"['Diarrhea', 'Fatigue', 'Runny Nose', 'Sore Throat']",10-19,1
+277,2024-01-31 04:19:58,Maraska,"['Cough', 'Diarrhea', 'Rash', 'Fatigue', 'Vomiting', 'Retro-orbital Pain']",10-19,4
+278,2024-01-31 06:30:50,Paclasan,"['Fatigue', 'Sore Throat', 'Runny Nose', 'Retro-orbital Pain']",0-9,4
+279,2024-01-31 08:33:28,Happy Valley,"['Diarrhea', 'Fatigue', 'Cough', 'Runny Nose']",0-9,1
+280,2024-01-31 09:07:18,Poblacion,"['Sore Throat', 'Runny Nose', 'Rash', 'Cough', 'Vomiting', 'Mild Bleeding']",0-9,0
+281,2024-01-31 12:11:46,Libertad,"['Diarrhea', 'Runny Nose', 'Headache', 'Cough', 'Retro-orbital Pain']",50-59,0
+282,2024-01-31 16:20:32,Little Tanauan,"['Joint Pain', 'Fatigue', 'Fever', 'Diarrhea', 'Sore Throat']",20-29,4
+283,2024-01-31 17:39:23,San Aquilino,"['Mild Bleeding', 'Vomiting', 'Muscle Pain', 'Nausea', 'Headache', 'Fever', 'Runny Nose', 'Joint Pain', 'Rash', 'Retro-orbital Pain']",60+,2
+284,2024-01-31 18:34:03,Libtong,"['Fatigue', 'Sore Throat', 'Retro-orbital Pain', 'Diarrhea']",60+,4
+285,2024-01-31 18:43:41,San Isidro,"['Rash', 'Fatigue', 'Mild Bleeding', 'Runny Nose', 'Cough']",0-9,0
+286,2024-01-31 19:21:16,San Miguel,['Fatigue'],60+,4
+287,2024-02-01 04:35:09,Cantil,"['Fever', 'Runny Nose', 'Cough', 'Diarrhea', 'Joint Pain']",20-29,0
+288,2024-02-01 05:05:41,Dangay,"['Fatigue', 'Cough', 'Rash', 'Mild Bleeding', 'Runny Nose', 'Sore Throat']",60+,1
+289,2024-02-01 08:18:39,Dangay,"['Runny Nose', 'Mild Bleeding', 'Retro-orbital Pain']",0-9,0
+290,2024-02-01 11:24:54,Little Tanauan,"['Cough', 'Fatigue', 'Sore Throat']",20-29,4
+291,2024-02-02 02:19:36,San Isidro,"['Fatigue', 'Mild Bleeding', 'Cough', 'Runny Nose', 'Vomiting']",50-59,0
+292,2024-02-02 09:16:52,Dangay,"['Diarrhea', 'Runny Nose', 'Muscle Pain', 'Fatigue', 'Sore Throat']",60+,1
+293,2024-02-02 12:45:01,Happy Valley,"['Diarrhea', 'Cough', 'Fatigue', 'Sore Throat']",20-29,1
+294,2024-02-02 14:43:36,Bagumbayan,"['Runny Nose', 'Muscle Pain', 'Fatigue']",20-29,4
+295,2024-02-02 15:47:39,Happy Valley,"['Vomiting', 'Cough', 'Muscle Pain', 'Mild Bleeding', 'Headache', 'Fever', 'Diarrhea', 'Fatigue']",20-29,2
+296,2024-02-02 15:56:57,San Rafael,"['Sore Throat', 'Diarrhea', 'Rash', 'Vomiting', 'Fatigue', 'Cough']",20-29,1
+297,2024-02-02 17:09:07,Cantil,"['Fatigue', 'Runny Nose', 'Sore Throat', 'Diarrhea']",40-49,1
+298,2024-02-02 18:02:10,Paclasan,"['Cough', 'Fever', 'Runny Nose']",60+,0
+299,2024-02-02 18:51:12,Victoria,"['Runny Nose', 'Sore Throat']",30-39,0
+300,2024-02-02 20:32:13,San Mariano,"['Vomiting', 'Fatigue', 'Sore Throat', 'Nausea']",50-59,4
+301,2024-02-02 21:41:20,Libtong,"['Fatigue', 'Nausea', 'Cough', 'Sore Throat', 'Runny Nose']",50-59,1
+302,2024-02-02 22:31:01,San Jose,"['Cough', 'Retro-orbital Pain']",30-39,0
+303,2024-02-03 00:11:47,Odiong,"['Fatigue', 'Diarrhea', 'Cough']",50-59,4
+304,2024-02-03 05:46:06,Maraska,"['Sore Throat', 'Runny Nose', 'Fatigue', 'Muscle Pain']",10-19,4
+305,2024-02-03 09:52:34,Libertad,"['Joint Pain', 'Diarrhea', 'Runny Nose', 'Rash', 'Fatigue', 'Cough', 'Sore Throat']",50-59,1
+306,2024-02-03 10:42:43,San Isidro,"['Fatigue', 'Cough', 'Retro-orbital Pain']",30-39,4
+307,2024-02-03 14:53:39,Paclasan,"['Sore Throat', 'Retro-orbital Pain', 'Headache']",10-19,3
+308,2024-02-03 15:35:48,San Mariano,['Runny Nose'],30-39,0
+309,2024-02-03 17:36:03,San Isidro,"['Cough', 'Retro-orbital Pain']",40-49,0
+310,2024-02-03 20:45:28,Maraska,"['Diarrhea', 'Joint Pain']",60+,3
+311,2024-02-04 04:14:31,San Isidro,"['Joint Pain', 'Diarrhea']",30-39,3
+312,2024-02-04 09:09:01,Cantil,"['Joint Pain', 'Sore Throat', 'Cough']",30-39,0
+313,2024-02-04 09:38:50,Libertad,"['Diarrhea', 'Fatigue', 'Nausea', 'Cough', 'Sore Throat', 'Muscle Pain', 'Runny Nose']",10-19,1
+314,2024-02-04 10:57:30,Libertad,"['Diarrhea', 'Joint Pain', 'Fatigue', 'Vomiting']",60+,4
+315,2024-02-04 13:27:29,San Miguel,"['Vomiting', 'Mild Bleeding', 'Sore Throat', 'Runny Nose', 'Cough']",0-9,0
+316,2024-02-04 15:20:56,Maraska,"['Fatigue', 'Fever', 'Retro-orbital Pain']",60+,4
+317,2024-02-04 20:15:49,Victoria,"['Nausea', 'Diarrhea', 'Cough', 'Fatigue', 'Headache', 'Sore Throat']",50-59,1
+318,2024-02-04 20:58:19,Libtong,"['Cough', 'Vomiting', 'Runny Nose', 'Diarrhea']",40-49,0
+319,2024-02-04 22:26:45,Victoria,"['Retro-orbital Pain', 'Diarrhea', 'Fatigue', 'Cough']",60+,4
+320,2024-02-04 22:58:01,San Jose,"['Fatigue', 'Diarrhea', 'Cough']",40-49,4
+321,2024-02-05 04:28:41,San Aquilino,"['Sore Throat', 'Joint Pain']",0-9,3
+322,2024-02-05 06:57:33,Maraska,"['Mild Bleeding', 'Headache', 'Cough']",10-19,0
+323,2024-02-05 10:17:03,San Rafael,"['Fatigue', 'Sore Throat']",0-9,4
+324,2024-02-06 00:31:07,Victoria,"['Cough', 'Vomiting', 'Fever']",10-19,0
+325,2024-02-06 02:14:58,Odiong,"['Nausea', 'Runny Nose', 'Retro-orbital Pain', 'Fatigue']",0-9,4
+326,2024-02-06 03:04:36,Victoria,"['Sore Throat', 'Cough', 'Fatigue', 'Runny Nose']",20-29,1
+327,2024-02-06 04:25:41,San Isidro,"['Fatigue', 'Cough', 'Mild Bleeding', 'Runny Nose', 'Joint Pain', 'Diarrhea', 'Sore Throat']",60+,1
+328,2024-02-06 04:28:20,San Mariano,"['Joint Pain', 'Fever', 'Sore Throat', 'Nausea']",40-49,3
+329,2024-02-06 07:48:38,Victoria,"['Cough', 'Fever', 'Fatigue', 'Diarrhea']",40-49,4
+330,2024-02-06 09:20:53,Happy Valley,"['Diarrhea', 'Headache', 'Nausea']",40-49,3
+331,2024-02-06 10:10:32,Little Tanauan,"['Mild Bleeding', 'Sore Throat', 'Runny Nose', 'Cough']",20-29,0
+332,2024-02-06 10:11:28,San Rafael,"['Nausea', 'Joint Pain', 'Fatigue', 'Muscle Pain']",20-29,4
+333,2024-02-06 11:32:57,Bagumbayan,"['Fatigue', 'Cough', 'Fever', 'Sore Throat', 'Vomiting']",60+,4
+334,2024-02-06 13:07:24,Odiong,"['Fever', 'Mild Bleeding', 'Runny Nose', 'Joint Pain']",30-39,0
+335,2024-02-06 14:34:39,San Jose,"['Runny Nose', 'Muscle Pain', 'Fatigue', 'Nausea', 'Diarrhea', 'Cough', 'Sore Throat']",50-59,1
+336,2024-02-06 16:37:25,San Miguel,"['Nausea', 'Sore Throat', 'Diarrhea']",40-49,3
+337,2024-02-06 17:31:43,Libertad,"['Muscle Pain', 'Vomiting', 'Headache', 'Cough', 'Diarrhea', 'Retro-orbital Pain', 'Mild Bleeding', 'Fever']",10-19,2
+338,2024-02-06 19:06:31,Odiong,"['Cough', 'Sore Throat', 'Fatigue']",10-19,4
+339,2024-02-06 22:22:18,San Miguel,"['Vomiting', 'Runny Nose', 'Fatigue', 'Diarrhea']",30-39,4
+340,2024-02-06 22:41:31,Victoria,"['Mild Bleeding', 'Headache', 'Runny Nose', 'Diarrhea', 'Nausea', 'Joint Pain', 'Cough', 'Fatigue']",0-9,1
+341,2024-02-06 23:09:11,Victoria,"['Fatigue', 'Rash']",40-49,4
+342,2024-02-07 01:55:19,Poblacion,"['Fatigue', 'Diarrhea', 'Cough']",0-9,4
+343,2024-02-07 02:37:33,Poblacion,"['Fever', 'Diarrhea', 'Retro-orbital Pain', 'Nausea', 'Runny Nose']",50-59,3
+344,2024-02-07 06:15:02,Victoria,"['Runny Nose', 'Sore Throat', 'Joint Pain', 'Vomiting', 'Diarrhea', 'Cough']",10-19,1
+345,2024-02-07 08:00:10,Cantil,"['Runny Nose', 'Mild Bleeding', 'Fatigue', 'Diarrhea', 'Joint Pain']",10-19,4
+346,2024-02-07 08:32:53,San Aquilino,"['Fever', 'Rash', 'Cough', 'Diarrhea']",20-29,3
+347,2024-02-07 10:58:05,Paclasan,"['Runny Nose', 'Diarrhea', 'Headache', 'Retro-orbital Pain']",10-19,3
+348,2024-02-07 14:06:22,San Rafael,"['Retro-orbital Pain', 'Diarrhea', 'Headache', 'Rash']",40-49,3
+349,2024-02-07 15:33:08,Maraska,"['Runny Nose', 'Joint Pain', 'Diarrhea', 'Cough', 'Sore Throat', 'Muscle Pain', 'Fatigue']",0-9,1
+350,2024-02-07 17:14:17,San Vicente,"['Diarrhea', 'Runny Nose', 'Fatigue', 'Sore Throat']",20-29,1
+351,2024-02-07 17:44:09,Paclasan,"['Diarrhea', 'Sore Throat', 'Headache']",0-9,3
+352,2024-02-07 20:09:44,San Mariano,"['Muscle Pain', 'Cough', 'Runny Nose']",60+,0
+353,2024-02-08 00:36:43,Victoria,"['Nausea', 'Joint Pain', 'Mild Bleeding', 'Sore Throat']",20-29,3
+354,2024-02-08 00:39:39,Poblacion,"['Sore Throat', 'Cough', 'Runny Nose', 'Fatigue', 'Diarrhea']",30-39,1
+355,2024-02-08 00:40:47,San Rafael,"['Sore Throat', 'Rash', 'Cough', 'Nausea']",20-29,0
+356,2024-02-08 00:41:00,Libtong,"['Runny Nose', 'Cough', 'Headache', 'Muscle Pain']",20-29,0
+357,2024-02-08 02:59:02,Libertad,['Runny Nose'],30-39,0
+358,2024-02-08 05:48:57,San Aquilino,"['Cough', 'Joint Pain', 'Diarrhea']",40-49,3
+359,2024-02-08 06:04:29,Odiong,"['Runny Nose', 'Fever', 'Sore Throat', 'Fatigue', 'Diarrhea', 'Nausea']",30-39,1
+360,2024-02-08 06:48:51,Little Tanauan,"['Runny Nose', 'Rash', 'Muscle Pain']",60+,0
+361,2024-02-08 07:04:23,Odiong,"['Sore Throat', 'Cough', 'Fatigue', 'Fever', 'Headache']",20-29,4
+362,2024-02-08 08:42:03,Libertad,"['Runny Nose', 'Sore Throat', 'Joint Pain', 'Cough']",40-49,0
+363,2024-02-08 08:57:15,Little Tanauan,['Fatigue'],40-49,4
+364,2024-02-08 09:29:55,Victoria,"['Diarrhea', 'Sore Throat', 'Nausea', 'Mild Bleeding', 'Cough']",10-19,3
+365,2024-02-08 12:31:28,San Mariano,"['Diarrhea', 'Fever', 'Runny Nose', 'Fatigue', 'Cough', 'Sore Throat']",0-9,1
+366,2024-02-08 21:59:29,San Isidro,"['Rash', 'Diarrhea', 'Sore Throat', 'Cough', 'Fatigue']",60+,1
+367,2024-02-09 07:13:03,San Jose,"['Cough', 'Runny Nose', 'Fatigue', 'Retro-orbital Pain', 'Sore Throat']",50-59,1
+368,2024-02-09 11:13:45,Victoria,"['Runny Nose', 'Fatigue', 'Diarrhea']",60+,4
+369,2024-02-09 12:12:01,San Aquilino,"['Nausea', 'Cough', 'Joint Pain', 'Rash']",40-49,0
+370,2024-02-09 17:59:21,Odiong,"['Sore Throat', 'Mild Bleeding', 'Runny Nose', 'Joint Pain', 'Diarrhea', 'Cough', 'Fatigue']",60+,1
+371,2024-02-09 22:27:27,Odiong,"['Sore Throat', 'Fever']",30-39,3
+372,2024-02-10 01:40:32,San Rafael,"['Cough', 'Runny Nose']",60+,0
+373,2024-02-10 03:25:52,San Aquilino,"['Runny Nose', 'Headache', 'Cough', 'Fever']",60+,0
+374,2024-02-10 10:41:13,San Mariano,"['Cough', 'Vomiting']",20-29,0
+375,2024-02-10 19:01:21,Odiong,"['Diarrhea', 'Nausea', 'Fever']",30-39,3
+376,2024-02-10 21:41:58,San Vicente,"['Cough', 'Fatigue']",50-59,4
+377,2024-02-11 01:17:03,San Vicente,"['Cough', 'Joint Pain', 'Mild Bleeding']",50-59,0
+378,2024-02-11 01:52:06,Libertad,"['Fatigue', 'Fever']",10-19,4
+379,2024-02-11 03:29:56,Maraska,"['Fever', 'Fatigue', 'Rash']",40-49,4
+380,2024-02-11 03:53:13,San Vicente,"['Fatigue', 'Diarrhea', 'Sore Throat', 'Runny Nose']",50-59,1
+381,2024-02-11 09:38:04,San Rafael,"['Runny Nose', 'Muscle Pain', 'Diarrhea', 'Sore Throat', 'Mild Bleeding', 'Nausea']",20-29,3
+382,2024-02-11 13:58:09,Libtong,"['Mild Bleeding', 'Fatigue']",20-29,4
+383,2024-02-11 16:31:45,Happy Valley,"['Rash', 'Muscle Pain', 'Retro-orbital Pain', 'Fatigue']",50-59,4
+384,2024-02-11 18:32:42,Libtong,"['Retro-orbital Pain', 'Fever', 'Fatigue', 'Sore Throat', 'Rash', 'Muscle Pain', 'Diarrhea']",40-49,4
+385,2024-02-11 18:41:02,Libertad,"['Sore Throat', 'Diarrhea', 'Runny Nose', 'Fatigue', 'Cough']",20-29,1
+386,2024-02-12 02:37:16,Happy Valley,"['Fever', 'Fatigue', 'Diarrhea', 'Mild Bleeding', 'Retro-orbital Pain', 'Runny Nose', 'Vomiting']",0-9,4
+387,2024-02-12 02:39:26,Libertad,"['Diarrhea', 'Cough', 'Runny Nose', 'Sore Throat']",30-39,1
+388,2024-02-12 03:16:56,Odiong,"['Diarrhea', 'Cough', 'Fatigue', 'Muscle Pain']",40-49,4
+389,2024-02-12 03:44:16,Libertad,"['Fatigue', 'Mild Bleeding', 'Retro-orbital Pain']",20-29,4
+390,2024-02-12 09:40:21,San Vicente,"['Fatigue', 'Fever', 'Diarrhea']",0-9,4
+391,2024-02-12 17:00:33,San Jose,"['Retro-orbital Pain', 'Sore Throat', 'Vomiting', 'Cough', 'Rash', 'Fever', 'Diarrhea']",60+,3
+392,2024-02-12 18:36:51,Happy Valley,"['Runny Nose', 'Sore Throat', 'Mild Bleeding', 'Fever']",60+,0
+393,2024-02-12 21:49:47,Odiong,"['Cough', 'Mild Bleeding', 'Rash', 'Vomiting', 'Retro-orbital Pain', 'Fatigue', 'Headache', 'Nausea', 'Fever']",50-59,2
+394,2024-02-12 22:27:32,Victoria,"['Diarrhea', 'Sore Throat', 'Fever', 'Retro-orbital Pain', 'Cough']",60+,3
+395,2024-02-13 06:34:49,San Aquilino,['Diarrhea'],50-59,3
+396,2024-02-13 09:19:56,Libertad,"['Mild Bleeding', 'Rash', 'Fatigue', 'Diarrhea', 'Cough', 'Runny Nose', 'Nausea', 'Joint Pain']",60+,1
+397,2024-02-13 09:34:56,San Rafael,"['Headache', 'Cough', 'Sore Throat', 'Diarrhea', 'Runny Nose', 'Joint Pain', 'Fatigue']",60+,1
+398,2024-02-13 16:20:32,Paclasan,"['Diarrhea', 'Sore Throat', 'Nausea', 'Retro-orbital Pain']",20-29,3
+399,2024-02-13 16:34:02,Libtong,"['Diarrhea', 'Fatigue', 'Sore Throat', 'Nausea']",10-19,4
+400,2024-02-13 17:27:34,San Miguel,"['Nausea', 'Mild Bleeding', 'Diarrhea']",20-29,3
+401,2024-02-13 17:36:54,San Isidro,"['Diarrhea', 'Headache', 'Retro-orbital Pain', 'Nausea']",20-29,3
+402,2024-02-13 18:50:37,San Vicente,"['Nausea', 'Vomiting', 'Cough', 'Rash', 'Fatigue']",60+,4
+403,2024-02-13 19:38:20,Libtong,"['Diarrhea', 'Sore Throat', 'Fever', 'Fatigue', 'Rash']",40-49,4
+404,2024-02-13 22:44:52,Libtong,"['Cough', 'Mild Bleeding', 'Headache', 'Muscle Pain', 'Fatigue']",60+,4
+405,2024-02-13 23:16:14,Libtong,"['Sore Throat', 'Fatigue', 'Runny Nose', 'Diarrhea', 'Cough']",60+,1
+406,2024-02-14 02:19:21,Bagumbayan,"['Sore Throat', 'Diarrhea', 'Cough']",0-9,3
+407,2024-02-14 02:48:08,San Aquilino,"['Headache', 'Runny Nose', 'Fever', 'Sore Throat', 'Cough', 'Muscle Pain']",60+,0
+408,2024-02-14 02:58:20,Odiong,"['Rash', 'Cough', 'Fatigue', 'Diarrhea', 'Sore Throat', 'Runny Nose', 'Vomiting']",50-59,1
+409,2024-02-14 08:34:53,San Rafael,"['Fever', 'Nausea', 'Diarrhea']",60+,3
+410,2024-02-14 19:02:58,Cantil,"['Diarrhea', 'Rash', 'Vomiting', 'Fatigue', 'Cough']",50-59,4
+411,2024-02-14 23:03:42,San Miguel,"['Sore Throat', 'Runny Nose', 'Cough', 'Diarrhea']",10-19,1
+412,2024-02-14 23:09:13,Bagumbayan,"['Retro-orbital Pain', 'Vomiting', 'Muscle Pain', 'Diarrhea']",50-59,3
+413,2024-02-15 00:07:17,Little Tanauan,"['Fever', 'Muscle Pain', 'Rash', 'Mild Bleeding', 'Runny Nose', 'Retro-orbital Pain', 'Vomiting', 'Nausea', 'Joint Pain']",60+,2
+414,2024-02-15 00:23:02,Cantil,"['Fever', 'Retro-orbital Pain', 'Vomiting', 'Rash', 'Joint Pain']",10-19,2
+415,2024-02-15 02:15:37,Victoria,"['Fatigue', 'Muscle Pain', 'Cough', 'Mild Bleeding', 'Sore Throat', 'Runny Nose']",10-19,1
+416,2024-02-15 08:45:29,Odiong,"['Fatigue', 'Runny Nose']",40-49,4
+417,2024-02-15 08:57:35,San Jose,"['Fatigue', 'Fever']",50-59,4
+418,2024-02-15 09:11:51,Libtong,"['Headache', 'Diarrhea', 'Vomiting', 'Joint Pain']",50-59,3
+419,2024-02-15 10:07:01,San Jose,"['Sore Throat', 'Muscle Pain', 'Cough', 'Diarrhea', 'Fatigue', 'Vomiting', 'Runny Nose']",0-9,1
+420,2024-02-15 13:26:33,Happy Valley,"['Sore Throat', 'Diarrhea', 'Runny Nose', 'Cough', 'Headache', 'Fatigue']",30-39,1
+421,2024-02-15 14:37:18,Libtong,"['Sore Throat', 'Cough', 'Diarrhea']",0-9,3
+422,2024-02-15 16:59:12,San Rafael,"['Runny Nose', 'Rash', 'Mild Bleeding', 'Sore Throat', 'Fatigue']",60+,4
+423,2024-02-15 17:11:28,Odiong,"['Fatigue', 'Rash', 'Vomiting', 'Diarrhea', 'Nausea', 'Mild Bleeding']",20-29,4
+424,2024-02-15 17:44:18,Little Tanauan,"['Joint Pain', 'Cough', 'Fatigue', 'Diarrhea', 'Vomiting', 'Retro-orbital Pain']",60+,4
+425,2024-02-15 18:22:36,Dangay,"['Sore Throat', 'Joint Pain']",10-19,3
+426,2024-02-15 19:01:18,San Jose,"['Fatigue', 'Diarrhea', 'Cough', 'Runny Nose']",10-19,1
+427,2024-02-15 19:35:29,San Jose,"['Retro-orbital Pain', 'Headache', 'Fever']",60+,3
+428,2024-02-15 20:26:16,San Miguel,"['Diarrhea', 'Fatigue', 'Cough', 'Fever', 'Runny Nose', 'Sore Throat']",20-29,1
+429,2024-02-16 00:02:34,San Aquilino,"['Diarrhea', 'Runny Nose', 'Fatigue', 'Headache', 'Muscle Pain']",30-39,4
+430,2024-02-16 01:34:26,San Rafael,"['Mild Bleeding', 'Cough', 'Nausea', 'Muscle Pain', 'Fever', 'Joint Pain', 'Sore Throat']",60+,2
+431,2024-02-16 11:52:13,Maraska,"['Retro-orbital Pain', 'Fatigue']",50-59,4
+432,2024-02-16 13:36:35,Libertad,"['Cough', 'Vomiting', 'Muscle Pain']",20-29,0
+433,2024-02-16 14:52:22,Happy Valley,"['Runny Nose', 'Fever', 'Joint Pain']",20-29,0
+434,2024-02-16 17:45:42,San Miguel,"['Nausea', 'Cough', 'Fever', 'Rash', 'Fatigue']",50-59,4
+435,2024-02-17 00:15:56,Paclasan,"['Runny Nose', 'Cough', 'Retro-orbital Pain']",30-39,0
+436,2024-02-17 03:57:30,Libertad,"['Diarrhea', 'Cough', 'Fatigue', 'Mild Bleeding']",20-29,4
+437,2024-02-17 05:24:16,Victoria,"['Fever', 'Diarrhea', 'Mild Bleeding', 'Sore Throat', 'Retro-orbital Pain', 'Muscle Pain', 'Vomiting']",60+,2
+438,2024-02-17 11:20:43,Libtong,"['Fatigue', 'Vomiting', 'Runny Nose', 'Cough', 'Diarrhea', 'Fever', 'Sore Throat']",50-59,1
+439,2024-02-17 13:11:52,San Jose,"['Diarrhea', 'Muscle Pain', 'Fever', 'Sore Throat']",40-49,3
+440,2024-02-17 16:09:06,Little Tanauan,"['Cough', 'Fatigue', 'Mild Bleeding', 'Runny Nose']",20-29,0
+441,2024-02-17 18:54:36,Dangay,"['Fatigue', 'Sore Throat', 'Cough', 'Fever', 'Diarrhea', 'Runny Nose']",50-59,1
+442,2024-02-17 19:27:45,Libtong,"['Vomiting', 'Nausea', 'Fever', 'Joint Pain', 'Mild Bleeding', 'Rash', 'Headache', 'Muscle Pain']",20-29,2
+443,2024-02-17 19:38:47,Cantil,"['Sore Throat', 'Diarrhea', 'Runny Nose', 'Cough']",10-19,1
+444,2024-02-17 23:10:34,Libtong,"['Runny Nose', 'Vomiting', 'Joint Pain', 'Sore Throat']",60+,0
+445,2024-02-17 23:11:22,Maraska,"['Fever', 'Diarrhea', 'Joint Pain']",20-29,3
+446,2024-02-18 01:07:53,San Miguel,"['Cough', 'Fatigue', 'Diarrhea', 'Sore Throat', 'Retro-orbital Pain', 'Mild Bleeding']",0-9,1
+447,2024-02-18 03:33:37,Victoria,"['Runny Nose', 'Mild Bleeding', 'Fatigue', 'Diarrhea', 'Joint Pain', 'Cough', 'Sore Throat']",40-49,1
+448,2024-02-18 06:54:43,Maraska,"['Retro-orbital Pain', 'Sore Throat', 'Runny Nose', 'Fatigue', 'Diarrhea', 'Cough']",50-59,1
+449,2024-02-18 07:27:06,Maraska,"['Retro-orbital Pain', 'Diarrhea', 'Rash', 'Runny Nose', 'Fatigue']",30-39,4
+450,2024-02-18 08:40:08,Odiong,"['Cough', 'Runny Nose', 'Fatigue', 'Fever', 'Nausea']",40-49,0
+451,2024-02-18 10:28:23,Paclasan,"['Headache', 'Rash', 'Sore Throat', 'Diarrhea', 'Runny Nose', 'Cough']",20-29,1
+452,2024-02-18 10:40:40,Paclasan,"['Fatigue', 'Runny Nose', 'Cough', 'Retro-orbital Pain', 'Fever', 'Sore Throat', 'Diarrhea']",50-59,1
+453,2024-02-18 11:19:59,San Isidro,"['Cough', 'Fatigue', 'Muscle Pain', 'Retro-orbital Pain', 'Headache', 'Diarrhea']",30-39,4
+454,2024-02-18 13:06:48,Libertad,"['Runny Nose', 'Headache', 'Fatigue', 'Sore Throat', 'Nausea']",10-19,4
+455,2024-02-18 16:21:35,Poblacion,"['Diarrhea', 'Vomiting', 'Cough', 'Runny Nose']",40-49,0
+456,2024-02-18 18:51:09,Little Tanauan,"['Fatigue', 'Sore Throat', 'Retro-orbital Pain']",50-59,4
+457,2024-02-18 19:45:53,Libertad,"['Runny Nose', 'Diarrhea', 'Cough', 'Fatigue', 'Mild Bleeding', 'Sore Throat', 'Vomiting']",10-19,1
+458,2024-02-18 22:59:38,Libtong,"['Headache', 'Joint Pain', 'Rash', 'Vomiting', 'Nausea', 'Retro-orbital Pain', 'Muscle Pain', 'Fever']",10-19,2
+459,2024-02-19 00:52:55,Cantil,"['Cough', 'Runny Nose', 'Sore Throat', 'Rash']",60+,0
+460,2024-02-19 08:27:37,San Jose,['Sore Throat'],40-49,3
+461,2024-02-19 13:13:33,San Isidro,"['Cough', 'Fever', 'Retro-orbital Pain', 'Nausea']",0-9,0
+462,2024-02-19 13:25:53,Little Tanauan,"['Cough', 'Diarrhea', 'Sore Throat', 'Runny Nose', 'Fatigue']",10-19,1
+463,2024-02-19 14:03:24,Bagumbayan,"['Runny Nose', 'Cough', 'Diarrhea', 'Mild Bleeding', 'Sore Throat']",30-39,1
+464,2024-02-19 16:11:27,San Mariano,"['Cough', 'Fever', 'Muscle Pain', 'Fatigue']",0-9,4
+465,2024-02-19 20:23:52,Victoria,"['Diarrhea', 'Fatigue', 'Fever']",0-9,4
+466,2024-02-19 23:20:21,Dangay,"['Diarrhea', 'Cough', 'Runny Nose', 'Sore Throat', 'Fatigue']",10-19,1
+467,2024-02-20 01:52:24,San Mariano,"['Headache', 'Cough', 'Diarrhea', 'Fatigue', 'Nausea', 'Rash']",0-9,4
+468,2024-02-20 05:16:35,San Mariano,"['Fatigue', 'Cough', 'Runny Nose', 'Diarrhea', 'Sore Throat']",30-39,1
+469,2024-02-20 05:51:04,San Miguel,"['Joint Pain', 'Diarrhea', 'Runny Nose', 'Rash']",50-59,3
+470,2024-02-20 10:17:33,San Mariano,"['Muscle Pain', 'Sore Throat', 'Diarrhea', 'Fatigue', 'Cough']",60+,1
+471,2024-02-20 10:42:22,Happy Valley,"['Fatigue', 'Cough']",20-29,4
+472,2024-02-20 12:10:01,San Mariano,"['Fatigue', 'Diarrhea', 'Runny Nose', 'Nausea', 'Retro-orbital Pain', 'Muscle Pain']",40-49,4
+473,2024-02-20 14:10:17,Libertad,"['Nausea', 'Sore Throat', 'Diarrhea']",0-9,3
+474,2024-02-20 16:44:55,Libertad,"['Diarrhea', 'Cough', 'Fatigue']",0-9,4
+475,2024-02-20 17:04:08,Little Tanauan,"['Rash', 'Fever', 'Cough', 'Diarrhea', 'Runny Nose']",20-29,0
+476,2024-02-20 18:03:21,Poblacion,"['Diarrhea', 'Sore Throat', 'Runny Nose', 'Fatigue']",40-49,1
+477,2024-02-20 18:14:35,Happy Valley,"['Sore Throat', 'Runny Nose', 'Fever', 'Cough', 'Headache']",60+,0
+478,2024-02-20 19:07:03,Poblacion,"['Cough', 'Fatigue', 'Diarrhea', 'Muscle Pain']",60+,4
+479,2024-02-20 19:27:15,Odiong,"['Fatigue', 'Rash', 'Diarrhea', 'Sore Throat']",20-29,4
+480,2024-02-20 22:58:51,Maraska,"['Sore Throat', 'Vomiting', 'Mild Bleeding', 'Joint Pain', 'Muscle Pain']",0-9,2
+481,2024-02-21 05:40:35,Maraska,"['Diarrhea', 'Vomiting', 'Retro-orbital Pain', 'Fatigue', 'Joint Pain']",10-19,4
+482,2024-02-21 07:13:57,Poblacion,"['Fever', 'Sore Throat', 'Cough', 'Mild Bleeding', 'Fatigue', 'Runny Nose']",40-49,1
+483,2024-02-21 11:49:36,San Rafael,"['Fatigue', 'Runny Nose', 'Muscle Pain', 'Diarrhea']",60+,4
+484,2024-02-21 13:27:30,San Miguel,"['Runny Nose', 'Fever']",30-39,0
+485,2024-02-21 13:35:08,Libtong,"['Fatigue', 'Rash', 'Diarrhea', 'Joint Pain', 'Retro-orbital Pain', 'Cough']",40-49,4
+486,2024-02-21 13:50:01,San Isidro,"['Cough', 'Diarrhea', 'Sore Throat', 'Nausea', 'Retro-orbital Pain', 'Fatigue', 'Headache']",60+,1
+487,2024-02-21 14:12:26,Little Tanauan,"['Fever', 'Muscle Pain', 'Nausea', 'Runny Nose']",30-39,0
+488,2024-02-21 16:45:09,Maraska,"['Sore Throat', 'Cough', 'Fatigue', 'Retro-orbital Pain']",30-39,4
+489,2024-02-21 18:53:12,Little Tanauan,"['Muscle Pain', 'Mild Bleeding', 'Cough', 'Fever', 'Runny Nose', 'Sore Throat']",30-39,0
+490,2024-02-21 20:11:34,Odiong,"['Cough', 'Nausea', 'Fever', 'Runny Nose', 'Diarrhea', 'Vomiting']",20-29,0
+491,2024-02-21 22:19:25,Libertad,"['Fatigue', 'Mild Bleeding']",10-19,4
+492,2024-02-22 01:20:03,San Isidro,"['Cough', 'Fatigue', 'Fever', 'Diarrhea']",60+,4
+493,2024-02-22 01:29:30,Bagumbayan,"['Vomiting', 'Mild Bleeding', 'Sore Throat', 'Fatigue', 'Runny Nose']",0-9,4
+494,2024-02-22 02:41:30,Odiong,"['Runny Nose', 'Sore Throat', 'Diarrhea', 'Fatigue']",20-29,1
+495,2024-02-22 03:43:33,Maraska,"['Cough', 'Sore Throat', 'Joint Pain', 'Fatigue', 'Fever']",60+,4
+496,2024-02-22 04:02:33,Libertad,"['Diarrhea', 'Sore Throat', 'Runny Nose', 'Joint Pain', 'Fatigue']",40-49,1
+497,2024-02-22 06:20:52,San Isidro,"['Vomiting', 'Fatigue', 'Cough', 'Rash', 'Runny Nose']",30-39,0
+498,2024-02-22 07:52:20,Libertad,"['Runny Nose', 'Nausea', 'Sore Throat', 'Muscle Pain', 'Cough', 'Diarrhea']",20-29,1
+499,2024-02-22 11:41:59,San Isidro,"['Sore Throat', 'Retro-orbital Pain', 'Fever', 'Mild Bleeding', 'Diarrhea']",30-39,3
+500,2024-02-22 12:15:29,San Miguel,"['Diarrhea', 'Joint Pain', 'Muscle Pain']",10-19,3
+501,2024-02-22 14:36:11,Libertad,"['Sore Throat', 'Runny Nose', 'Cough', 'Diarrhea', 'Nausea', 'Vomiting']",50-59,1
+502,2024-02-22 16:39:28,Libtong,"['Cough', 'Rash', 'Nausea']",30-39,0
+503,2024-02-22 17:53:54,Maraska,"['Mild Bleeding', 'Sore Throat']",50-59,3
+504,2024-02-22 21:50:05,San Jose,"['Cough', 'Mild Bleeding', 'Fever']",30-39,0
+505,2024-02-22 23:44:45,Libtong,"['Runny Nose', 'Joint Pain']",40-49,0
+506,2024-02-23 02:36:39,San Isidro,"['Joint Pain', 'Diarrhea', 'Retro-orbital Pain', 'Cough']",30-39,3
+507,2024-02-23 02:58:09,San Rafael,"['Sore Throat', 'Cough', 'Runny Nose', 'Diarrhea', 'Muscle Pain']",10-19,1
+508,2024-02-23 04:55:51,Bagumbayan,"['Fatigue', 'Cough', 'Runny Nose', 'Sore Throat', 'Diarrhea']",60+,1
+509,2024-02-23 05:12:52,Paclasan,['Diarrhea'],60+,3
+510,2024-02-23 07:55:04,San Vicente,"['Sore Throat', 'Fatigue', 'Runny Nose', 'Diarrhea', 'Cough']",50-59,1
+511,2024-02-23 09:17:45,Poblacion,"['Vomiting', 'Fever', 'Diarrhea']",0-9,3
+512,2024-02-23 09:56:39,San Jose,"['Cough', 'Fever', 'Fatigue', 'Rash', 'Joint Pain']",30-39,4
+513,2024-02-23 13:14:05,Little Tanauan,"['Diarrhea', 'Nausea', 'Runny Nose']",50-59,3
+514,2024-02-23 16:06:10,San Mariano,"['Fatigue', 'Runny Nose', 'Cough', 'Diarrhea', 'Vomiting', 'Sore Throat']",20-29,1
+515,2024-02-23 16:18:51,San Mariano,"['Diarrhea', 'Retro-orbital Pain', 'Fever', 'Rash', 'Mild Bleeding', 'Nausea', 'Fatigue', 'Runny Nose']",10-19,4
+516,2024-02-24 00:24:11,San Vicente,"['Cough', 'Fatigue', 'Rash']",20-29,4
+517,2024-02-24 02:19:28,Poblacion,"['Fever', 'Fatigue']",30-39,4
+518,2024-02-24 02:42:20,Poblacion,"['Runny Nose', 'Nausea', 'Fatigue', 'Sore Throat', 'Diarrhea']",50-59,1
+519,2024-02-24 03:10:12,San Jose,"['Nausea', 'Sore Throat', 'Mild Bleeding', 'Diarrhea', 'Fatigue', 'Cough', 'Runny Nose']",20-29,1
+520,2024-02-24 03:34:12,San Isidro,"['Rash', 'Cough']",10-19,0
+521,2024-02-24 23:22:44,San Isidro,"['Muscle Pain', 'Cough', 'Mild Bleeding']",40-49,0
+522,2024-02-25 05:21:16,San Jose,"['Fatigue', 'Joint Pain', 'Vomiting']",40-49,4
+523,2024-02-25 17:32:13,Dangay,"['Diarrhea', 'Runny Nose', 'Fatigue', 'Sore Throat']",40-49,1
+524,2024-02-26 01:05:51,Little Tanauan,"['Rash', 'Headache', 'Sore Throat']",30-39,3
+525,2024-02-26 01:45:25,Maraska,"['Sore Throat', 'Muscle Pain']",0-9,3
+526,2024-02-26 06:25:06,Little Tanauan,"['Diarrhea', 'Runny Nose', 'Sore Throat']",60+,3
+527,2024-02-26 12:35:46,Bagumbayan,"['Joint Pain', 'Diarrhea', 'Retro-orbital Pain', 'Cough']",60+,3
+528,2024-02-26 12:44:26,San Vicente,"['Mild Bleeding', 'Retro-orbital Pain', 'Diarrhea', 'Sore Throat']",40-49,3
+529,2024-02-26 14:45:07,Maraska,['Runny Nose'],30-39,0
+530,2024-02-26 15:50:58,Poblacion,"['Nausea', 'Sore Throat']",0-9,3
+531,2024-02-26 15:54:43,San Vicente,"['Cough', 'Sore Throat', 'Runny Nose', 'Diarrhea', 'Nausea']",50-59,1
+532,2024-02-26 15:57:37,Maraska,"['Nausea', 'Cough']",30-39,0
+533,2024-02-26 16:05:03,Odiong,"['Sore Throat', 'Runny Nose', 'Retro-orbital Pain']",10-19,0
+534,2024-02-26 22:10:06,Victoria,"['Rash', 'Diarrhea', 'Sore Throat', 'Retro-orbital Pain']",10-19,3
+535,2024-02-26 22:57:34,Bagumbayan,"['Sore Throat', 'Retro-orbital Pain', 'Vomiting', 'Runny Nose']",50-59,0
+536,2024-02-27 03:25:54,Little Tanauan,"['Rash', 'Mild Bleeding', 'Headache', 'Sore Throat']",60+,3
+537,2024-02-27 04:57:45,Libertad,['Diarrhea'],20-29,3
+538,2024-02-27 08:01:44,San Jose,"['Nausea', 'Sore Throat', 'Vomiting', 'Fever']",50-59,3
+539,2024-02-27 11:13:09,Maraska,"['Muscle Pain', 'Sore Throat', 'Vomiting', 'Rash']",30-39,3
+540,2024-02-27 11:20:21,Libertad,"['Cough', 'Runny Nose', 'Headache', 'Muscle Pain', 'Rash', 'Fatigue']",60+,0
+541,2024-02-27 13:12:22,Poblacion,"['Fatigue', 'Cough', 'Sore Throat', 'Runny Nose', 'Diarrhea']",20-29,1
+542,2024-02-27 19:21:51,San Vicente,"['Cough', 'Muscle Pain', 'Runny Nose', 'Sore Throat']",20-29,0
+543,2024-02-27 23:13:28,Odiong,['Fatigue'],50-59,4
+544,2024-02-28 00:15:12,Cantil,"['Fatigue', 'Fever', 'Mild Bleeding', 'Cough', 'Sore Throat']",30-39,4
+545,2024-02-28 00:22:15,Happy Valley,"['Fatigue', 'Sore Throat', 'Rash', 'Diarrhea', 'Nausea', 'Headache', 'Runny Nose', 'Mild Bleeding']",50-59,1
+546,2024-02-28 00:44:26,San Mariano,"['Joint Pain', 'Fatigue', 'Mild Bleeding']",40-49,4
+547,2024-02-28 02:05:22,San Miguel,"['Nausea', 'Diarrhea', 'Cough', 'Fatigue']",10-19,4
+548,2024-02-28 05:11:41,San Rafael,"['Diarrhea', 'Nausea']",60+,3
+549,2024-02-28 09:30:06,Poblacion,"['Runny Nose', 'Sore Throat', 'Fever']",40-49,0
+550,2024-02-28 09:34:36,San Miguel,"['Rash', 'Joint Pain', 'Vomiting', 'Fever', 'Headache']",60+,2
+551,2024-02-28 10:42:10,San Vicente,"['Diarrhea', 'Fever', 'Runny Nose']",20-29,3
+552,2024-02-28 11:10:12,San Mariano,"['Rash', 'Diarrhea', 'Muscle Pain', 'Fever', 'Nausea', 'Cough']",60+,3
+553,2024-02-28 12:29:05,Odiong,"['Fatigue', 'Sore Throat', 'Muscle Pain', 'Runny Nose', 'Diarrhea', 'Cough', 'Fever']",20-29,1
+554,2024-02-28 13:48:21,San Mariano,"['Runny Nose', 'Cough', 'Fever', 'Fatigue', 'Sore Throat']",20-29,1
+555,2024-02-28 15:00:13,Odiong,"['Fatigue', 'Vomiting', 'Sore Throat', 'Headache', 'Fever', 'Nausea']",60+,4
+556,2024-02-28 22:56:34,Little Tanauan,"['Fatigue', 'Cough', 'Sore Throat']",20-29,4
+557,2024-02-29 02:04:09,Cantil,"['Sore Throat', 'Retro-orbital Pain', 'Muscle Pain', 'Mild Bleeding', 'Joint Pain']",30-39,3
+558,2024-02-29 12:07:28,Paclasan,"['Vomiting', 'Mild Bleeding', 'Retro-orbital Pain', 'Fever', 'Diarrhea']",40-49,3
+559,2024-02-29 13:29:20,San Jose,"['Nausea', 'Muscle Pain', 'Headache', 'Runny Nose', 'Sore Throat', 'Joint Pain', 'Cough', 'Diarrhea']",30-39,1
+560,2024-02-29 15:46:05,Paclasan,"['Fatigue', 'Joint Pain']",0-9,4
+561,2024-02-29 17:02:44,San Jose,"['Fatigue', 'Sore Throat', 'Diarrhea', 'Runny Nose', 'Cough']",10-19,1
+562,2024-02-29 17:08:02,Cantil,"['Retro-orbital Pain', 'Sore Throat', 'Runny Nose', 'Cough', 'Fatigue', 'Diarrhea', 'Mild Bleeding']",20-29,1
+563,2024-03-01 03:58:52,Paclasan,['Runny Nose'],0-9,0
+564,2024-03-01 05:05:21,Dangay,"['Sore Throat', 'Rash', 'Retro-orbital Pain', 'Mild Bleeding', 'Fever', 'Runny Nose', 'Vomiting']",50-59,2
+565,2024-03-01 06:10:34,Dangay,"['Muscle Pain', 'Sore Throat', 'Joint Pain', 'Cough', 'Mild Bleeding', 'Vomiting', 'Runny Nose', 'Fever']",0-9,2
+566,2024-03-01 09:03:44,Odiong,"['Mild Bleeding', 'Cough']",20-29,0
+567,2024-03-01 09:51:54,Paclasan,"['Retro-orbital Pain', 'Runny Nose', 'Rash']",10-19,0
+568,2024-03-01 10:48:35,Dangay,"['Retro-orbital Pain', 'Diarrhea']",10-19,3
+569,2024-03-01 13:07:55,Dangay,"['Fatigue', 'Rash', 'Nausea', 'Retro-orbital Pain', 'Mild Bleeding', 'Fever', 'Muscle Pain', 'Vomiting', 'Headache', 'Joint Pain']",10-19,2
+570,2024-03-01 20:11:49,Cantil,"['Fatigue', 'Sore Throat', 'Cough']",40-49,4
+571,2024-03-01 20:59:38,Paclasan,"['Fatigue', 'Fever', 'Runny Nose', 'Muscle Pain', 'Diarrhea']",0-9,4
+572,2024-03-01 21:04:22,Bagumbayan,"['Fatigue', 'Rash', 'Headache', 'Diarrhea']",30-39,4
+573,2024-03-01 21:15:55,Victoria,"['Nausea', 'Mild Bleeding', 'Runny Nose', 'Cough', 'Sore Throat', 'Diarrhea', 'Fatigue']",0-9,1
+574,2024-03-02 01:41:52,Libertad,"['Runny Nose', 'Sore Throat', 'Fatigue', 'Cough', 'Diarrhea']",40-49,1
+575,2024-03-02 03:25:39,San Vicente,"['Cough', 'Rash', 'Headache']",60+,0
+576,2024-03-02 04:36:14,Libertad,"['Sore Throat', 'Rash', 'Diarrhea', 'Vomiting']",20-29,3
+577,2024-03-02 07:07:01,San Rafael,"['Joint Pain', 'Sore Throat', 'Muscle Pain']",10-19,3
+578,2024-03-02 12:15:15,Dangay,"['Retro-orbital Pain', 'Fever', 'Muscle Pain', 'Cough', 'Headache', 'Diarrhea', 'Sore Throat']",30-39,3
+579,2024-03-02 13:07:53,Libtong,"['Mild Bleeding', 'Diarrhea', 'Joint Pain', 'Runny Nose', 'Fatigue']",10-19,4
+580,2024-03-02 18:12:42,Dangay,"['Vomiting', 'Retro-orbital Pain', 'Headache', 'Fever', 'Joint Pain', 'Mild Bleeding', 'Diarrhea', 'Nausea', 'Rash']",10-19,2
+581,2024-03-02 21:51:56,Dangay,"['Mild Bleeding', 'Rash', 'Fever', 'Nausea', 'Headache', 'Sore Throat', 'Joint Pain']",10-19,2
+582,2024-03-03 03:40:17,San Mariano,"['Fatigue', 'Nausea', 'Cough', 'Headache', 'Diarrhea']",10-19,4
+583,2024-03-03 04:15:59,Dangay,"['Sore Throat', 'Vomiting', 'Muscle Pain', 'Retro-orbital Pain', 'Runny Nose', 'Nausea', 'Cough', 'Fever']",20-29,2
+584,2024-03-03 04:52:43,Maraska,"['Rash', 'Diarrhea', 'Mild Bleeding', 'Sore Throat']",40-49,3
+585,2024-03-03 05:47:41,Dangay,"['Rash', 'Joint Pain', 'Muscle Pain', 'Nausea', 'Fever', 'Runny Nose', 'Sore Throat']",30-39,2
+586,2024-03-03 06:43:09,Dangay,"['Muscle Pain', 'Cough', 'Fever', 'Diarrhea', 'Headache', 'Runny Nose', 'Joint Pain']",40-49,0
+587,2024-03-03 17:08:24,Dangay,"['Fatigue', 'Runny Nose', 'Sore Throat', 'Diarrhea', 'Cough']",30-39,1
+588,2024-03-03 18:26:18,Dangay,"['Muscle Pain', 'Nausea', 'Fever', 'Sore Throat']",10-19,3
+589,2024-03-03 22:45:32,San Mariano,"['Muscle Pain', 'Runny Nose', 'Mild Bleeding', 'Fever']",50-59,0
+590,2024-03-04 07:06:46,Cantil,"['Runny Nose', 'Cough', 'Mild Bleeding']",30-39,0
+591,2024-03-04 07:46:03,San Miguel,"['Muscle Pain', 'Sore Throat', 'Diarrhea']",0-9,3
+592,2024-03-05 02:38:30,San Jose,"['Joint Pain', 'Diarrhea', 'Rash', 'Runny Nose']",0-9,3
+593,2024-03-05 03:23:46,Dangay,"['Mild Bleeding', 'Retro-orbital Pain', 'Fever', 'Sore Throat', 'Joint Pain', 'Diarrhea', 'Fatigue']",50-59,4
+594,2024-03-05 03:53:41,Poblacion,"['Cough', 'Diarrhea', 'Sore Throat']",50-59,3
+595,2024-03-05 08:45:15,Victoria,"['Rash', 'Headache', 'Fever', 'Diarrhea', 'Fatigue']",50-59,4
+596,2024-03-05 17:29:00,Dangay,"['Sore Throat', 'Headache', 'Joint Pain', 'Rash', 'Fever', 'Mild Bleeding', 'Diarrhea', 'Vomiting', 'Nausea']",50-59,2
+597,2024-03-05 19:24:33,San Vicente,"['Cough', 'Mild Bleeding']",60+,0
+598,2024-03-05 19:52:46,Odiong,"['Fatigue', 'Runny Nose', 'Diarrhea', 'Sore Throat', 'Cough']",0-9,1
+599,2024-03-06 03:09:38,Happy Valley,"['Headache', 'Diarrhea', 'Retro-orbital Pain']",30-39,3
+600,2024-03-06 05:48:35,Dangay,"['Fatigue', 'Fever', 'Joint Pain', 'Cough', 'Rash', 'Runny Nose']",60+,0
+601,2024-03-06 11:09:39,Dangay,"['Runny Nose', 'Sore Throat', 'Fatigue', 'Headache', 'Vomiting', 'Fever', 'Rash']",60+,4
+602,2024-03-06 17:16:45,Victoria,"['Nausea', 'Rash', 'Joint Pain', 'Fever']",30-39,2
+603,2024-03-06 17:42:59,Dangay,"['Fever', 'Joint Pain', 'Retro-orbital Pain', 'Headache', 'Muscle Pain', 'Sore Throat']",10-19,2
+604,2024-03-06 23:59:59,Dangay,"['Nausea', 'Fever', 'Rash', 'Joint Pain', 'Runny Nose', 'Headache']",0-9,2
+605,2024-03-07 00:29:19,Dangay,"['Joint Pain', 'Fever', 'Muscle Pain', 'Headache', 'Vomiting']",10-19,2
+606,2024-03-07 00:58:00,Bagumbayan,"['Fatigue', 'Joint Pain', 'Runny Nose', 'Fever', 'Rash']",40-49,4
+607,2024-03-07 05:47:51,Dangay,"['Headache', 'Nausea', 'Joint Pain', 'Fever', 'Rash']",0-9,2
+608,2024-03-07 06:23:30,Victoria,"['Runny Nose', 'Headache', 'Sore Throat', 'Mild Bleeding', 'Fever']",0-9,0
+609,2024-03-07 13:40:51,San Isidro,"['Mild Bleeding', 'Runny Nose', 'Headache', 'Fatigue', 'Fever', 'Joint Pain', 'Nausea']",10-19,2
+610,2024-03-07 16:35:54,Dangay,"['Sore Throat', 'Nausea', 'Fever', 'Headache', 'Fatigue']",60+,4
+611,2024-03-07 22:38:23,Dangay,"['Nausea', 'Muscle Pain', 'Cough', 'Rash', 'Sore Throat', 'Runny Nose']",30-39,0
+612,2024-03-08 03:29:05,Dangay,"['Cough', 'Fever', 'Retro-orbital Pain', 'Diarrhea']",10-19,3
+613,2024-03-08 05:53:07,San Isidro,"['Muscle Pain', 'Sore Throat', 'Fatigue', 'Diarrhea']",20-29,4
+614,2024-03-08 09:40:32,San Jose,"['Cough', 'Headache', 'Retro-orbital Pain', 'Muscle Pain', 'Vomiting', 'Sore Throat']",60+,0
+615,2024-03-08 13:34:03,Cantil,"['Fever', 'Sore Throat', 'Cough', 'Diarrhea', 'Rash']",20-29,3
+616,2024-03-08 17:55:43,San Aquilino,['Sore Throat'],10-19,3
+617,2024-03-08 18:07:23,San Isidro,"['Mild Bleeding', 'Joint Pain', 'Fever', 'Headache', 'Vomiting']",20-29,2
+618,2024-03-08 18:56:02,San Miguel,['Fatigue'],40-49,4
+619,2024-03-08 19:56:36,San Miguel,"['Diarrhea', 'Sore Throat', 'Headache', 'Mild Bleeding', 'Fever', 'Joint Pain']",10-19,3
+620,2024-03-09 01:30:57,Dangay,"['Headache', 'Joint Pain', 'Runny Nose', 'Vomiting', 'Sore Throat', 'Mild Bleeding', 'Fever']",60+,2
+621,2024-03-09 02:39:22,Paclasan,"['Fever', 'Retro-orbital Pain', 'Vomiting', 'Rash', 'Cough', 'Headache', 'Nausea', 'Mild Bleeding']",30-39,2
+622,2024-03-09 03:10:04,Dangay,"['Cough', 'Vomiting', 'Fever', 'Retro-orbital Pain', 'Rash', 'Muscle Pain', 'Fatigue']",0-9,2
+623,2024-03-09 03:34:30,Dangay,"['Vomiting', 'Headache', 'Fever', 'Rash', 'Muscle Pain']",60+,2
+624,2024-03-09 07:26:01,Dangay,"['Muscle Pain', 'Runny Nose', 'Retro-orbital Pain', 'Diarrhea', 'Joint Pain', 'Vomiting', 'Mild Bleeding', 'Headache', 'Nausea', 'Fever']",30-39,2
+625,2024-03-09 10:34:01,Dangay,"['Nausea', 'Runny Nose', 'Headache', 'Joint Pain', 'Fever', 'Muscle Pain', 'Cough']",50-59,2
+626,2024-03-09 10:40:35,Libtong,"['Fatigue', 'Runny Nose', 'Diarrhea', 'Sore Throat', 'Cough']",20-29,1
+627,2024-03-09 18:58:30,San Vicente,"['Runny Nose', 'Retro-orbital Pain']",20-29,0
+628,2024-03-09 21:04:09,San Isidro,"['Nausea', 'Retro-orbital Pain', 'Sore Throat', 'Rash']",40-49,3
+629,2024-03-09 21:42:13,Dangay,"['Joint Pain', 'Retro-orbital Pain', 'Fever', 'Rash', 'Headache']",30-39,2
+630,2024-03-10 00:58:23,Libtong,['Diarrhea'],20-29,3
+631,2024-03-10 01:43:09,Little Tanauan,"['Nausea', 'Muscle Pain', 'Fever', 'Mild Bleeding', 'Diarrhea']",10-19,3
+632,2024-03-10 10:28:35,Dangay,"['Cough', 'Nausea', 'Fatigue', 'Fever', 'Headache']",50-59,4
+633,2024-03-10 10:33:59,San Aquilino,"['Headache', 'Sore Throat', 'Vomiting', 'Mild Bleeding', 'Diarrhea', 'Fatigue', 'Muscle Pain']",40-49,4
+634,2024-03-10 11:04:32,Dangay,"['Diarrhea', 'Runny Nose', 'Fatigue', 'Vomiting', 'Rash', 'Cough']",20-29,1
+635,2024-03-10 13:20:40,Dangay,"['Diarrhea', 'Cough', 'Fever', 'Runny Nose', 'Muscle Pain', 'Nausea', 'Retro-orbital Pain']",60+,0
+636,2024-03-10 17:35:20,Dangay,"['Vomiting', 'Fatigue', 'Runny Nose', 'Muscle Pain', 'Sore Throat', 'Fever']",60+,4
+637,2024-03-10 18:50:16,Dangay,"['Runny Nose', 'Headache', 'Diarrhea', 'Sore Throat', 'Nausea', 'Fever']",0-9,3
+638,2024-03-10 23:23:32,San Aquilino,"['Vomiting', 'Fatigue']",30-39,4
+639,2024-03-11 04:38:35,Little Tanauan,"['Vomiting', 'Rash', 'Joint Pain', 'Headache', 'Mild Bleeding', 'Nausea', 'Fever', 'Muscle Pain']",10-19,2
+640,2024-03-11 08:45:14,San Isidro,"['Fever', 'Cough', 'Mild Bleeding']",50-59,0
+641,2024-03-11 09:36:46,San Aquilino,"['Headache', 'Diarrhea', 'Retro-orbital Pain']",30-39,3
+642,2024-03-11 10:04:51,San Mariano,"['Fatigue', 'Diarrhea', 'Cough', 'Joint Pain', 'Runny Nose']",20-29,1
+643,2024-03-11 10:34:01,Maraska,"['Muscle Pain', 'Diarrhea', 'Joint Pain']",60+,3
+644,2024-03-11 11:34:36,Dangay,"['Muscle Pain', 'Runny Nose', 'Headache', 'Mild Bleeding', 'Joint Pain', 'Retro-orbital Pain', 'Vomiting', 'Rash', 'Fever', 'Cough']",10-19,2
+645,2024-03-11 12:24:30,Dangay,"['Fatigue', 'Cough', 'Fever', 'Nausea', 'Headache', 'Muscle Pain', 'Runny Nose']",50-59,0
+646,2024-03-11 12:52:31,Victoria,"['Retro-orbital Pain', 'Fever', 'Diarrhea', 'Headache', 'Vomiting']",40-49,3
+647,2024-03-11 15:19:41,Dangay,"['Runny Nose', 'Fever', 'Retro-orbital Pain', 'Rash', 'Headache', 'Joint Pain', 'Cough']",30-39,0
+648,2024-03-11 16:27:14,San Isidro,"['Diarrhea', 'Mild Bleeding', 'Sore Throat', 'Cough', 'Fatigue', 'Joint Pain']",40-49,1
+649,2024-03-11 21:55:43,Dangay,"['Vomiting', 'Fever', 'Mild Bleeding', 'Diarrhea', 'Headache']",0-9,3
+650,2024-03-11 22:06:02,Libertad,"['Cough', 'Runny Nose', 'Rash', 'Muscle Pain', 'Sore Throat', 'Mild Bleeding']",0-9,0
+651,2024-03-12 06:18:32,Dangay,"['Mild Bleeding', 'Fever', 'Diarrhea', 'Cough', 'Headache']",60+,3
+652,2024-03-12 07:25:44,Dangay,"['Muscle Pain', 'Fatigue', 'Vomiting', 'Mild Bleeding', 'Fever']",40-49,2
+653,2024-03-12 12:15:12,San Miguel,"['Cough', 'Fatigue', 'Sore Throat', 'Diarrhea', 'Runny Nose']",40-49,1
+654,2024-03-12 14:54:31,San Vicente,"['Fever', 'Joint Pain', 'Rash']",10-19,2
+655,2024-03-12 17:24:22,Bagumbayan,"['Nausea', 'Cough', 'Sore Throat', 'Diarrhea']",20-29,3
+656,2024-03-12 20:10:34,Odiong,"['Sore Throat', 'Vomiting', 'Muscle Pain', 'Diarrhea', 'Nausea']",60+,3
+657,2024-03-13 02:17:52,Dangay,"['Retro-orbital Pain', 'Fever', 'Muscle Pain', 'Vomiting', 'Rash']",60+,2
+658,2024-03-13 02:32:28,Victoria,"['Vomiting', 'Runny Nose', 'Nausea', 'Fever', 'Cough']",40-49,0
+659,2024-03-13 04:20:14,Little Tanauan,"['Sore Throat', 'Cough']",50-59,0
+660,2024-03-13 06:36:38,Dangay,"['Nausea', 'Muscle Pain', 'Sore Throat', 'Fever', 'Runny Nose']",0-9,0
+661,2024-03-13 15:11:15,Dangay,"['Fever', 'Headache', 'Diarrhea', 'Vomiting', 'Joint Pain']",50-59,3
+662,2024-03-13 16:24:30,Dangay,"['Cough', 'Fever', 'Retro-orbital Pain']",10-19,0
+663,2024-03-13 17:36:58,Libtong,"['Nausea', 'Diarrhea']",30-39,3
+664,2024-03-14 02:01:57,San Mariano,"['Diarrhea', 'Mild Bleeding', 'Sore Throat']",0-9,3
+665,2024-03-14 02:09:53,San Aquilino,"['Sore Throat', 'Fatigue', 'Cough', 'Rash', 'Runny Nose', 'Vomiting']",30-39,1
+666,2024-03-14 05:36:27,Happy Valley,"['Runny Nose', 'Fatigue']",20-29,4
+667,2024-03-14 06:29:41,Libtong,"['Fatigue', 'Diarrhea', 'Sore Throat', 'Cough']",10-19,1
+668,2024-03-14 09:36:04,San Jose,"['Diarrhea', 'Fatigue', 'Vomiting', 'Runny Nose']",0-9,4
+669,2024-03-14 11:23:09,Maraska,"['Diarrhea', 'Sore Throat', 'Runny Nose', 'Fatigue', 'Cough']",40-49,1
+670,2024-03-14 11:36:54,Cantil,"['Sore Throat', 'Retro-orbital Pain', 'Joint Pain', 'Runny Nose', 'Mild Bleeding', 'Cough', 'Fatigue']",30-39,1
+671,2024-03-14 14:37:23,Dangay,"['Fever', 'Muscle Pain', 'Diarrhea', 'Sore Throat', 'Nausea']",0-9,3
+672,2024-03-14 14:53:05,Maraska,"['Cough', 'Runny Nose']",40-49,0
+673,2024-03-14 15:51:31,Dangay,"['Retro-orbital Pain', 'Runny Nose', 'Joint Pain', 'Rash', 'Nausea', 'Fever', 'Mild Bleeding', 'Muscle Pain']",30-39,2
+674,2024-03-14 15:52:19,San Miguel,"['Mild Bleeding', 'Diarrhea']",30-39,3
+675,2024-03-14 16:57:23,Dangay,"['Fever', 'Sore Throat', 'Retro-orbital Pain', 'Nausea', 'Fatigue', 'Cough']",60+,4
+676,2024-03-14 18:08:08,Libertad,"['Cough', 'Diarrhea', 'Runny Nose', 'Sore Throat']",30-39,1
+677,2024-03-14 22:47:26,San Isidro,"['Fatigue', 'Headache']",10-19,4
+678,2024-03-15 00:09:06,Dangay,"['Mild Bleeding', 'Fever', 'Retro-orbital Pain', 'Muscle Pain', 'Rash', 'Cough', 'Joint Pain']",10-19,2
+679,2024-03-15 01:10:07,San Miguel,"['Headache', 'Fatigue', 'Rash']",60+,4
+680,2024-03-15 05:17:08,Cantil,['Runny Nose'],40-49,0
+681,2024-03-15 05:36:09,San Mariano,"['Retro-orbital Pain', 'Cough']",20-29,0
+682,2024-03-15 07:53:24,Dangay,"['Retro-orbital Pain', 'Vomiting', 'Fever', 'Cough', 'Runny Nose']",50-59,0
+683,2024-03-15 08:59:12,Dangay,"['Headache', 'Cough', 'Rash', 'Fatigue', 'Fever', 'Joint Pain']",50-59,4
+684,2024-03-15 09:21:57,Dangay,"['Muscle Pain', 'Fever', 'Rash', 'Mild Bleeding', 'Nausea', 'Sore Throat']",30-39,2
+685,2024-03-15 10:57:43,Dangay,"['Retro-orbital Pain', 'Fever', 'Runny Nose', 'Fatigue', 'Rash', 'Sore Throat']",50-59,4
+686,2024-03-15 14:20:03,Bagumbayan,"['Headache', 'Runny Nose', 'Sore Throat', 'Nausea', 'Cough', 'Fatigue']",50-59,1
+687,2024-03-15 14:57:08,Maraska,"['Headache', 'Diarrhea', 'Fever', 'Cough']",10-19,3
+688,2024-03-15 17:55:39,Libtong,"['Cough', 'Vomiting', 'Sore Throat', 'Fever', 'Nausea', 'Fatigue']",10-19,4
+689,2024-03-15 18:34:28,Victoria,"['Fatigue', 'Runny Nose', 'Diarrhea', 'Joint Pain']",50-59,4
+690,2024-03-15 22:52:04,Dangay,"['Runny Nose', 'Retro-orbital Pain', 'Nausea', 'Diarrhea', 'Vomiting', 'Mild Bleeding', 'Headache', 'Joint Pain', 'Muscle Pain', 'Fever']",10-19,2
+691,2024-03-16 01:31:59,San Isidro,"['Fatigue', 'Diarrhea', 'Runny Nose', 'Sore Throat', 'Cough']",50-59,1
+692,2024-03-16 01:57:02,Dangay,"['Fatigue', 'Nausea', 'Rash', 'Vomiting']",20-29,4
+693,2024-03-16 04:34:34,San Vicente,"['Fatigue', 'Fever', 'Joint Pain', 'Rash']",0-9,4
+694,2024-03-16 05:01:37,Happy Valley,"['Cough', 'Sore Throat', 'Runny Nose', 'Fatigue']",10-19,1
+695,2024-03-16 07:17:58,Libertad,"['Vomiting', 'Retro-orbital Pain', 'Nausea', 'Sore Throat', 'Fatigue', 'Headache']",50-59,4
+696,2024-03-16 14:24:00,Dangay,"['Sore Throat', 'Runny Nose', 'Retro-orbital Pain', 'Fever', 'Fatigue']",60+,4
+697,2024-03-16 15:22:57,Dangay,"['Rash', 'Fever', 'Fatigue', 'Retro-orbital Pain', 'Mild Bleeding', 'Cough']",40-49,4
+698,2024-03-16 16:48:15,Maraska,"['Diarrhea', 'Vomiting', 'Cough']",20-29,3
+699,2024-03-16 17:17:15,Dangay,"['Sore Throat', 'Fever', 'Runny Nose', 'Joint Pain', 'Cough', 'Retro-orbital Pain']",60+,0
+700,2024-03-16 17:37:40,Dangay,"['Fatigue', 'Fever', 'Headache', 'Vomiting', 'Mild Bleeding']",60+,4
+701,2024-03-16 23:36:21,Little Tanauan,"['Cough', 'Fatigue', 'Rash', 'Runny Nose', 'Diarrhea', 'Joint Pain', 'Sore Throat']",40-49,1
+702,2024-03-17 08:04:41,Dangay,"['Cough', 'Runny Nose', 'Joint Pain', 'Fatigue', 'Diarrhea', 'Sore Throat', 'Nausea']",30-39,1
+703,2024-03-17 10:12:42,Libtong,"['Muscle Pain', 'Rash', 'Nausea', 'Joint Pain', 'Headache', 'Fever', 'Vomiting', 'Mild Bleeding', 'Retro-orbital Pain', 'Sore Throat', 'Runny Nose']",50-59,2
+704,2024-03-17 14:07:45,San Jose,"['Retro-orbital Pain', 'Mild Bleeding', 'Diarrhea', 'Runny Nose']",60+,3
+705,2024-03-17 15:11:08,Dangay,"['Mild Bleeding', 'Fatigue', 'Runny Nose', 'Fever', 'Rash']",60+,4
+706,2024-03-17 16:11:06,San Aquilino,"['Fatigue', 'Runny Nose', 'Joint Pain', 'Fever']",40-49,4
+707,2024-03-17 17:17:41,San Jose,"['Diarrhea', 'Headache']",40-49,3
+708,2024-03-17 17:54:04,Poblacion,['Runny Nose'],20-29,0
+709,2024-03-17 21:15:26,Poblacion,"['Rash', 'Runny Nose', 'Muscle Pain', 'Fever', 'Vomiting', 'Retro-orbital Pain']",60+,2
+710,2024-03-17 21:54:35,Bagumbayan,['Cough'],50-59,0
+711,2024-03-18 02:58:22,Dangay,"['Mild Bleeding', 'Runny Nose', 'Rash', 'Retro-orbital Pain', 'Fever']",60+,0
+712,2024-03-18 06:00:53,Dangay,"['Muscle Pain', 'Fever', 'Diarrhea', 'Retro-orbital Pain', 'Nausea', 'Vomiting', 'Rash', 'Headache']",50-59,2
+713,2024-03-18 06:19:27,Dangay,"['Mild Bleeding', 'Fever', 'Rash']",60+,3
+714,2024-03-18 06:39:59,San Mariano,"['Diarrhea', 'Sore Throat', 'Retro-orbital Pain']",60+,3
+715,2024-03-18 06:59:11,Dangay,"['Mild Bleeding', 'Sore Throat', 'Rash', 'Fatigue', 'Fever']",60+,4
+716,2024-03-18 09:27:29,Dangay,"['Rash', 'Headache', 'Muscle Pain', 'Vomiting', 'Fever', 'Nausea']",10-19,2
+717,2024-03-18 09:36:01,Dangay,"['Retro-orbital Pain', 'Rash', 'Fever', 'Diarrhea', 'Sore Throat', 'Joint Pain']",60+,3
+718,2024-03-18 10:34:06,Maraska,"['Diarrhea', 'Joint Pain']",10-19,3
+719,2024-03-18 14:19:24,San Vicente,"['Fever', 'Mild Bleeding', 'Headache', 'Rash', 'Runny Nose']",50-59,0
+720,2024-03-18 19:08:30,Dangay,"['Fever', 'Muscle Pain', 'Joint Pain', 'Nausea', 'Retro-orbital Pain', 'Mild Bleeding', 'Vomiting', 'Headache', 'Rash']",40-49,2
+721,2024-03-18 19:20:23,Dangay,"['Mild Bleeding', 'Sore Throat', 'Fever', 'Joint Pain', 'Retro-orbital Pain', 'Fatigue', 'Muscle Pain', 'Rash']",0-9,2
+722,2024-03-19 05:16:58,Dangay,"['Retro-orbital Pain', 'Runny Nose']",0-9,0
+723,2024-03-19 05:54:25,Dangay,"['Mild Bleeding', 'Cough', 'Fever', 'Runny Nose', 'Fatigue', 'Muscle Pain']",50-59,0
+724,2024-03-19 12:01:15,Dangay,"['Muscle Pain', 'Mild Bleeding', 'Fever']",60+,3
+725,2024-03-19 13:10:41,Odiong,"['Vomiting', 'Muscle Pain', 'Rash', 'Nausea', 'Headache', 'Fever', 'Mild Bleeding']",30-39,2
+726,2024-03-19 15:49:29,Dangay,"['Vomiting', 'Retro-orbital Pain', 'Sore Throat', 'Mild Bleeding', 'Rash', 'Fever', 'Muscle Pain', 'Headache', 'Fatigue', 'Joint Pain']",10-19,2
+727,2024-03-19 18:59:17,Dangay,"['Mild Bleeding', 'Runny Nose', 'Rash', 'Cough', 'Fever', 'Diarrhea']",0-9,0
+728,2024-03-19 20:25:55,Dangay,"['Nausea', 'Diarrhea', 'Sore Throat', 'Headache', 'Retro-orbital Pain']",20-29,3
+729,2024-03-19 23:19:48,Maraska,"['Diarrhea', 'Runny Nose', 'Cough', 'Sore Throat']",10-19,1
+730,2024-03-20 00:20:27,Dangay,"['Muscle Pain', 'Nausea', 'Fever', 'Vomiting', 'Joint Pain', 'Retro-orbital Pain', 'Headache', 'Rash']",30-39,2
+731,2024-03-20 02:08:20,Dangay,"['Rash', 'Fever', 'Sore Throat', 'Cough', 'Vomiting']",10-19,0
+732,2024-03-20 04:44:35,Dangay,"['Sore Throat', 'Retro-orbital Pain', 'Fever', 'Cough']",40-49,0
+733,2024-03-20 08:28:52,Cantil,"['Runny Nose', 'Cough', 'Fever', 'Diarrhea', 'Vomiting', 'Headache', 'Sore Throat', 'Muscle Pain']",10-19,1
+734,2024-03-20 18:55:05,Paclasan,"['Sore Throat', 'Fatigue', 'Cough', 'Diarrhea', 'Retro-orbital Pain', 'Rash', 'Nausea', 'Muscle Pain']",50-59,1
+735,2024-03-20 23:23:47,Dangay,"['Vomiting', 'Joint Pain', 'Retro-orbital Pain', 'Fever']",50-59,2
+736,2024-03-20 23:33:35,San Vicente,"['Vomiting', 'Fever', 'Retro-orbital Pain', 'Cough', 'Diarrhea', 'Runny Nose']",50-59,0
+737,2024-03-21 01:28:48,San Vicente,"['Joint Pain', 'Vomiting', 'Diarrhea', 'Muscle Pain']",60+,3
+738,2024-03-21 05:37:11,Dangay,"['Fever', 'Joint Pain', 'Mild Bleeding', 'Headache', 'Retro-orbital Pain']",60+,2
+739,2024-03-21 17:12:17,Maraska,"['Cough', 'Fever']",40-49,0
+740,2024-03-21 19:31:08,Dangay,"['Fever', 'Joint Pain', 'Vomiting', 'Headache', 'Fatigue']",10-19,2
+741,2024-03-21 20:13:48,Paclasan,"['Rash', 'Diarrhea', 'Vomiting']",40-49,3
+742,2024-03-21 23:50:59,Dangay,"['Muscle Pain', 'Fever', 'Mild Bleeding', 'Joint Pain', 'Runny Nose']",20-29,2
+743,2024-03-22 01:05:05,Dangay,"['Nausea', 'Joint Pain', 'Vomiting', 'Muscle Pain', 'Fever', 'Retro-orbital Pain']",0-9,2
+744,2024-03-22 04:29:29,Dangay,"['Retro-orbital Pain', 'Headache', 'Fever', 'Muscle Pain', 'Joint Pain']",10-19,2
+745,2024-03-22 05:19:39,Happy Valley,"['Cough', 'Runny Nose', 'Retro-orbital Pain', 'Muscle Pain', 'Headache', 'Fever']",0-9,0
+746,2024-03-22 22:26:38,San Isidro,"['Fever', 'Retro-orbital Pain', 'Headache', 'Runny Nose', 'Mild Bleeding']",20-29,0
+747,2024-03-23 09:54:27,Dangay,"['Sore Throat', 'Headache', 'Joint Pain', 'Diarrhea', 'Fatigue', 'Fever']",0-9,4
+748,2024-03-23 11:45:57,San Miguel,"['Fever', 'Vomiting', 'Cough', 'Headache']",30-39,0
+749,2024-03-23 20:33:14,San Jose,"['Diarrhea', 'Retro-orbital Pain', 'Cough']",50-59,3
+750,2024-03-23 23:11:18,Dangay,"['Sore Throat', 'Retro-orbital Pain', 'Vomiting', 'Runny Nose']",0-9,0
+751,2024-03-23 23:59:21,Dangay,"['Headache', 'Rash', 'Joint Pain', 'Nausea', 'Vomiting', 'Mild Bleeding', 'Muscle Pain', 'Fever', 'Cough', 'Retro-orbital Pain']",40-49,2
+752,2024-03-24 00:21:55,Poblacion,"['Vomiting', 'Sore Throat', 'Headache']",30-39,3
+753,2024-03-24 03:55:53,Dangay,"['Diarrhea', 'Retro-orbital Pain', 'Mild Bleeding', 'Nausea']",0-9,3
+754,2024-03-24 05:47:30,Dangay,"['Nausea', 'Joint Pain', 'Runny Nose', 'Headache', 'Sore Throat', 'Retro-orbital Pain', 'Rash']",60+,2
+755,2024-03-24 08:07:45,San Aquilino,"['Retro-orbital Pain', 'Headache', 'Fever', 'Nausea', 'Diarrhea']",50-59,3
+756,2024-03-24 10:13:01,Dangay,"['Fatigue', 'Nausea', 'Sore Throat', 'Vomiting', 'Fever', 'Joint Pain', 'Headache', 'Mild Bleeding']",60+,2
+757,2024-03-24 10:21:04,Dangay,"['Sore Throat', 'Vomiting', 'Nausea', 'Joint Pain', 'Fever']",0-9,2
+758,2024-03-24 15:14:39,Dangay,"['Mild Bleeding', 'Fever', 'Sore Throat', 'Vomiting', 'Fatigue', 'Headache', 'Retro-orbital Pain']",40-49,2
+759,2024-03-24 15:51:27,Maraska,"['Mild Bleeding', 'Fatigue', 'Rash']",30-39,4
+760,2024-03-24 22:58:57,Dangay,"['Fever', 'Cough', 'Joint Pain', 'Headache', 'Muscle Pain', 'Retro-orbital Pain']",0-9,2
+761,2024-03-24 23:58:08,Poblacion,"['Retro-orbital Pain', 'Fatigue', 'Diarrhea', 'Headache', 'Cough', 'Nausea']",60+,4
+762,2024-03-25 02:35:58,Happy Valley,"['Sore Throat', 'Fatigue', 'Diarrhea', 'Cough']",30-39,1
+763,2024-03-25 04:16:08,Cantil,"['Diarrhea', 'Headache', 'Runny Nose']",60+,3
+764,2024-03-25 11:39:18,Happy Valley,"['Sore Throat', 'Fatigue', 'Nausea', 'Cough', 'Headache', 'Vomiting']",60+,4
+765,2024-03-25 13:59:38,Libtong,"['Fatigue', 'Vomiting', 'Diarrhea', 'Headache', 'Sore Throat', 'Muscle Pain']",10-19,4
+766,2024-03-25 20:56:13,Happy Valley,"['Sore Throat', 'Mild Bleeding', 'Cough', 'Fatigue']",20-29,4
+767,2024-03-25 21:24:09,Libertad,"['Fever', 'Runny Nose', 'Cough']",40-49,0
+768,2024-03-25 23:21:39,San Miguel,"['Sore Throat', 'Runny Nose']",20-29,0
+769,2024-03-26 02:50:12,San Mariano,"['Diarrhea', 'Sore Throat', 'Fever', 'Joint Pain']",40-49,3
+770,2024-03-26 03:29:55,San Mariano,"['Rash', 'Fever', 'Fatigue']",40-49,4
+771,2024-03-26 03:33:38,Little Tanauan,"['Fatigue', 'Headache', 'Diarrhea', 'Muscle Pain']",20-29,4
+772,2024-03-26 04:49:39,Odiong,"['Retro-orbital Pain', 'Runny Nose', 'Sore Throat', 'Fatigue', 'Cough', 'Rash', 'Diarrhea']",30-39,1
+773,2024-03-26 05:10:15,San Miguel,"['Fatigue', 'Diarrhea', 'Rash']",0-9,4
+774,2024-03-26 09:02:49,Libtong,"['Vomiting', 'Diarrhea']",60+,3
+775,2024-03-26 11:33:51,San Mariano,"['Cough', 'Sore Throat', 'Joint Pain', 'Diarrhea']",60+,3
+776,2024-03-26 11:34:28,San Jose,"['Retro-orbital Pain', 'Rash', 'Headache', 'Runny Nose', 'Fatigue', 'Nausea', 'Joint Pain', 'Fever']",40-49,2
+777,2024-03-26 14:07:35,San Vicente,"['Mild Bleeding', 'Fever', 'Sore Throat', 'Vomiting']",50-59,3
+778,2024-03-26 15:30:19,Bagumbayan,"['Retro-orbital Pain', 'Runny Nose', 'Muscle Pain']",50-59,0
+779,2024-03-26 21:15:07,Cantil,"['Muscle Pain', 'Runny Nose', 'Fatigue', 'Vomiting', 'Cough']",30-39,0
+780,2024-03-26 21:44:07,Bagumbayan,"['Diarrhea', 'Fever']",40-49,3
+781,2024-03-27 01:24:37,Dangay,"['Retro-orbital Pain', 'Fever', 'Runny Nose']",40-49,0
+782,2024-03-27 08:26:40,Odiong,"['Joint Pain', 'Runny Nose', 'Diarrhea', 'Sore Throat', 'Fatigue', 'Mild Bleeding']",10-19,1
+783,2024-03-27 09:12:48,San Rafael,"['Diarrhea', 'Runny Nose', 'Joint Pain']",30-39,3
+784,2024-03-27 12:47:00,San Vicente,"['Cough', 'Rash', 'Joint Pain', 'Sore Throat', 'Retro-orbital Pain']",50-59,0
+785,2024-03-27 18:13:23,Little Tanauan,"['Diarrhea', 'Sore Throat']",10-19,3
+786,2024-03-27 21:52:17,San Jose,"['Cough', 'Fatigue', 'Retro-orbital Pain', 'Runny Nose']",30-39,0
+787,2024-03-27 22:06:45,Little Tanauan,"['Fever', 'Rash', 'Joint Pain', 'Headache', 'Retro-orbital Pain', 'Nausea', 'Mild Bleeding', 'Diarrhea', 'Muscle Pain', 'Vomiting']",40-49,2
+788,2024-03-28 00:29:37,Bagumbayan,"['Runny Nose', 'Joint Pain', 'Cough']",50-59,0
+789,2024-03-28 03:47:10,Victoria,"['Cough', 'Sore Throat', 'Vomiting', 'Diarrhea', 'Fatigue']",50-59,1
+790,2024-03-28 03:53:44,Cantil,"['Mild Bleeding', 'Muscle Pain', 'Diarrhea', 'Runny Nose']",0-9,3
+791,2024-03-28 04:03:38,Victoria,"['Fever', 'Runny Nose', 'Headache', 'Fatigue']",0-9,4
+792,2024-03-28 06:48:31,San Jose,"['Diarrhea', 'Retro-orbital Pain', 'Rash', 'Runny Nose']",30-39,3
+793,2024-03-28 16:24:40,Poblacion,"['Cough', 'Rash', 'Runny Nose', 'Diarrhea', 'Sore Throat', 'Fatigue']",10-19,1
+794,2024-03-28 16:34:11,Odiong,"['Muscle Pain', 'Nausea', 'Sore Throat']",50-59,3
+795,2024-03-28 18:18:35,Happy Valley,"['Runny Nose', 'Cough', 'Nausea']",10-19,0
+796,2024-03-28 21:20:52,Victoria,"['Cough', 'Fatigue', 'Diarrhea', 'Runny Nose', 'Sore Throat']",30-39,1
+797,2024-03-28 22:03:06,Maraska,"['Sore Throat', 'Headache', 'Cough', 'Mild Bleeding']",10-19,0
+798,2024-03-28 23:24:38,Odiong,"['Joint Pain', 'Cough', 'Runny Nose']",50-59,0
+799,2024-03-29 01:55:02,Libertad,"['Diarrhea', 'Headache', 'Runny Nose', 'Fatigue', 'Sore Throat']",40-49,1
+800,2024-03-29 03:05:51,Cantil,"['Cough', 'Sore Throat', 'Fatigue', 'Runny Nose']",60+,1
+801,2024-03-29 05:12:58,Libertad,"['Runny Nose', 'Fatigue', 'Diarrhea', 'Sore Throat', 'Cough', 'Mild Bleeding']",30-39,1
+802,2024-03-29 06:18:03,Little Tanauan,"['Rash', 'Runny Nose', 'Headache', 'Retro-orbital Pain', 'Vomiting', 'Mild Bleeding', 'Joint Pain', 'Nausea', 'Muscle Pain', 'Fever']",0-9,2
+803,2024-03-29 08:13:02,San Isidro,"['Fatigue', 'Diarrhea']",50-59,4
+804,2024-03-29 09:32:07,Poblacion,"['Cough', 'Headache', 'Diarrhea']",40-49,3
+805,2024-03-29 11:21:03,Cantil,"['Retro-orbital Pain', 'Runny Nose', 'Cough', 'Headache']",10-19,0
+806,2024-03-29 14:18:58,Little Tanauan,"['Sore Throat', 'Muscle Pain', 'Headache', 'Nausea']",40-49,3
+807,2024-03-29 16:50:58,Odiong,"['Joint Pain', 'Diarrhea']",50-59,3
+808,2024-03-29 23:16:43,San Rafael,"['Runny Nose', 'Vomiting', 'Fever', 'Joint Pain']",50-59,0
+809,2024-03-30 05:45:37,Maraska,"['Muscle Pain', 'Fatigue', 'Runny Nose']",50-59,4
+810,2024-03-30 06:31:34,Odiong,"['Headache', 'Cough']",30-39,0
+811,2024-03-30 06:34:19,Little Tanauan,"['Rash', 'Runny Nose', 'Nausea', 'Headache', 'Mild Bleeding', 'Fever', 'Vomiting', 'Muscle Pain']",0-9,2
+812,2024-03-30 08:51:23,San Aquilino,"['Sore Throat', 'Runny Nose', 'Fatigue', 'Headache', 'Diarrhea', 'Cough']",20-29,1
+813,2024-03-30 09:31:41,Odiong,"['Runny Nose', 'Fever']",50-59,0
+814,2024-03-30 11:01:26,San Vicente,"['Retro-orbital Pain', 'Fatigue', 'Fever', 'Cough']",30-39,4
+815,2024-03-30 14:28:55,Poblacion,"['Cough', 'Diarrhea']",10-19,3
+816,2024-03-30 17:02:58,San Aquilino,"['Fever', 'Diarrhea', 'Muscle Pain', 'Runny Nose']",60+,3
+817,2024-03-30 17:10:24,Odiong,"['Nausea', 'Joint Pain', 'Headache', 'Diarrhea', 'Retro-orbital Pain', 'Cough', 'Sore Throat', 'Fever']",60+,3
+818,2024-03-31 08:19:56,Maraska,"['Fatigue', 'Mild Bleeding', 'Vomiting', 'Fever']",60+,4
+819,2024-03-31 10:12:36,Cantil,"['Cough', 'Headache', 'Vomiting', 'Fatigue', 'Fever']",10-19,4
+820,2024-03-31 11:22:23,Dangay,"['Retro-orbital Pain', 'Nausea', 'Fever', 'Mild Bleeding', 'Cough', 'Vomiting']",0-9,2
+821,2024-03-31 15:52:49,San Vicente,"['Cough', 'Fever', 'Runny Nose', 'Diarrhea', 'Fatigue', 'Muscle Pain']",0-9,1
+822,2024-03-31 22:34:17,Dangay,"['Fatigue', 'Runny Nose', 'Retro-orbital Pain', 'Muscle Pain', 'Mild Bleeding', 'Cough', 'Vomiting']",20-29,0
+823,2024-04-01 09:31:19,San Jose,"['Diarrhea', 'Sore Throat', 'Vomiting', 'Fatigue', 'Cough', 'Runny Nose']",20-29,1
+824,2024-04-01 10:16:45,San Isidro,"['Runny Nose', 'Rash', 'Vomiting', 'Diarrhea']",10-19,3
+825,2024-04-01 11:45:26,Dangay,"['Cough', 'Fatigue', 'Rash', 'Sore Throat']",50-59,4
+826,2024-04-01 13:17:51,Cantil,"['Muscle Pain', 'Fatigue', 'Vomiting', 'Runny Nose', 'Diarrhea']",60+,4
+827,2024-04-01 18:25:47,Little Tanauan,"['Cough', 'Sore Throat', 'Vomiting', 'Fever', 'Fatigue']",40-49,4
+828,2024-04-01 20:12:57,San Rafael,"['Diarrhea', 'Runny Nose']",10-19,3
+829,2024-04-02 01:34:56,San Mariano,"['Headache', 'Nausea', 'Sore Throat', 'Runny Nose', 'Muscle Pain', 'Mild Bleeding', 'Retro-orbital Pain', 'Vomiting', 'Fever', 'Rash']",0-9,2
+830,2024-04-02 02:11:16,San Aquilino,"['Fatigue', 'Sore Throat', 'Runny Nose', 'Cough']",60+,1
+831,2024-04-02 08:16:06,Cantil,"['Nausea', 'Fatigue', 'Muscle Pain', 'Diarrhea', 'Rash', 'Joint Pain', 'Sore Throat', 'Cough']",30-39,1
+832,2024-04-02 14:11:15,Maraska,"['Sore Throat', 'Mild Bleeding']",50-59,3
+833,2024-04-02 14:59:53,Little Tanauan,"['Runny Nose', 'Rash', 'Fatigue']",10-19,4
+834,2024-04-02 18:52:56,Paclasan,"['Sore Throat', 'Rash', 'Nausea', 'Fatigue', 'Cough', 'Muscle Pain']",20-29,4
+835,2024-04-02 19:25:52,San Isidro,"['Cough', 'Runny Nose', 'Fatigue']",60+,0
+836,2024-04-03 05:31:48,San Rafael,"['Sore Throat', 'Joint Pain']",10-19,3
+837,2024-04-03 05:48:46,Maraska,"['Diarrhea', 'Muscle Pain', 'Fever', 'Nausea']",50-59,3
+838,2024-04-03 08:23:28,San Miguel,"['Diarrhea', 'Fever', 'Cough', 'Rash']",30-39,3
+839,2024-04-03 10:45:45,San Jose,"['Runny Nose', 'Fatigue', 'Diarrhea', 'Muscle Pain', 'Nausea']",40-49,4
+840,2024-04-03 12:32:31,Little Tanauan,"['Diarrhea', 'Fatigue', 'Retro-orbital Pain', 'Sore Throat', 'Cough']",60+,1
+841,2024-04-03 13:01:19,San Mariano,"['Fever', 'Rash', 'Cough', 'Fatigue']",20-29,4
+842,2024-04-03 16:06:17,Poblacion,"['Diarrhea', 'Fatigue', 'Sore Throat', 'Nausea', 'Headache']",0-9,4
+843,2024-04-03 16:09:32,Happy Valley,"['Runny Nose', 'Nausea', 'Diarrhea', 'Fatigue']",50-59,4
+844,2024-04-03 23:15:13,Bagumbayan,"['Runny Nose', 'Diarrhea', 'Sore Throat', 'Fatigue', 'Vomiting', 'Rash', 'Cough']",60+,1
+845,2024-04-04 01:41:29,San Jose,"['Muscle Pain', 'Headache', 'Vomiting', 'Nausea', 'Retro-orbital Pain', 'Fever']",60+,2
+846,2024-04-04 02:38:29,San Miguel,"['Runny Nose', 'Sore Throat', 'Cough', 'Retro-orbital Pain', 'Fatigue']",30-39,1
+847,2024-04-04 05:58:15,Paclasan,"['Diarrhea', 'Nausea', 'Fatigue', 'Runny Nose', 'Cough', 'Sore Throat', 'Fever']",60+,1
+848,2024-04-04 10:18:53,San Aquilino,"['Diarrhea', 'Runny Nose', 'Fatigue', 'Sore Throat', 'Headache', 'Retro-orbital Pain', 'Cough']",30-39,1
+849,2024-04-04 10:41:53,Libertad,"['Rash', 'Muscle Pain', 'Fatigue', 'Joint Pain']",30-39,4
+850,2024-04-04 16:12:26,San Vicente,"['Fever', 'Diarrhea', 'Muscle Pain', 'Fatigue', 'Cough']",20-29,4
+851,2024-04-04 17:12:58,Poblacion,"['Vomiting', 'Fatigue', 'Sore Throat', 'Runny Nose', 'Cough', 'Nausea', 'Diarrhea']",10-19,1
+852,2024-04-04 18:58:02,Maraska,"['Diarrhea', 'Cough', 'Sore Throat', 'Fatigue', 'Runny Nose']",50-59,1
+853,2024-04-04 19:00:17,Paclasan,"['Cough', 'Fatigue', 'Sore Throat', 'Diarrhea', 'Runny Nose']",0-9,1
+854,2024-04-04 20:15:26,San Vicente,"['Cough', 'Runny Nose', 'Fatigue', 'Retro-orbital Pain']",20-29,0
+855,2024-04-05 02:11:49,San Mariano,"['Fatigue', 'Sore Throat', 'Runny Nose', 'Headache', 'Diarrhea', 'Fever', 'Cough']",60+,1
+856,2024-04-05 02:20:49,San Jose,"['Diarrhea', 'Runny Nose', 'Fever', 'Rash', 'Retro-orbital Pain']",10-19,3
+857,2024-04-05 02:30:11,Odiong,"['Sore Throat', 'Nausea', 'Vomiting', 'Diarrhea', 'Joint Pain']",60+,3
+858,2024-04-05 02:34:54,Maraska,"['Sore Throat', 'Cough', 'Fatigue', 'Runny Nose']",50-59,1
+859,2024-04-05 03:15:18,Dangay,"['Runny Nose', 'Retro-orbital Pain', 'Cough', 'Diarrhea', 'Fatigue']",0-9,1
+860,2024-04-05 05:34:17,Bagumbayan,"['Vomiting', 'Cough', 'Joint Pain', 'Fatigue']",60+,4
+861,2024-04-05 07:49:10,Little Tanauan,"['Fatigue', 'Rash']",30-39,4
+862,2024-04-05 10:17:29,Odiong,"['Cough', 'Sore Throat', 'Fatigue', 'Runny Nose', 'Diarrhea']",10-19,1
+863,2024-04-05 13:19:08,Libtong,"['Fatigue', 'Joint Pain', 'Runny Nose', 'Diarrhea']",40-49,4
+864,2024-04-05 15:06:12,San Miguel,"['Diarrhea', 'Headache', 'Fever', 'Cough', 'Joint Pain', 'Fatigue']",0-9,4
+865,2024-04-05 17:22:54,San Rafael,"['Diarrhea', 'Fatigue', 'Joint Pain']",10-19,4
+866,2024-04-06 07:27:16,San Aquilino,"['Rash', 'Nausea', 'Runny Nose', 'Cough', 'Sore Throat']",20-29,0
+867,2024-04-06 10:18:24,Little Tanauan,"['Diarrhea', 'Cough', 'Runny Nose', 'Sore Throat']",20-29,1
+868,2024-04-06 11:56:16,San Mariano,"['Retro-orbital Pain', 'Fatigue', 'Diarrhea', 'Cough', 'Sore Throat', 'Runny Nose', 'Joint Pain']",50-59,1
+869,2024-04-06 15:54:23,Dangay,"['Fatigue', 'Cough', 'Sore Throat', 'Diarrhea', 'Runny Nose']",60+,1
+870,2024-04-06 18:10:34,Dangay,"['Fatigue', 'Headache', 'Joint Pain']",50-59,4
+871,2024-04-06 18:57:06,Paclasan,"['Fatigue', 'Runny Nose', 'Sore Throat', 'Diarrhea']",40-49,1
+872,2024-04-06 22:55:38,Happy Valley,"['Vomiting', 'Joint Pain', 'Sore Throat', 'Rash', 'Fatigue']",0-9,4
+873,2024-04-07 04:11:15,San Rafael,"['Fatigue', 'Runny Nose', 'Diarrhea', 'Sore Throat', 'Cough']",20-29,1
+874,2024-04-07 05:57:42,San Mariano,"['Vomiting', 'Retro-orbital Pain', 'Diarrhea', 'Headache', 'Fatigue']",40-49,4
+875,2024-04-07 13:28:09,San Miguel,"['Headache', 'Vomiting', 'Sore Throat', 'Runny Nose']",20-29,0
+876,2024-04-07 16:55:04,Libertad,"['Diarrhea', 'Muscle Pain', 'Runny Nose', 'Sore Throat', 'Rash']",20-29,3
+877,2024-04-07 21:18:50,Happy Valley,"['Runny Nose', 'Diarrhea', 'Nausea', 'Fatigue']",30-39,4
+878,2024-04-07 23:02:24,San Isidro,"['Rash', 'Sore Throat', 'Headache', 'Runny Nose', 'Retro-orbital Pain', 'Fever']",0-9,0
+879,2024-04-08 05:26:12,Victoria,"['Muscle Pain', 'Diarrhea', 'Cough', 'Fever']",40-49,3
+880,2024-04-08 06:41:10,San Miguel,"['Sore Throat', 'Retro-orbital Pain', 'Nausea', 'Diarrhea']",30-39,3
+881,2024-04-08 07:23:22,Happy Valley,"['Runny Nose', 'Fatigue', 'Fever', 'Diarrhea']",0-9,4
+882,2024-04-08 10:15:42,Libtong,"['Mild Bleeding', 'Runny Nose', 'Sore Throat']",10-19,0
+883,2024-04-08 11:06:56,Libertad,"['Cough', 'Diarrhea', 'Mild Bleeding']",60+,3
+884,2024-04-08 11:41:38,Happy Valley,"['Sore Throat', 'Cough', 'Vomiting', 'Runny Nose', 'Mild Bleeding']",20-29,0
+885,2024-04-08 15:01:31,San Aquilino,['Fatigue'],40-49,4
+886,2024-04-08 18:17:27,Cantil,"['Rash', 'Retro-orbital Pain', 'Runny Nose', 'Fatigue', 'Sore Throat', 'Mild Bleeding']",30-39,4
+887,2024-04-08 18:45:47,Little Tanauan,"['Fatigue', 'Mild Bleeding', 'Joint Pain', 'Rash', 'Runny Nose']",40-49,4
+888,2024-04-08 21:00:44,Odiong,"['Vomiting', 'Sore Throat', 'Diarrhea']",20-29,3
+889,2024-04-09 06:12:35,Little Tanauan,"['Diarrhea', 'Joint Pain', 'Fatigue', 'Runny Nose']",50-59,4
+890,2024-04-09 09:35:02,San Jose,"['Mild Bleeding', 'Nausea', 'Fever', 'Headache', 'Retro-orbital Pain', 'Rash', 'Joint Pain']",0-9,2
+891,2024-04-09 12:19:21,Poblacion,"['Fatigue', 'Retro-orbital Pain', 'Nausea']",30-39,4
+892,2024-04-09 13:20:54,Victoria,"['Muscle Pain', 'Cough', 'Retro-orbital Pain', 'Rash', 'Nausea', 'Fever', 'Runny Nose', 'Joint Pain', 'Mild Bleeding', 'Vomiting']",40-49,2
+893,2024-04-09 14:10:14,Odiong,"['Fatigue', 'Sore Throat', 'Fever', 'Runny Nose', 'Diarrhea', 'Vomiting']",10-19,1
+894,2024-04-09 15:23:20,Dangay,"['Sore Throat', 'Fatigue', 'Headache', 'Diarrhea', 'Rash', 'Vomiting']",10-19,4
+895,2024-04-09 18:53:00,Libtong,"['Runny Nose', 'Diarrhea', 'Fatigue', 'Sore Throat', 'Cough']",40-49,1
+896,2024-04-09 20:55:26,Odiong,"['Cough', 'Rash', 'Fever', 'Headache', 'Runny Nose', 'Diarrhea']",40-49,0
+897,2024-04-10 05:33:36,Happy Valley,"['Diarrhea', 'Cough', 'Sore Throat', 'Runny Nose', 'Fatigue']",30-39,1
+898,2024-04-10 05:52:50,Dangay,"['Sore Throat', 'Muscle Pain', 'Runny Nose', 'Mild Bleeding', 'Rash']",30-39,0
+899,2024-04-10 10:57:44,Poblacion,"['Sore Throat', 'Joint Pain', 'Fatigue']",40-49,4
+900,2024-04-10 14:35:35,Dangay,"['Nausea', 'Vomiting', 'Retro-orbital Pain', 'Mild Bleeding', 'Cough']",40-49,0
+901,2024-04-10 18:39:44,San Rafael,"['Vomiting', 'Diarrhea', 'Mild Bleeding', 'Sore Throat', 'Cough', 'Runny Nose']",60+,1
+902,2024-04-11 02:16:21,Happy Valley,"['Cough', 'Vomiting', 'Runny Nose']",30-39,0
+903,2024-04-11 02:37:29,Happy Valley,"['Diarrhea', 'Retro-orbital Pain', 'Fatigue']",60+,4
+904,2024-04-11 08:28:45,Victoria,"['Rash', 'Runny Nose', 'Fatigue', 'Vomiting', 'Sore Throat', 'Cough', 'Diarrhea']",30-39,1
+905,2024-04-11 09:26:44,Cantil,"['Retro-orbital Pain', 'Muscle Pain', 'Rash', 'Runny Nose']",60+,0
+906,2024-04-11 14:16:55,San Rafael,"['Vomiting', 'Diarrhea', 'Mild Bleeding', 'Fatigue', 'Runny Nose', 'Rash']",10-19,4
+907,2024-04-11 14:47:42,Libertad,"['Cough', 'Mild Bleeding', 'Retro-orbital Pain', 'Nausea', 'Diarrhea']",10-19,3
+908,2024-04-11 20:10:49,San Mariano,"['Mild Bleeding', 'Fatigue']",40-49,4
+909,2024-04-11 22:31:55,Odiong,"['Fever', 'Fatigue']",30-39,4
+910,2024-04-12 02:10:51,San Vicente,"['Diarrhea', 'Retro-orbital Pain', 'Headache', 'Muscle Pain', 'Vomiting']",10-19,3
+911,2024-04-12 13:50:14,Bagumbayan,"['Rash', 'Cough']",50-59,0
+912,2024-04-12 22:18:23,Victoria,"['Diarrhea', 'Runny Nose', 'Cough', 'Fatigue']",30-39,1
+913,2024-04-12 22:29:18,San Rafael,"['Runny Nose', 'Nausea']",0-9,0
+914,2024-04-13 02:08:05,San Miguel,"['Runny Nose', 'Retro-orbital Pain', 'Vomiting']",50-59,0
+915,2024-04-13 08:57:19,San Vicente,"['Diarrhea', 'Sore Throat', 'Headache', 'Muscle Pain', 'Fever', 'Fatigue', 'Cough']",50-59,1
+916,2024-04-13 11:13:51,Odiong,"['Diarrhea', 'Headache']",0-9,3
+917,2024-04-13 12:53:35,Victoria,"['Fever', 'Headache', 'Muscle Pain', 'Vomiting']",30-39,2
+918,2024-04-13 15:48:22,Poblacion,"['Diarrhea', 'Cough', 'Headache', 'Fatigue', 'Sore Throat', 'Runny Nose']",50-59,1
+919,2024-04-13 20:12:21,San Jose,"['Runny Nose', 'Retro-orbital Pain', 'Headache', 'Rash', 'Fatigue']",50-59,4
+920,2024-04-13 21:40:57,Little Tanauan,"['Nausea', 'Cough', 'Joint Pain', 'Sore Throat']",40-49,0
+921,2024-04-13 23:41:49,Little Tanauan,"['Fatigue', 'Cough', 'Runny Nose']",20-29,0
+922,2024-04-14 06:07:51,San Mariano,['Diarrhea'],0-9,3
+923,2024-04-14 06:33:09,San Rafael,"['Runny Nose', 'Diarrhea', 'Fatigue', 'Headache', 'Cough', 'Sore Throat', 'Retro-orbital Pain']",50-59,1
+924,2024-04-14 09:02:51,San Mariano,"['Fatigue', 'Cough', 'Diarrhea', 'Sore Throat', 'Runny Nose']",50-59,1
+925,2024-04-14 09:10:16,Maraska,"['Diarrhea', 'Fatigue', 'Sore Throat', 'Joint Pain']",20-29,4
+926,2024-04-14 11:10:52,Maraska,"['Sore Throat', 'Runny Nose', 'Diarrhea', 'Fatigue', 'Cough']",30-39,1
+927,2024-04-14 12:21:08,San Isidro,"['Headache', 'Fatigue', 'Sore Throat']",20-29,4
+928,2024-04-14 13:42:52,Paclasan,"['Fever', 'Nausea', 'Mild Bleeding', 'Rash', 'Joint Pain', 'Vomiting', 'Sore Throat', 'Muscle Pain', 'Fatigue']",0-9,2
+929,2024-04-14 14:03:08,Poblacion,"['Runny Nose', 'Fever', 'Rash', 'Cough', 'Retro-orbital Pain', 'Mild Bleeding']",40-49,0
+930,2024-04-14 14:33:12,Bagumbayan,"['Muscle Pain', 'Vomiting', 'Joint Pain', 'Diarrhea', 'Fatigue', 'Fever', 'Nausea', 'Headache']",10-19,2
+931,2024-04-14 16:20:40,Dangay,"['Sore Throat', 'Cough', 'Vomiting', 'Runny Nose', 'Fever']",0-9,0
+932,2024-04-14 21:40:22,Libertad,"['Sore Throat', 'Cough', 'Retro-orbital Pain', 'Runny Nose']",50-59,0
+933,2024-04-14 23:04:12,San Isidro,"['Diarrhea', 'Runny Nose', 'Nausea', 'Cough', 'Retro-orbital Pain']",50-59,0
+934,2024-04-15 00:13:59,Libtong,"['Fatigue', 'Joint Pain', 'Diarrhea', 'Cough', 'Runny Nose', 'Sore Throat']",0-9,1
+935,2024-04-15 00:39:43,Bagumbayan,"['Cough', 'Runny Nose', 'Diarrhea']",50-59,0
+936,2024-04-15 01:22:30,Odiong,"['Nausea', 'Sore Throat', 'Cough', 'Fatigue', 'Mild Bleeding', 'Diarrhea', 'Runny Nose']",40-49,1
+937,2024-04-15 04:45:42,Maraska,"['Runny Nose', 'Sore Throat', 'Rash', 'Diarrhea']",50-59,3
+938,2024-04-15 05:03:39,Dangay,"['Fatigue', 'Rash', 'Nausea', 'Muscle Pain', 'Diarrhea', 'Sore Throat']",30-39,4
+939,2024-04-15 05:30:58,Maraska,"['Fever', 'Retro-orbital Pain', 'Runny Nose', 'Nausea', 'Rash', 'Muscle Pain', 'Headache', 'Vomiting', 'Mild Bleeding', 'Joint Pain']",10-19,2
+940,2024-04-15 08:31:18,San Vicente,"['Sore Throat', 'Fever', 'Rash', 'Vomiting']",50-59,3
+941,2024-04-15 10:19:28,Bagumbayan,"['Muscle Pain', 'Sore Throat', 'Joint Pain', 'Cough']",40-49,0
+942,2024-04-15 10:42:22,San Vicente,"['Diarrhea', 'Mild Bleeding', 'Joint Pain']",0-9,3
+943,2024-04-15 11:33:29,Libtong,"['Mild Bleeding', 'Sore Throat', 'Headache']",10-19,3
+944,2024-04-15 12:48:42,Happy Valley,['Cough'],60+,0
+945,2024-04-15 14:59:22,San Aquilino,"['Mild Bleeding', 'Fatigue']",20-29,4
+946,2024-04-15 20:08:30,Victoria,"['Runny Nose', 'Cough', 'Fatigue', 'Sore Throat', 'Diarrhea']",10-19,1
+947,2024-04-15 22:17:26,Cantil,"['Runny Nose', 'Sore Throat', 'Fever', 'Diarrhea', 'Cough', 'Nausea']",60+,1
+948,2024-04-15 22:59:54,San Miguel,"['Fatigue', 'Diarrhea', 'Fever', 'Sore Throat', 'Vomiting', 'Joint Pain', 'Mild Bleeding', 'Headache']",10-19,2
+949,2024-04-16 05:37:17,Odiong,"['Fatigue', 'Sore Throat', 'Runny Nose', 'Diarrhea', 'Cough', 'Muscle Pain', 'Vomiting']",10-19,1
+950,2024-04-16 07:29:56,Little Tanauan,"['Runny Nose', 'Diarrhea', 'Fatigue', 'Sore Throat', 'Cough']",30-39,1
+951,2024-04-16 08:52:38,San Vicente,"['Headache', 'Runny Nose', 'Diarrhea']",20-29,3
+952,2024-04-16 10:27:06,San Mariano,"['Fatigue', 'Vomiting']",10-19,4
+953,2024-04-16 12:37:25,Libertad,"['Mild Bleeding', 'Muscle Pain', 'Runny Nose', 'Sore Throat', 'Fatigue', 'Cough']",50-59,1
+954,2024-04-16 17:07:53,Little Tanauan,"['Diarrhea', 'Muscle Pain', 'Joint Pain']",10-19,3
+955,2024-04-16 18:33:01,Poblacion,"['Cough', 'Mild Bleeding']",40-49,0
+956,2024-04-16 19:27:04,Bagumbayan,"['Muscle Pain', 'Sore Throat']",30-39,3
+957,2024-04-16 20:15:44,Happy Valley,"['Fatigue', 'Joint Pain', 'Sore Throat', 'Fever', 'Vomiting', 'Runny Nose']",60+,4
+958,2024-04-16 23:58:29,Victoria,"['Fatigue', 'Cough', 'Runny Nose', 'Sore Throat', 'Diarrhea']",20-29,1
+959,2024-04-17 02:53:29,San Rafael,"['Fever', 'Runny Nose', 'Rash', 'Diarrhea', 'Sore Throat']",50-59,3
+960,2024-04-17 04:28:11,Maraska,['Diarrhea'],20-29,3
+961,2024-04-17 07:05:00,Libtong,"['Headache', 'Diarrhea', 'Mild Bleeding', 'Cough']",40-49,3
+962,2024-04-17 07:14:44,Little Tanauan,"['Sore Throat', 'Cough', 'Fatigue', 'Runny Nose']",20-29,1
+963,2024-04-17 07:25:59,Little Tanauan,"['Rash', 'Nausea', 'Headache', 'Sore Throat']",20-29,3
+964,2024-04-17 07:56:10,San Aquilino,"['Muscle Pain', 'Runny Nose', 'Diarrhea']",30-39,3
+965,2024-04-17 08:06:27,Happy Valley,"['Rash', 'Diarrhea', 'Mild Bleeding', 'Runny Nose', 'Fever', 'Nausea', 'Cough']",60+,0
+966,2024-04-17 09:08:16,San Rafael,"['Sore Throat', 'Fatigue', 'Headache', 'Diarrhea']",50-59,4
+967,2024-04-17 09:25:48,Little Tanauan,"['Fatigue', 'Muscle Pain', 'Headache', 'Sore Throat', 'Cough']",0-9,4
+968,2024-04-17 10:31:34,San Mariano,"['Fatigue', 'Diarrhea', 'Runny Nose', 'Cough', 'Sore Throat']",40-49,1
+969,2024-04-17 14:26:26,Little Tanauan,"['Nausea', 'Rash', 'Fatigue', 'Cough']",30-39,4
+970,2024-04-17 19:20:53,San Mariano,"['Diarrhea', 'Nausea']",60+,3
+971,2024-04-17 23:54:38,Little Tanauan,"['Fatigue', 'Runny Nose', 'Mild Bleeding', 'Cough']",30-39,0
+972,2024-04-18 01:46:40,Libtong,"['Sore Throat', 'Diarrhea', 'Joint Pain', 'Fever', 'Runny Nose', 'Cough']",40-49,1
+973,2024-04-18 03:02:54,Paclasan,"['Fatigue', 'Runny Nose', 'Muscle Pain', 'Diarrhea', 'Headache', 'Mild Bleeding', 'Fever']",20-29,4
+974,2024-04-18 10:26:35,San Mariano,"['Sore Throat', 'Diarrhea', 'Runny Nose']",10-19,3
+975,2024-04-18 11:47:29,Paclasan,"['Joint Pain', 'Runny Nose', 'Cough', 'Diarrhea', 'Fatigue']",0-9,1
+976,2024-04-18 12:18:09,Cantil,"['Vomiting', 'Sore Throat', 'Headache', 'Diarrhea', 'Runny Nose', 'Fatigue', 'Cough']",0-9,1
+977,2024-04-18 12:30:56,San Jose,"['Rash', 'Fatigue', 'Sore Throat', 'Joint Pain', 'Mild Bleeding']",60+,4
+978,2024-04-18 14:43:36,San Rafael,"['Vomiting', 'Sore Throat', 'Cough']",30-39,0
+979,2024-04-18 16:43:44,Odiong,"['Sore Throat', 'Diarrhea', 'Runny Nose', 'Cough']",40-49,1
+980,2024-04-18 21:53:55,San Rafael,"['Sore Throat', 'Runny Nose', 'Cough']",20-29,0
+981,2024-04-19 00:56:15,Dangay,"['Diarrhea', 'Rash', 'Vomiting', 'Runny Nose']",20-29,3
+982,2024-04-19 02:13:45,Dangay,"['Diarrhea', 'Cough', 'Sore Throat', 'Runny Nose', 'Fatigue']",60+,1
+983,2024-04-19 10:25:28,San Isidro,"['Sore Throat', 'Diarrhea', 'Cough', 'Fatigue']",20-29,1
+984,2024-04-19 13:00:06,San Aquilino,"['Fatigue', 'Retro-orbital Pain', 'Runny Nose', 'Mild Bleeding']",20-29,4
+985,2024-04-19 13:16:33,Dangay,"['Sore Throat', 'Diarrhea', 'Cough', 'Runny Nose', 'Fatigue']",40-49,1
+986,2024-04-19 13:53:50,San Miguel,"['Fatigue', 'Diarrhea', 'Cough', 'Runny Nose']",60+,1
+987,2024-04-19 14:01:35,Victoria,"['Sore Throat', 'Fever', 'Cough', 'Runny Nose']",20-29,0
+988,2024-04-19 19:25:17,Odiong,"['Fatigue', 'Joint Pain', 'Diarrhea', 'Sore Throat', 'Runny Nose', 'Cough']",40-49,1
+989,2024-04-20 04:41:31,San Vicente,"['Mild Bleeding', 'Fatigue', 'Diarrhea', 'Cough', 'Fever', 'Retro-orbital Pain']",60+,4
+990,2024-04-20 06:47:40,San Jose,"['Cough', 'Fatigue', 'Runny Nose', 'Sore Throat']",10-19,1
+991,2024-04-20 07:53:55,Happy Valley,"['Nausea', 'Cough']",10-19,0
+992,2024-04-20 10:50:24,Victoria,"['Runny Nose', 'Diarrhea', 'Joint Pain', 'Cough']",0-9,0
+993,2024-04-20 12:03:04,Maraska,"['Diarrhea', 'Fatigue', 'Sore Throat', 'Cough', 'Nausea']",40-49,1
+994,2024-04-20 15:10:45,Poblacion,"['Runny Nose', 'Sore Throat', 'Fatigue', 'Muscle Pain', 'Joint Pain', 'Cough']",30-39,1
+995,2024-04-20 16:48:28,Libtong,"['Vomiting', 'Nausea', 'Muscle Pain', 'Joint Pain', 'Fever']",0-9,2
+996,2024-04-20 18:02:08,San Aquilino,"['Cough', 'Joint Pain', 'Sore Throat', 'Fever']",20-29,0
+997,2024-04-21 00:11:37,San Mariano,"['Joint Pain', 'Diarrhea', 'Retro-orbital Pain', 'Fatigue', 'Sore Throat']",50-59,4
+998,2024-04-21 01:30:18,Poblacion,"['Fatigue', 'Joint Pain', 'Retro-orbital Pain', 'Fever', 'Diarrhea', 'Runny Nose', 'Mild Bleeding']",50-59,4
+999,2024-04-21 02:22:58,San Isidro,"['Headache', 'Fatigue', 'Runny Nose', 'Retro-orbital Pain', 'Sore Throat']",0-9,4
+1000,2024-04-21 04:25:58,Dangay,"['Rash', 'Sore Throat', 'Headache', 'Fever']",50-59,3
+1001,2024-04-21 06:26:25,Odiong,"['Runny Nose', 'Fever', 'Vomiting', 'Diarrhea']",20-29,3
+1002,2024-04-21 06:46:10,Little Tanauan,"['Cough', 'Runny Nose', 'Diarrhea', 'Sore Throat', 'Fatigue']",50-59,1
+1003,2024-04-21 09:42:49,Victoria,"['Diarrhea', 'Sore Throat', 'Cough', 'Nausea']",30-39,3
+1004,2024-04-21 12:00:00,San Aquilino,"['Sore Throat', 'Diarrhea']",60+,3
+1005,2024-04-21 15:40:36,Poblacion,"['Sore Throat', 'Nausea', 'Cough']",40-49,0
+1006,2024-04-21 18:01:58,San Mariano,"['Sore Throat', 'Headache']",30-39,3
+1007,2024-04-21 23:38:34,Dangay,"['Cough', 'Vomiting', 'Diarrhea', 'Joint Pain', 'Retro-orbital Pain', 'Runny Nose']",60+,0
+1008,2024-04-22 00:10:19,San Aquilino,"['Sore Throat', 'Rash', 'Nausea']",30-39,3
+1009,2024-04-22 02:36:35,Bagumbayan,"['Runny Nose', 'Cough', 'Sore Throat', 'Muscle Pain', 'Retro-orbital Pain', 'Mild Bleeding']",20-29,0
+1010,2024-04-22 04:07:49,Odiong,"['Mild Bleeding', 'Vomiting', 'Fatigue', 'Fever', 'Nausea', 'Diarrhea', 'Joint Pain']",30-39,2
+1011,2024-04-22 05:29:45,Happy Valley,"['Sore Throat', 'Headache', 'Nausea', 'Muscle Pain']",60+,3
+1012,2024-04-22 11:02:51,Libtong,"['Fever', 'Headache', 'Mild Bleeding', 'Vomiting', 'Muscle Pain']",10-19,2
+1013,2024-04-22 17:27:05,Bagumbayan,['Runny Nose'],40-49,0
+1014,2024-04-22 23:26:35,Dangay,"['Diarrhea', 'Fatigue', 'Sore Throat', 'Runny Nose', 'Cough']",10-19,1
+1015,2024-04-23 05:14:00,Odiong,['Sore Throat'],20-29,3
+1016,2024-04-23 10:41:01,Bagumbayan,"['Diarrhea', 'Fatigue', 'Cough', 'Sore Throat', 'Runny Nose']",10-19,1
+1017,2024-04-23 12:14:21,Poblacion,"['Sore Throat', 'Diarrhea', 'Headache']",0-9,3
+1018,2024-04-23 16:00:19,Poblacion,"['Mild Bleeding', 'Fever', 'Sore Throat', 'Rash', 'Diarrhea']",0-9,3
+1019,2024-04-23 16:50:43,Little Tanauan,"['Fever', 'Vomiting', 'Runny Nose', 'Headache', 'Cough', 'Diarrhea', 'Retro-orbital Pain']",0-9,0
+1020,2024-04-23 17:11:17,Poblacion,"['Runny Nose', 'Diarrhea', 'Sore Throat', 'Cough']",60+,1
+1021,2024-04-23 17:35:46,Odiong,"['Fatigue', 'Rash', 'Runny Nose', 'Sore Throat', 'Vomiting', 'Fever']",50-59,4
+1022,2024-04-24 05:03:15,San Rafael,"['Nausea', 'Rash', 'Muscle Pain', 'Vomiting', 'Mild Bleeding', 'Fever', 'Retro-orbital Pain']",0-9,2
+1023,2024-04-24 05:39:06,San Rafael,"['Vomiting', 'Retro-orbital Pain', 'Cough', 'Fatigue']",20-29,4
+1024,2024-04-24 07:37:34,San Aquilino,"['Cough', 'Joint Pain', 'Rash', 'Fatigue', 'Vomiting', 'Runny Nose']",0-9,0
+1025,2024-04-24 08:56:57,Dangay,"['Nausea', 'Cough', 'Vomiting', 'Joint Pain', 'Fatigue', 'Sore Throat']",40-49,4
+1026,2024-04-24 11:33:11,San Aquilino,"['Cough', 'Sore Throat', 'Diarrhea', 'Fatigue', 'Fever', 'Muscle Pain']",0-9,1
+1027,2024-04-24 13:52:56,Maraska,"['Sore Throat', 'Muscle Pain', 'Runny Nose']",20-29,0
+1028,2024-04-24 14:00:29,Cantil,"['Nausea', 'Fever', 'Fatigue', 'Headache']",0-9,4
+1029,2024-04-24 16:58:56,San Vicente,"['Fever', 'Runny Nose', 'Nausea', 'Headache', 'Cough']",20-29,0
+1030,2024-04-24 19:20:24,San Isidro,"['Runny Nose', 'Mild Bleeding']",50-59,0
+1031,2024-04-24 20:08:43,Paclasan,"['Mild Bleeding', 'Sore Throat', 'Cough', 'Nausea', 'Headache']",20-29,0
+1032,2024-04-24 22:56:40,Odiong,"['Diarrhea', 'Vomiting']",30-39,3
+1033,2024-04-24 23:06:23,San Vicente,"['Sore Throat', 'Mild Bleeding', 'Retro-orbital Pain', 'Headache']",20-29,3
+1034,2024-04-24 23:11:51,San Rafael,"['Runny Nose', 'Sore Throat', 'Joint Pain', 'Mild Bleeding']",50-59,0
+1035,2024-04-25 01:37:15,Libtong,"['Diarrhea', 'Sore Throat', 'Cough', 'Runny Nose', 'Fatigue', 'Vomiting', 'Fever']",40-49,1
+1036,2024-04-25 05:41:25,Libertad,"['Sore Throat', 'Headache', 'Fatigue']",0-9,4
+1037,2024-04-25 06:15:08,San Rafael,"['Diarrhea', 'Retro-orbital Pain', 'Vomiting']",40-49,3
+1038,2024-04-25 06:39:16,San Isidro,"['Sore Throat', 'Nausea', 'Joint Pain']",30-39,3
+1039,2024-04-25 08:27:17,Odiong,"['Fatigue', 'Runny Nose', 'Vomiting', 'Retro-orbital Pain', 'Sore Throat', 'Nausea']",10-19,4
+1040,2024-04-25 09:04:15,Maraska,"['Rash', 'Nausea', 'Fever', 'Runny Nose']",20-29,0
+1041,2024-04-25 15:55:19,San Aquilino,"['Retro-orbital Pain', 'Runny Nose', 'Fatigue', 'Cough', 'Sore Throat', 'Vomiting']",0-9,1
+1042,2024-04-25 22:45:24,Happy Valley,"['Fatigue', 'Cough', 'Runny Nose', 'Retro-orbital Pain', 'Sore Throat', 'Fever', 'Diarrhea']",60+,1
+1043,2024-04-25 23:02:40,San Mariano,"['Nausea', 'Headache', 'Sore Throat', 'Diarrhea', 'Mild Bleeding']",0-9,3
+1044,2024-04-26 01:43:40,Libtong,"['Sore Throat', 'Cough', 'Mild Bleeding', 'Fatigue', 'Retro-orbital Pain', 'Runny Nose', 'Diarrhea']",0-9,1
+1045,2024-04-26 02:49:21,Dangay,"['Fatigue', 'Vomiting', 'Sore Throat', 'Rash']",0-9,4
+1046,2024-04-26 04:20:41,Cantil,"['Headache', 'Cough', 'Joint Pain', 'Retro-orbital Pain', 'Nausea', 'Fever', 'Rash']",30-39,2
+1047,2024-04-26 04:37:15,San Aquilino,"['Retro-orbital Pain', 'Runny Nose', 'Fatigue', 'Diarrhea', 'Sore Throat', 'Cough', 'Vomiting']",0-9,1
+1048,2024-04-26 12:20:45,Little Tanauan,"['Nausea', 'Fatigue', 'Sore Throat', 'Cough', 'Joint Pain']",0-9,4
+1049,2024-04-26 16:41:23,San Vicente,"['Diarrhea', 'Joint Pain']",40-49,3
+1050,2024-04-26 18:00:05,San Miguel,"['Runny Nose', 'Diarrhea']",40-49,3
+1051,2024-04-26 21:00:38,Little Tanauan,"['Sore Throat', 'Vomiting', 'Mild Bleeding', 'Joint Pain']",40-49,3
+1052,2024-04-26 22:44:44,San Aquilino,"['Cough', 'Nausea', 'Fever', 'Runny Nose', 'Mild Bleeding', 'Sore Throat']",30-39,0
+1053,2024-04-26 23:48:31,San Aquilino,"['Diarrhea', 'Fatigue', 'Rash', 'Joint Pain', 'Nausea', 'Cough', 'Runny Nose']",50-59,1
+1054,2024-04-27 01:34:19,San Rafael,"['Sore Throat', 'Cough', 'Fatigue', 'Diarrhea']",30-39,1
+1055,2024-04-27 03:44:53,San Isidro,"['Fever', 'Diarrhea']",40-49,3
+1056,2024-04-27 06:37:27,Dangay,"['Cough', 'Joint Pain', 'Fatigue', 'Diarrhea', 'Headache', 'Sore Throat']",50-59,1
+1057,2024-04-27 07:22:41,San Rafael,"['Retro-orbital Pain', 'Diarrhea', 'Fatigue', 'Vomiting', 'Sore Throat']",0-9,4
+1058,2024-04-27 07:26:48,San Vicente,"['Fatigue', 'Diarrhea', 'Runny Nose', 'Rash', 'Cough']",0-9,1
+1059,2024-04-27 07:44:32,San Rafael,"['Joint Pain', 'Diarrhea', 'Fatigue', 'Vomiting', 'Sore Throat']",40-49,4
+1060,2024-04-27 10:33:26,Little Tanauan,"['Muscle Pain', 'Fatigue', 'Cough', 'Runny Nose', 'Nausea']",40-49,0
+1061,2024-04-27 11:24:13,Happy Valley,"['Runny Nose', 'Muscle Pain', 'Sore Throat', 'Fatigue', 'Retro-orbital Pain', 'Headache']",50-59,4
+1062,2024-04-27 11:34:49,San Miguel,"['Cough', 'Runny Nose', 'Retro-orbital Pain', 'Muscle Pain', 'Fever', 'Rash', 'Vomiting', 'Mild Bleeding', 'Headache']",10-19,2
+1063,2024-04-27 12:42:34,San Mariano,"['Fatigue', 'Diarrhea', 'Sore Throat', 'Runny Nose', 'Muscle Pain', 'Cough']",30-39,1
+1064,2024-04-27 12:54:35,Maraska,"['Retro-orbital Pain', 'Sore Throat', 'Vomiting', 'Fever']",30-39,3
+1065,2024-04-27 19:03:32,Dangay,"['Fever', 'Runny Nose', 'Vomiting', 'Mild Bleeding', 'Fatigue']",50-59,4
+1066,2024-04-27 20:09:46,Little Tanauan,"['Diarrhea', 'Fatigue', 'Retro-orbital Pain']",30-39,4
+1067,2024-04-27 20:37:59,Bagumbayan,"['Runny Nose', 'Fatigue', 'Cough', 'Rash', 'Headache', 'Diarrhea']",30-39,1
+1068,2024-04-27 23:14:57,San Jose,"['Sore Throat', 'Fever', 'Runny Nose']",60+,0
+1069,2024-04-27 23:45:08,Happy Valley,"['Fever', 'Mild Bleeding', 'Vomiting', 'Sore Throat', 'Rash']",40-49,2
+1070,2024-04-28 00:54:16,San Vicente,"['Fatigue', 'Joint Pain']",60+,4
+1071,2024-04-28 06:26:15,San Jose,"['Fatigue', 'Cough', 'Nausea', 'Sore Throat']",40-49,4
+1072,2024-04-28 12:17:35,Dangay,"['Mild Bleeding', 'Retro-orbital Pain', 'Diarrhea', 'Fatigue']",50-59,4
+1073,2024-04-28 15:52:38,Dangay,"['Rash', 'Mild Bleeding', 'Fatigue', 'Diarrhea', 'Nausea']",0-9,4
+1074,2024-04-28 15:52:40,Victoria,"['Sore Throat', 'Cough', 'Fever', 'Fatigue', 'Runny Nose', 'Diarrhea']",0-9,1
+1075,2024-04-28 16:12:55,Odiong,"['Runny Nose', 'Sore Throat', 'Diarrhea', 'Fatigue', 'Cough']",50-59,1
+1076,2024-04-28 17:52:14,San Rafael,"['Cough', 'Runny Nose', 'Fatigue']",30-39,0
+1077,2024-04-28 20:13:24,Libtong,"['Runny Nose', 'Diarrhea', 'Mild Bleeding', 'Nausea', 'Retro-orbital Pain', 'Fatigue']",30-39,4
+1078,2024-04-28 20:14:07,Odiong,"['Fatigue', 'Nausea', 'Sore Throat', 'Joint Pain']",40-49,4
+1079,2024-04-28 22:19:26,San Vicente,"['Muscle Pain', 'Cough', 'Diarrhea', 'Vomiting', 'Fatigue']",50-59,4
+1080,2024-04-29 06:45:15,Libertad,"['Headache', 'Cough', 'Sore Throat', 'Fever', 'Nausea']",10-19,0
+1081,2024-04-29 08:50:00,Odiong,"['Sore Throat', 'Cough']",60+,0
+1082,2024-04-29 10:35:52,Libertad,"['Rash', 'Runny Nose']",50-59,0
+1083,2024-04-29 11:52:55,Cantil,"['Sore Throat', 'Retro-orbital Pain', 'Cough', 'Vomiting', 'Runny Nose']",40-49,0
+1084,2024-04-29 12:13:38,San Rafael,"['Headache', 'Sore Throat', 'Rash', 'Mild Bleeding', 'Runny Nose', 'Nausea', 'Fatigue', 'Diarrhea']",20-29,1
+1085,2024-04-29 13:34:25,San Isidro,"['Diarrhea', 'Joint Pain', 'Fever', 'Fatigue', 'Sore Throat', 'Nausea']",60+,4
+1086,2024-04-29 15:02:35,Dangay,"['Fatigue', 'Runny Nose', 'Diarrhea', 'Sore Throat', 'Nausea']",0-9,1
+1087,2024-04-29 17:39:55,Victoria,"['Fatigue', 'Diarrhea']",30-39,4
+1088,2024-04-29 22:51:09,Poblacion,"['Nausea', 'Fever', 'Fatigue', 'Runny Nose', 'Headache']",40-49,4
+1089,2024-04-29 23:25:06,Maraska,"['Fatigue', 'Runny Nose', 'Muscle Pain', 'Sore Throat']",0-9,4
