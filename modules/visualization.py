@@ -4,6 +4,7 @@ Visualization Module for Dengue Outbreak Detection System
 This module provides functions to visualize clustering results and analysis.
 """
 
+import os
 import matplotlib.pyplot as plt
 import seaborn as sns
 import pandas as pd
@@ -11,7 +12,7 @@ import numpy as np
 from collections import Counter
 
 
-def plot_clusters_2d(data, x_col, y_col, cluster_col='cluster', figsize=(10, 8)):
+def plot_clusters_2d(data, x_col, y_col, cluster_col='cluster', figsize=(10, 8), save_path=None):
     """
     Create a 2D scatter plot of clusters
     
@@ -21,6 +22,7 @@ def plot_clusters_2d(data, x_col, y_col, cluster_col='cluster', figsize=(10, 8))
         y_col (str): Column name for y-axis
         cluster_col (str): Column name containing cluster labels
         figsize (tuple): Figure size
+        save_path (str, optional): Path to save the figure. If provided, will save the figure and close it.
         
     Returns:
         matplotlib.figure.Figure: The created figure
@@ -35,10 +37,19 @@ def plot_clusters_2d(data, x_col, y_col, cluster_col='cluster', figsize=(10, 8))
     plt.ylabel(y_col)
     plt.title(f'Cluster Distribution: {x_col} vs {y_col}')
     
+    # Save the figure if a save path is provided
+    if save_path:
+        # Ensure the directory exists
+        os.makedirs(os.path.dirname(save_path), exist_ok=True)
+        # Save the figure
+        plt.savefig(save_path)
+        # Close the figure to free up memory
+        plt.close(fig)
+    
     return fig
 
 
-def plot_cluster_characteristics(cluster_summary, feature_cols=None, figsize=(12, 10)):
+def plot_cluster_characteristics(cluster_summary, feature_cols=None, figsize=(12, 10), save_path=None):
     """
     Create a heatmap of cluster characteristics
     
@@ -46,6 +57,7 @@ def plot_cluster_characteristics(cluster_summary, feature_cols=None, figsize=(12
         cluster_summary (pandas.DataFrame): Cluster characteristics summary
         feature_cols (list): Columns to visualize (if None, use all columns)
         figsize (tuple): Figure size
+        save_path (str, optional): Path to save the figure. If provided, will save the figure and close it.
         
     Returns:
         matplotlib.figure.Figure: The created figure
@@ -69,10 +81,19 @@ def plot_cluster_characteristics(cluster_summary, feature_cols=None, figsize=(12
     plt.title('Cluster Characteristics (Z-score normalized)')
     plt.tight_layout()
     
+    # Save the figure if a save path is provided
+    if save_path:
+        # Ensure the directory exists
+        os.makedirs(os.path.dirname(save_path), exist_ok=True)
+        # Save the figure
+        plt.savefig(save_path)
+        # Close the figure to free up memory
+        plt.close(fig)
+    
     return fig
 
 
-def plot_temporal_trends(temporal_data, cluster_ids=None, trend_type='weekly', figsize=(12, 6)):
+def plot_temporal_trends(temporal_data, cluster_ids=None, trend_type='weekly', figsize=(12, 6), save_path=None):
     """
     Plot temporal trends for clusters
     
@@ -81,6 +102,7 @@ def plot_temporal_trends(temporal_data, cluster_ids=None, trend_type='weekly', f
         cluster_ids (list): List of cluster IDs to plot (if None, plot all)
         trend_type (str): Type of trend to plot ('weekly' or 'monthly')
         figsize (tuple): Figure size
+        save_path (str, optional): Path to save the figure. If provided, will save the figure and close it.
         
     Returns:
         matplotlib.figure.Figure: The created figure
@@ -110,10 +132,21 @@ def plot_temporal_trends(temporal_data, cluster_ids=None, trend_type='weekly', f
     plt.legend()
     plt.grid(True, alpha=0.3)
     
+    plt.tight_layout()
+    
+    # Save the figure if a save path is provided
+    if save_path:
+        # Ensure the directory exists
+        os.makedirs(os.path.dirname(save_path), exist_ok=True)
+        # Save the figure
+        plt.savefig(save_path)
+        # Close the figure to free up memory
+        plt.close(fig)
+    
     return fig
 
 
-def plot_cluster_sizes(cluster_data, figsize=(10, 6), title='Cluster Sizes', color='skyblue', highlight_clusters=None, highlight_color='tomato'):
+def plot_cluster_sizes(cluster_data, figsize=(10, 6), title='Cluster Sizes', color='skyblue', highlight_clusters=None, highlight_color='tomato', save_path=None):
     """
     Create a bar chart showing the number of cases in each cluster
     
@@ -125,44 +158,43 @@ def plot_cluster_sizes(cluster_data, figsize=(10, 6), title='Cluster Sizes', col
         figsize (tuple): Figure size
         title (str): Plot title
         color (str): Bar color
-        highlight_clusters (list, optional): List of cluster IDs to highlight
+        highlight_clusters (list): List of cluster IDs to highlight
         highlight_color (str): Color for highlighted clusters
+        save_path (str, optional): Path to save the figure. If provided, will save the figure and close it.
         
     Returns:
         matplotlib.figure.Figure: The created figure
     """
-    # Process input data to get cluster counts
+    # Process the input data to get cluster counts
     if isinstance(cluster_data, pd.DataFrame):
         if 'Size' in cluster_data.columns:
-            # Input is a cluster profile DataFrame with Size column
-            cluster_counts = cluster_data['Size'].copy()
+            # Already has size information
+            cluster_sizes = cluster_data['Size'].copy()
+            cluster_labels = cluster_sizes.index
         else:
-            # Assume the DataFrame has a cluster column, find it
-            cluster_cols = [col for col in cluster_data.columns if 'cluster' in str(col).lower() or 'Cluster' in str(col)]
-            if not cluster_cols:
-                raise ValueError("DataFrame must contain a 'Size' column or a column with 'cluster' in its name")
-            cluster_col = cluster_cols[0]  # Use the first matching column
-            cluster_counts = cluster_data[cluster_col].value_counts().sort_index()
+            # Need to count clusters
+            cluster_col = [col for col in cluster_data.columns if 'cluster' in col.lower()]
+            if not cluster_col:
+                raise ValueError("DataFrame must have a 'Size' column or a column containing 'cluster'")
+            cluster_col = cluster_col[0]
+            cluster_counts = Counter(cluster_data[cluster_col])
+            cluster_labels = sorted(cluster_counts.keys())
+            cluster_sizes = pd.Series([cluster_counts[c] for c in cluster_labels], index=cluster_labels)
     else:
         # Input is a list/array of cluster labels
-        cluster_counts = pd.Series(Counter(cluster_data)).sort_index()
+        cluster_counts = Counter(cluster_data)
+        cluster_labels = sorted(cluster_counts.keys())
+        cluster_sizes = pd.Series([cluster_counts[c] for c in cluster_labels], index=cluster_labels)
     
-    # Create the plot
+    # Create the figure
     fig, ax = plt.subplots(figsize=figsize)
     
-    # Determine bar colors
-    if highlight_clusters is not None:
-        colors = [highlight_color if idx in highlight_clusters else color for idx in cluster_counts.index]
-    else:
-        colors = color
+    # Create colors array
+    colors = [highlight_color if (highlight_clusters is not None and c in highlight_clusters) else color 
+             for c in cluster_labels]
     
     # Create the bar chart
-    bars = ax.bar(cluster_counts.index.astype(str), cluster_counts.values, color=colors)
-    
-    # Add labels and title
-    ax.set_xlabel('Cluster')
-    ax.set_ylabel('Number of Cases')
-    ax.set_title(title)
+    bars = ax.bar(cluster_labels, cluster_sizes, color=colors)
     
     # Add value labels on top of bars
     for bar in bars:
@@ -170,24 +202,51 @@ def plot_cluster_sizes(cluster_data, figsize=(10, 6), title='Cluster Sizes', col
         ax.text(bar.get_x() + bar.get_width()/2., height + 0.1,
                 f'{int(height)}', ha='center', va='bottom')
     
-    # Add grid for better readability
+    # Add labels and title
+    ax.set_xlabel('Cluster')
+    ax.set_ylabel('Number of Cases')
+    ax.set_title(title)
+    
+    # Add grid lines for better readability
     ax.grid(axis='y', linestyle='--', alpha=0.7)
     
+    # Ensure y-axis starts at 0
+    ax.set_ylim(bottom=0)
+    
+    # Add a note if clusters are highlighted
+    if highlight_clusters:
+        highlight_str = ', '.join([str(c) for c in highlight_clusters])
+        ax.annotate(f'Highlighted clusters: {highlight_str}',
+                   xy=(0.5, 0.97), xycoords='axes fraction',
+                   ha='center', va='top',
+                   bbox=dict(boxstyle="round,pad=0.3", fc="#f8f9fa", ec="gray", alpha=0.8))
+    
     plt.tight_layout()
+    
+    # Save the figure if a save path is provided
+    if save_path:
+        # Ensure the directory exists
+        os.makedirs(os.path.dirname(save_path), exist_ok=True)
+        # Save the figure
+        plt.savefig(save_path)
+        # Close the figure to free up memory
+        plt.close(fig)
+    
     return fig
 
 
-def plot_symptom_prevalence(cluster_profiles, symptoms=None, plot_type='heatmap', figsize=(12, 8), cmap='YlOrRd', title=None):
+def plot_symptom_prevalence(cluster_profiles, symptoms=None, plot_type='heatmap', figsize=(12, 8), cmap='YlOrRd', title=None, save_path=None):
     """
     Create a visualization showing the prevalence of symptoms across different clusters
     
     Args:
         cluster_profiles (pandas.DataFrame): Cluster profiles DataFrame from profile_clusters
-        symptoms (list, optional): List of symptoms to include (if None, include all)
-        plot_type (str): Type of plot to create ('heatmap' or 'barplot')
+        symptoms (list, optional): List of symptoms to include (if None, use all symptoms)
+        plot_type (str): Type of plot ('heatmap' or 'barplot')
         figsize (tuple): Figure size
         cmap (str): Colormap for heatmap
         title (str, optional): Plot title
+        save_path (str, optional): Path to save the figure. If provided, will save the figure and close it.
         
     Returns:
         matplotlib.figure.Figure: The created figure
@@ -259,10 +318,20 @@ def plot_symptom_prevalence(cluster_profiles, symptoms=None, plot_type='heatmap'
         raise ValueError("plot_type must be 'heatmap' or 'barplot'")
     
     plt.tight_layout()
+    
+    # Save the figure if a save path is provided
+    if save_path:
+        # Ensure the directory exists
+        os.makedirs(os.path.dirname(save_path), exist_ok=True)
+        # Save the figure
+        plt.savefig(save_path)
+        # Close the figure to free up memory
+        plt.close(fig)
+    
     return fig
 
 
-def plot_cluster_locations(location_data, cluster_id=None, figsize=(12, 8), cmap='Blues', title=None):
+def plot_cluster_locations(location_data, cluster_id=None, figsize=(12, 8), cmap='Blues', title=None, save_path=None):
     """
     Create a visualization showing the distribution of clusters across locations
     
@@ -272,6 +341,7 @@ def plot_cluster_locations(location_data, cluster_id=None, figsize=(12, 8), cmap
         figsize (tuple): Figure size
         cmap (str): Colormap for heatmap
         title (str, optional): Plot title
+        save_path (str, optional): Path to save the figure. If provided, will save the figure and close it.
         
     Returns:
         matplotlib.figure.Figure: The created figure
@@ -337,4 +407,14 @@ def plot_cluster_locations(location_data, cluster_id=None, figsize=(12, 8), cmap
         ax.set_title(title)
     
     plt.tight_layout()
+    
+    # Save the figure if a save path is provided
+    if save_path:
+        # Ensure the directory exists
+        os.makedirs(os.path.dirname(save_path), exist_ok=True)
+        # Save the figure
+        plt.savefig(save_path)
+        # Close the figure to free up memory
+        plt.close(fig)
+    
     return fig

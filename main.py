@@ -231,62 +231,58 @@ def run_dengue_detection(simulate=True, data_path=None, output_dir='./output'):
     # ===== STEP 8: VISUALIZE RESULTS =====
     print("\n===== STEP 8: VISUALIZING RESULTS =====")
     
-    # Create visualizations directory
+    # Create visualizations directory if needed
     viz_dir = os.path.join(output_dir, 'visualizations')
     os.makedirs(viz_dir, exist_ok=True)
     
     # Plot cluster sizes (highlighting potential outbreak clusters)
     print("Plotting cluster sizes...")
-    fig1 = visualization.plot_cluster_sizes(
+    visualization.plot_cluster_sizes(
         cluster_profiles, 
         highlight_clusters=dengue_clusters,
-        title='Cluster Sizes (Potential Outbreaks Highlighted)'
+        title='Cluster Sizes (Potential Outbreaks Highlighted)',
+        save_path=os.path.join(output_dir, 'cluster_sizes.png')
     )
-    fig1.savefig(os.path.join(viz_dir, 'cluster_sizes.png'))
-    plt.close(fig1)
     
     # Plot symptom prevalence as a heatmap
     print("Plotting symptom prevalence...")
-    fig2 = visualization.plot_symptom_prevalence(
+    visualization.plot_symptom_prevalence(
         cluster_profiles, 
         symptoms=dengue_symptoms,  # Focus on dengue symptoms
         plot_type='heatmap',
-        title='Dengue Symptom Prevalence (%) by Cluster'
+        title='Dengue Symptom Prevalence (%) by Cluster',
+        save_path=os.path.join(output_dir, 'symptom_heatmap.png')
     )
-    fig2.savefig(os.path.join(viz_dir, 'symptom_heatmap.png'))
-    plt.close(fig2)
     
     # Plot all symptoms as a heatmap too
-    fig2b = visualization.plot_symptom_prevalence(
+    visualization.plot_symptom_prevalence(
         cluster_profiles,
         plot_type='heatmap',
-        title='All Symptom Prevalence (%) by Cluster'
+        title='All Symptom Prevalence (%) by Cluster',
+        save_path=os.path.join(output_dir, 'all_symptoms_heatmap.png')
     )
-    fig2b.savefig(os.path.join(viz_dir, 'all_symptoms_heatmap.png'))
-    plt.close(fig2b)
     
     # Plot geographical distribution of clusters
     print("Plotting geographical distribution...")
-    fig3 = visualization.plot_cluster_locations(
+    visualization.plot_cluster_locations(
         location_analysis,
-        title='Distribution of Clusters Across Locations'
+        title='Distribution of Clusters Across Locations',
+        save_path=os.path.join(output_dir, 'cluster_locations.png')
     )
-    fig3.savefig(os.path.join(viz_dir, 'cluster_locations.png'))
-    plt.close(fig3)
     
     # For each potential dengue cluster, plot its specific location distribution
     for cluster_id in dengue_clusters:
-        fig = visualization.plot_cluster_locations(
+        visualization.plot_cluster_locations(
             location_analysis,
             cluster_id=cluster_id,
-            title=f'Distribution of Cluster {cluster_id} Across Locations'
+            title=f'Distribution of Cluster {cluster_id} Across Locations',
+            save_path=os.path.join(output_dir, f'cluster_{cluster_id}_locations.png')
         )
-        fig.savefig(os.path.join(viz_dir, f'cluster_{cluster_id}_locations.png'))
-        plt.close(fig)
     
     # Plot temporal trends if available
     if 'cluster_counts' in time_analysis:
         print("Plotting temporal trends...")
+        # Create a custom temporal trends plot and save it directly
         fig4 = plt.figure(figsize=(12, 6))
         ax = fig4.add_subplot(111)
         time_analysis['cluster_counts'].plot(ax=ax)
@@ -295,7 +291,10 @@ def run_dengue_detection(simulate=True, data_path=None, output_dir='./output'):
         ax.set_ylabel('Number of Cases')
         ax.grid(True, alpha=0.3)
         plt.tight_layout()
-        fig4.savefig(os.path.join(viz_dir, 'temporal_trends.png'))
+        
+        # Save the figure directly to the output directory
+        temporal_trends_path = os.path.join(output_dir, 'temporal_trends.png')
+        plt.savefig(temporal_trends_path)
         plt.close(fig4)
     
     # ===== STEP 9: SUMMARY =====

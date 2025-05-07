@@ -1,0 +1,933 @@
+CaseID,ReportDateTime,Location,Symptoms,AgeGroup
+1,2024-01-01 00:27:47,Poblacion,"Fatigue, Runny Nose, Diarrhea",20-29
+2,2024-01-01 02:53:55,Cantil,"Rash, Cough, Fatigue, Retro-orbital Pain, Diarrhea",0-9
+3,2024-01-01 06:11:39,Paclasan,"Fatigue, Diarrhea",30-39
+4,2024-01-01 09:27:35,Bagumbayan,"Mild Bleeding, Vomiting, Sore Throat, Rash, Runny Nose",20-29
+5,2024-01-01 12:49:33,Cantil,"Runny Nose, Sore Throat, Mild Bleeding, Headache, Cough, Fatigue, Diarrhea",20-29
+6,2024-01-01 16:53:25,Cantil,"Mild Bleeding, Fever, Runny Nose, Cough",0-9
+7,2024-01-01 20:59:31,Libtong,"Vomiting, Fatigue, Runny Nose, Sore Throat, Retro-orbital Pain",60+
+8,2024-01-02 04:56:21,San Vicente,"Rash, Fever, Headache, Mild Bleeding, Vomiting, Muscle Pain, Retro-orbital Pain",40-49
+9,2024-01-02 07:25:57,San Vicente,"Headache, Fever, Fatigue, Cough, Sore Throat, Runny Nose",50-59
+10,2024-01-02 12:09:27,Odiong,"Diarrhea, Runny Nose, Sore Throat, Nausea, Joint Pain",60+
+11,2024-01-02 18:54:43,San Aquilino,"Sore Throat, Diarrhea, Cough, Vomiting, Runny Nose",20-29
+12,2024-01-02 19:45:54,Victoria,"Nausea, Fatigue, Fever, Cough, Rash",30-39
+13,2024-01-02 21:00:13,Happy Valley,"Diarrhea, Sore Throat, Fatigue, Cough, Runny Nose",20-29
+14,2024-01-02 23:08:17,Libertad,"Sore Throat, Cough, Muscle Pain, Joint Pain, Runny Nose",30-39
+15,2024-01-02 23:24:27,Maraska,"Runny Nose, Sore Throat, Cough",60+
+16,2024-01-03 14:40:36,San Jose,"Fatigue, Runny Nose, Sore Throat, Cough, Diarrhea",50-59
+17,2024-01-04 01:52:30,Poblacion,"Mild Bleeding, Fatigue, Sore Throat, Runny Nose, Diarrhea",30-39
+18,2024-01-04 05:07:19,San Aquilino,"Cough, Runny Nose, Joint Pain, Fever, Fatigue",20-29
+19,2024-01-04 08:24:49,Libtong,"Sore Throat, Mild Bleeding",20-29
+20,2024-01-04 10:27:46,San Jose,"Headache, Fever, Mild Bleeding, Rash, Joint Pain, Nausea, Retro-orbital Pain",50-59
+21,2024-01-04 11:09:27,Victoria,"Sore Throat, Headache, Diarrhea",20-29
+22,2024-01-04 11:26:58,San Isidro,"Fatigue, Sore Throat",0-9
+23,2024-01-05 00:35:25,San Vicente,"Headache, Rash, Sore Throat",10-19
+24,2024-01-05 07:19:48,Bagumbayan,"Fatigue, Cough, Diarrhea",20-29
+25,2024-01-05 08:29:23,San Rafael,"Retro-orbital Pain, Headache, Fever, Cough, Fatigue",60+
+26,2024-01-05 12:19:38,Libtong,"Muscle Pain, Runny Nose, Nausea, Diarrhea, Sore Throat",60+
+27,2024-01-05 19:13:34,San Mariano,"Cough, Runny Nose, Fatigue, Sore Throat",10-19
+28,2024-01-05 19:22:47,San Jose,"Retro-orbital Pain, Diarrhea, Mild Bleeding, Fever, Sore Throat",20-29
+29,2024-01-06 01:23:59,Libtong,"Fatigue, Runny Nose, Nausea, Diarrhea, Cough, Sore Throat",30-39
+30,2024-01-06 07:45:53,Libtong,"Sore Throat, Runny Nose, Rash, Cough, Fatigue, Diarrhea",0-9
+31,2024-01-06 12:28:47,San Miguel,"Diarrhea, Rash, Cough",60+
+32,2024-01-07 00:14:22,San Isidro,"Runny Nose, Diarrhea, Nausea, Headache, Fatigue, Fever",0-9
+33,2024-01-07 01:41:25,Bagumbayan,"Headache, Rash, Diarrhea, Nausea, Fever",40-49
+34,2024-01-07 05:00:37,San Isidro,"Sore Throat, Cough, Nausea, Rash, Fatigue, Runny Nose",0-9
+35,2024-01-07 05:32:10,San Isidro,"Sore Throat, Vomiting, Fatigue, Cough, Diarrhea, Mild Bleeding, Runny Nose",60+
+36,2024-01-07 07:09:16,Victoria,"Joint Pain, Diarrhea, Headache, Fatigue, Rash, Vomiting",20-29
+37,2024-01-07 15:56:30,San Vicente,"Fatigue, Nausea, Diarrhea, Cough, Fever",10-19
+38,2024-01-07 15:59:53,Bagumbayan,"Rash, Diarrhea, Cough",20-29
+39,2024-01-07 21:31:38,Happy Valley,"Diarrhea, Sore Throat, Cough, Runny Nose, Fatigue",60+
+40,2024-01-07 23:32:39,Dangay,"Runny Nose, Retro-orbital Pain",20-29
+41,2024-01-07 23:56:59,San Miguel,"Headache, Sore Throat, Fatigue, Diarrhea, Mild Bleeding",0-9
+42,2024-01-08 00:42:41,Little Tanauan,"Rash, Diarrhea, Nausea, Retro-orbital Pain, Joint Pain, Mild Bleeding, Headache, Fever, Muscle Pain",0-9
+43,2024-01-08 07:36:58,Little Tanauan,"Diarrhea, Cough, Runny Nose, Sore Throat, Fatigue, Fever",40-49
+44,2024-01-08 10:14:31,San Miguel,Fatigue,40-49
+45,2024-01-08 16:23:25,Happy Valley,"Rash, Mild Bleeding, Fever, Joint Pain, Diarrhea",0-9
+46,2024-01-08 17:43:58,San Isidro,"Fatigue, Runny Nose, Diarrhea, Sore Throat",60+
+47,2024-01-08 20:49:39,Maraska,"Cough, Sore Throat, Fatigue",10-19
+48,2024-01-08 21:36:04,San Mariano,"Diarrhea, Vomiting, Muscle Pain, Fever, Mild Bleeding",60+
+49,2024-01-08 22:49:06,Cantil,"Runny Nose, Cough, Rash, Sore Throat, Diarrhea, Fatigue",30-39
+50,2024-01-09 00:04:53,Poblacion,"Sore Throat, Fever, Fatigue, Mild Bleeding",10-19
+51,2024-01-09 01:38:43,San Aquilino,"Runny Nose, Cough, Headache",40-49
+52,2024-01-09 01:50:00,San Rafael,"Fatigue, Sore Throat, Muscle Pain, Runny Nose, Rash, Diarrhea",30-39
+53,2024-01-09 06:49:36,Happy Valley,"Diarrhea, Runny Nose, Cough",50-59
+54,2024-01-09 07:48:36,Paclasan,Runny Nose,20-29
+55,2024-01-09 10:40:53,Cantil,"Diarrhea, Cough, Rash, Fatigue",20-29
+56,2024-01-09 15:11:52,Little Tanauan,"Cough, Sore Throat",50-59
+57,2024-01-09 18:46:16,San Aquilino,"Fever, Cough, Fatigue, Joint Pain, Sore Throat",40-49
+58,2024-01-10 01:44:59,Little Tanauan,Cough,30-39
+59,2024-01-10 04:10:43,San Miguel,"Cough, Sore Throat, Runny Nose, Fatigue",30-39
+60,2024-01-10 05:16:42,San Aquilino,"Fatigue, Retro-orbital Pain",60+
+61,2024-01-10 09:34:47,San Vicente,"Runny Nose, Vomiting, Fever, Sore Throat, Rash",50-59
+62,2024-01-10 13:21:35,Odiong,"Vomiting, Runny Nose, Diarrhea, Fatigue",60+
+63,2024-01-10 14:13:22,Little Tanauan,"Runny Nose, Nausea, Fatigue, Cough, Diarrhea, Rash",50-59
+64,2024-01-10 20:31:40,Libertad,"Nausea, Fatigue, Sore Throat, Diarrhea, Retro-orbital Pain, Rash",50-59
+65,2024-01-10 23:14:49,San Vicente,"Cough, Fatigue, Nausea, Runny Nose",30-39
+66,2024-01-10 23:38:21,Cantil,"Headache, Sore Throat, Runny Nose, Cough, Diarrhea",50-59
+67,2024-01-11 00:56:32,Victoria,"Cough, Mild Bleeding, Muscle Pain, Headache, Fatigue, Diarrhea",10-19
+68,2024-01-11 01:20:47,San Rafael,"Retro-orbital Pain, Joint Pain, Nausea, Diarrhea",0-9
+69,2024-01-11 03:41:58,Odiong,"Rash, Nausea, Joint Pain, Fever",40-49
+70,2024-01-11 06:03:03,San Rafael,"Mild Bleeding, Sore Throat, Fever, Diarrhea",20-29
+71,2024-01-11 10:12:57,San Mariano,"Cough, Muscle Pain, Fatigue, Vomiting, Runny Nose, Fever",0-9
+72,2024-01-11 11:01:10,San Mariano,"Retro-orbital Pain, Headache, Fatigue, Cough",40-49
+73,2024-01-11 19:47:02,Little Tanauan,"Joint Pain, Runny Nose, Sore Throat, Fatigue",0-9
+74,2024-01-12 04:29:19,Victoria,"Cough, Fatigue, Diarrhea, Nausea, Retro-orbital Pain, Fever",40-49
+75,2024-01-12 05:16:22,Little Tanauan,"Fatigue, Cough, Sore Throat",60+
+76,2024-01-12 05:31:33,San Jose,"Diarrhea, Nausea, Runny Nose, Fever",30-39
+77,2024-01-12 08:21:32,San Isidro,"Retro-orbital Pain, Runny Nose",50-59
+78,2024-01-12 09:33:40,San Isidro,"Headache, Runny Nose",60+
+79,2024-01-12 11:11:15,Libtong,"Headache, Runny Nose, Cough",0-9
+80,2024-01-12 16:53:11,Odiong,"Runny Nose, Nausea, Sore Throat, Diarrhea, Headache",30-39
+81,2024-01-12 17:31:55,Libtong,"Runny Nose, Diarrhea, Fatigue",10-19
+82,2024-01-13 03:45:56,San Isidro,"Headache, Rash, Diarrhea, Runny Nose, Fatigue",0-9
+83,2024-01-13 05:25:16,San Rafael,"Diarrhea, Fatigue, Fever, Sore Throat, Headache, Cough",40-49
+84,2024-01-13 14:59:18,Poblacion,"Sore Throat, Cough, Diarrhea, Runny Nose",0-9
+85,2024-01-13 18:57:09,Poblacion,"Diarrhea, Fever, Runny Nose",20-29
+86,2024-01-14 00:06:07,San Rafael,"Sore Throat, Muscle Pain, Fever, Diarrhea, Rash, Vomiting",20-29
+87,2024-01-14 00:49:06,Happy Valley,"Sore Throat, Diarrhea",60+
+88,2024-01-14 02:01:57,San Mariano,"Diarrhea, Muscle Pain, Fatigue, Retro-orbital Pain",60+
+89,2024-01-14 12:47:32,San Aquilino,"Runny Nose, Joint Pain, Sore Throat, Fever, Fatigue, Cough",10-19
+90,2024-01-14 12:47:43,San Aquilino,"Diarrhea, Nausea, Sore Throat, Vomiting",60+
+91,2024-01-14 16:18:23,Odiong,"Joint Pain, Muscle Pain, Mild Bleeding, Sore Throat",10-19
+92,2024-01-14 22:01:37,Happy Valley,"Headache, Joint Pain, Fatigue",0-9
+93,2024-01-14 23:18:01,Paclasan,"Vomiting, Cough, Sore Throat",10-19
+94,2024-01-14 23:18:14,Dangay,"Fatigue, Runny Nose, Sore Throat, Mild Bleeding, Muscle Pain",20-29
+95,2024-01-15 05:09:16,San Aquilino,"Fatigue, Diarrhea, Cough, Runny Nose, Sore Throat",30-39
+96,2024-01-15 09:40:41,San Miguel,"Fatigue, Mild Bleeding, Headache, Sore Throat, Diarrhea",10-19
+97,2024-01-15 10:18:36,Cantil,"Joint Pain, Rash, Diarrhea",40-49
+98,2024-01-15 17:56:52,Little Tanauan,"Rash, Sore Throat",0-9
+99,2024-01-15 19:06:47,Libertad,"Cough, Nausea, Rash, Sore Throat",20-29
+100,2024-01-15 20:07:36,Libertad,"Mild Bleeding, Rash, Retro-orbital Pain, Fever, Joint Pain",60+
+101,2024-01-15 20:33:37,Dangay,"Muscle Pain, Rash, Vomiting, Fever, Retro-orbital Pain",0-9
+102,2024-01-15 23:07:56,Libertad,"Cough, Vomiting, Fever, Sore Throat, Nausea, Muscle Pain, Mild Bleeding, Fatigue",40-49
+103,2024-01-16 05:46:16,Libertad,"Cough, Diarrhea, Vomiting, Fever, Sore Throat",50-59
+104,2024-01-16 08:22:18,Bagumbayan,"Runny Nose, Headache",40-49
+105,2024-01-16 10:25:35,Libertad,"Vomiting, Fever, Joint Pain, Retro-orbital Pain, Mild Bleeding, Cough, Muscle Pain, Runny Nose",40-49
+106,2024-01-16 14:59:39,Bagumbayan,"Sore Throat, Runny Nose, Cough, Diarrhea, Fatigue",0-9
+107,2024-01-16 23:51:54,Bagumbayan,"Fatigue, Retro-orbital Pain, Sore Throat, Diarrhea",30-39
+108,2024-01-17 00:58:21,San Mariano,"Fever, Joint Pain, Vomiting, Headache, Muscle Pain, Nausea, Rash, Retro-orbital Pain, Mild Bleeding",50-59
+109,2024-01-17 08:38:02,San Isidro,"Runny Nose, Fatigue",0-9
+110,2024-01-17 14:32:45,San Mariano,"Diarrhea, Muscle Pain, Cough, Fatigue, Sore Throat",0-9
+111,2024-01-17 18:24:25,Libtong,"Runny Nose, Headache, Cough, Diarrhea, Fatigue, Sore Throat",10-19
+112,2024-01-18 00:37:08,San Miguel,"Joint Pain, Runny Nose",0-9
+113,2024-01-18 02:31:49,San Miguel,"Diarrhea, Nausea, Sore Throat, Runny Nose, Cough",30-39
+114,2024-01-18 09:19:26,San Miguel,"Diarrhea, Fever, Mild Bleeding, Runny Nose, Fatigue, Sore Throat",20-29
+115,2024-01-18 16:03:24,San Miguel,"Sore Throat, Runny Nose, Rash, Vomiting, Cough, Fever",30-39
+116,2024-01-19 02:42:54,Paclasan,"Cough, Sore Throat, Fatigue, Nausea, Fever",60+
+117,2024-01-19 03:48:57,San Mariano,"Fatigue, Retro-orbital Pain, Nausea, Sore Throat",30-39
+118,2024-01-19 07:29:20,Odiong,"Cough, Sore Throat, Runny Nose, Diarrhea",10-19
+119,2024-01-19 07:39:32,Libtong,"Headache, Fatigue, Nausea, Cough, Diarrhea",20-29
+120,2024-01-19 08:55:09,Paclasan,"Rash, Cough, Sore Throat, Vomiting, Runny Nose, Fatigue",10-19
+121,2024-01-19 09:15:49,Happy Valley,"Diarrhea, Sore Throat, Cough, Runny Nose, Nausea, Fatigue",60+
+122,2024-01-19 13:58:53,Poblacion,"Cough, Retro-orbital Pain, Vomiting",50-59
+123,2024-01-19 17:39:57,San Jose,"Rash, Headache, Fever, Cough, Diarrhea, Retro-orbital Pain, Vomiting",40-49
+124,2024-01-19 19:36:02,Libertad,"Diarrhea, Joint Pain, Fatigue, Sore Throat, Mild Bleeding, Retro-orbital Pain",30-39
+125,2024-01-19 21:05:39,San Aquilino,"Fatigue, Headache, Diarrhea, Joint Pain",60+
+126,2024-01-19 23:29:33,San Jose,"Muscle Pain, Fatigue, Diarrhea, Cough, Runny Nose",60+
+127,2024-01-20 01:48:04,Poblacion,"Sore Throat, Mild Bleeding, Fatigue, Fever",0-9
+128,2024-01-20 02:12:38,Poblacion,"Fatigue, Runny Nose, Diarrhea, Vomiting, Cough",10-19
+129,2024-01-20 03:13:44,San Rafael,"Fatigue, Sore Throat, Vomiting, Muscle Pain",50-59
+130,2024-01-20 09:26:51,Maraska,"Sore Throat, Diarrhea, Fatigue, Rash, Runny Nose",60+
+131,2024-01-20 10:11:25,Dangay,"Runny Nose, Sore Throat",20-29
+132,2024-01-20 15:04:01,San Aquilino,"Rash, Diarrhea, Cough",10-19
+133,2024-01-20 17:17:11,Dangay,"Cough, Diarrhea",0-9
+134,2024-01-20 17:24:31,Maraska,"Runny Nose, Sore Throat, Fatigue, Rash, Cough, Headache, Diarrhea",40-49
+135,2024-01-21 01:22:08,San Mariano,"Fatigue, Runny Nose, Sore Throat, Diarrhea, Cough",40-49
+136,2024-01-21 04:42:28,San Jose,"Diarrhea, Fever, Sore Throat, Headache, Runny Nose",0-9
+137,2024-01-21 09:27:04,San Jose,"Cough, Joint Pain",30-39
+138,2024-01-21 16:51:10,San Jose,"Sore Throat, Rash, Cough, Headache",10-19
+139,2024-01-21 21:45:16,Paclasan,"Cough, Diarrhea, Fatigue, Sore Throat, Runny Nose",30-39
+140,2024-01-22 02:48:43,Odiong,"Cough, Rash, Headache, Sore Throat",20-29
+141,2024-01-22 08:22:18,San Aquilino,Runny Nose,20-29
+142,2024-01-22 08:34:00,Libertad,"Fatigue, Muscle Pain, Diarrhea, Rash, Runny Nose",30-39
+143,2024-01-22 10:47:45,San Isidro,"Rash, Diarrhea, Mild Bleeding, Cough, Fatigue",40-49
+144,2024-01-22 11:05:38,Happy Valley,"Diarrhea, Sore Throat",40-49
+145,2024-01-22 17:28:50,Victoria,"Sore Throat, Muscle Pain, Joint Pain, Runny Nose, Fatigue, Diarrhea",40-49
+146,2024-01-22 17:37:40,San Vicente,"Fatigue, Nausea, Muscle Pain, Runny Nose, Vomiting, Joint Pain, Fever",60+
+147,2024-01-22 20:20:14,Libertad,"Diarrhea, Runny Nose, Muscle Pain, Retro-orbital Pain, Cough",10-19
+148,2024-01-22 22:45:21,Poblacion,"Diarrhea, Retro-orbital Pain, Cough, Fatigue",20-29
+149,2024-01-23 04:01:59,San Jose,"Nausea, Mild Bleeding, Runny Nose, Fatigue",30-39
+150,2024-01-23 06:31:07,San Jose,"Cough, Runny Nose, Diarrhea, Mild Bleeding, Rash",40-49
+151,2024-01-23 11:28:41,San Jose,"Sore Throat, Diarrhea, Runny Nose, Cough, Fatigue",0-9
+152,2024-01-23 11:56:44,San Rafael,"Sore Throat, Runny Nose",60+
+153,2024-01-23 21:06:35,San Aquilino,"Nausea, Muscle Pain, Sore Throat, Vomiting",0-9
+154,2024-01-24 00:19:27,Paclasan,"Retro-orbital Pain, Diarrhea, Runny Nose, Fever, Cough",10-19
+155,2024-01-24 04:17:17,Paclasan,"Vomiting, Diarrhea, Retro-orbital Pain, Joint Pain, Muscle Pain, Runny Nose",0-9
+156,2024-01-24 04:25:16,San Mariano,"Sore Throat, Mild Bleeding, Cough, Headache, Retro-orbital Pain",40-49
+157,2024-01-24 07:01:22,Odiong,"Cough, Fatigue, Diarrhea, Muscle Pain",40-49
+158,2024-01-24 10:40:57,Victoria,"Fever, Diarrhea, Sore Throat",0-9
+159,2024-01-24 15:45:52,Libertad,"Cough, Diarrhea, Runny Nose",0-9
+160,2024-01-24 21:05:57,San Isidro,"Cough, Fatigue",50-59
+161,2024-01-25 03:43:53,San Mariano,"Sore Throat, Runny Nose, Muscle Pain, Joint Pain",60+
+162,2024-01-25 03:54:38,San Rafael,"Nausea, Diarrhea, Runny Nose",30-39
+163,2024-01-25 05:06:10,Happy Valley,"Diarrhea, Fatigue, Rash, Vomiting",20-29
+164,2024-01-25 06:47:22,Libtong,"Sore Throat, Mild Bleeding, Fever, Vomiting",0-9
+165,2024-01-25 09:05:19,Dangay,"Sore Throat, Diarrhea, Cough, Vomiting, Fatigue",20-29
+166,2024-01-25 09:55:05,San Rafael,"Runny Nose, Diarrhea, Fatigue, Sore Throat, Cough",50-59
+167,2024-01-25 12:20:43,Dangay,"Rash, Sore Throat, Cough, Mild Bleeding, Joint Pain",10-19
+168,2024-01-25 14:20:38,Maraska,"Retro-orbital Pain, Cough, Diarrhea",50-59
+169,2024-01-25 14:39:13,San Rafael,"Diarrhea, Runny Nose, Fatigue, Sore Throat",40-49
+170,2024-01-25 15:11:05,Happy Valley,"Diarrhea, Muscle Pain, Nausea",10-19
+171,2024-01-25 15:55:18,Libtong,"Headache, Joint Pain, Cough, Fever, Sore Throat, Vomiting, Rash",50-59
+172,2024-01-25 17:59:26,Cantil,"Runny Nose, Muscle Pain, Cough, Diarrhea",50-59
+173,2024-01-25 21:01:18,San Aquilino,"Cough, Sore Throat, Fatigue, Joint Pain",50-59
+174,2024-01-25 22:12:11,Libtong,"Diarrhea, Fatigue, Vomiting, Joint Pain, Runny Nose, Sore Throat, Cough",60+
+175,2024-01-25 23:27:55,Libertad,"Nausea, Cough, Fever, Diarrhea",30-39
+176,2024-01-26 01:28:49,Odiong,"Cough, Vomiting, Headache, Fatigue",30-39
+177,2024-01-26 01:40:44,Maraska,"Cough, Runny Nose, Diarrhea, Fatigue",60+
+178,2024-01-26 06:57:19,Dangay,"Runny Nose, Sore Throat, Cough",60+
+179,2024-01-26 09:50:57,Happy Valley,"Cough, Fatigue, Retro-orbital Pain",30-39
+180,2024-01-26 11:04:59,Cantil,"Headache, Muscle Pain, Retro-orbital Pain, Joint Pain, Fever",0-9
+181,2024-01-26 12:09:29,San Jose,"Sore Throat, Fatigue, Cough, Fever, Diarrhea",50-59
+182,2024-01-26 12:24:09,Happy Valley,"Diarrhea, Headache, Retro-orbital Pain, Fever, Cough, Runny Nose",40-49
+183,2024-01-26 12:57:06,San Aquilino,"Fatigue, Retro-orbital Pain, Cough, Sore Throat, Diarrhea",0-9
+184,2024-01-26 23:26:57,Victoria,"Muscle Pain, Runny Nose, Rash, Diarrhea",20-29
+185,2024-01-27 02:40:28,Libertad,"Nausea, Runny Nose, Fatigue, Retro-orbital Pain",30-39
+186,2024-01-27 03:27:46,San Isidro,"Diarrhea, Runny Nose, Retro-orbital Pain, Fatigue, Muscle Pain, Headache, Cough",20-29
+187,2024-01-27 07:12:49,San Vicente,"Joint Pain, Runny Nose, Fatigue, Sore Throat, Diarrhea, Cough",50-59
+188,2024-01-27 15:12:13,Paclasan,"Cough, Retro-orbital Pain, Runny Nose, Fatigue, Joint Pain, Diarrhea, Sore Throat",10-19
+189,2024-01-27 17:24:35,San Miguel,"Sore Throat, Cough, Fever, Fatigue",10-19
+190,2024-01-27 21:31:10,Victoria,"Joint Pain, Vomiting, Diarrhea",50-59
+191,2024-01-27 22:08:08,Cantil,"Fever, Fatigue, Cough, Headache",0-9
+192,2024-01-27 23:29:54,San Rafael,"Retro-orbital Pain, Fatigue, Diarrhea, Fever",40-49
+193,2024-01-28 00:56:36,Bagumbayan,"Retro-orbital Pain, Runny Nose, Joint Pain, Fatigue",30-39
+194,2024-01-28 01:48:45,San Mariano,"Fatigue, Nausea",10-19
+195,2024-01-28 02:32:33,Odiong,"Runny Nose, Sore Throat",30-39
+196,2024-01-28 03:23:16,San Mariano,"Sore Throat, Cough, Rash",30-39
+197,2024-01-28 04:52:51,Bagumbayan,"Runny Nose, Fatigue, Vomiting, Headache",20-29
+198,2024-01-28 06:02:15,Libtong,"Fatigue, Diarrhea, Mild Bleeding, Nausea, Headache, Vomiting",20-29
+199,2024-01-28 07:22:13,Odiong,"Cough, Fever, Headache, Retro-orbital Pain",10-19
+200,2024-01-28 07:58:00,Cantil,"Cough, Retro-orbital Pain, Headache, Nausea",60+
+201,2024-01-28 12:12:35,San Mariano,"Diarrhea, Cough, Fatigue, Runny Nose",30-39
+202,2024-01-28 20:53:36,San Rafael,"Retro-orbital Pain, Mild Bleeding, Headache, Fever, Joint Pain, Diarrhea, Rash",10-19
+203,2024-01-28 21:47:26,San Vicente,"Diarrhea, Joint Pain, Muscle Pain, Runny Nose",10-19
+204,2024-01-28 22:42:03,Odiong,"Retro-orbital Pain, Muscle Pain, Runny Nose, Fever, Sore Throat, Diarrhea",10-19
+205,2024-01-29 00:33:45,San Jose,"Joint Pain, Runny Nose, Mild Bleeding, Retro-orbital Pain",0-9
+206,2024-01-29 03:24:53,San Rafael,"Mild Bleeding, Runny Nose",30-39
+207,2024-01-29 03:37:06,San Isidro,"Cough, Sore Throat, Rash, Mild Bleeding, Vomiting",50-59
+208,2024-01-29 06:28:44,Maraska,"Diarrhea, Fever, Vomiting, Nausea, Sore Throat",20-29
+209,2024-01-29 09:05:42,San Miguel,"Headache, Diarrhea, Cough, Retro-orbital Pain, Fatigue, Muscle Pain, Fever, Runny Nose",10-19
+210,2024-01-29 11:43:02,San Isidro,"Joint Pain, Vomiting, Fever, Runny Nose, Nausea",10-19
+211,2024-01-29 14:08:47,Maraska,"Rash, Cough, Diarrhea, Nausea, Joint Pain",40-49
+212,2024-01-29 18:36:22,Happy Valley,"Fatigue, Vomiting, Diarrhea, Cough, Runny Nose",10-19
+213,2024-01-29 21:33:09,Paclasan,"Fatigue, Cough, Diarrhea, Sore Throat",20-29
+214,2024-01-30 00:39:53,Little Tanauan,"Runny Nose, Sore Throat, Cough, Headache",50-59
+215,2024-01-30 00:51:33,San Mariano,"Rash, Diarrhea",30-39
+216,2024-01-30 01:08:56,San Isidro,"Mild Bleeding, Muscle Pain, Vomiting, Sore Throat, Nausea, Joint Pain, Retro-orbital Pain, Fever",20-29
+217,2024-01-30 02:49:10,San Miguel,"Joint Pain, Retro-orbital Pain, Fatigue",50-59
+218,2024-01-30 09:55:47,Little Tanauan,"Fever, Rash, Retro-orbital Pain, Fatigue, Vomiting, Runny Nose, Diarrhea, Cough",0-9
+219,2024-01-30 10:25:05,Bagumbayan,"Retro-orbital Pain, Sore Throat, Diarrhea, Fever, Cough",20-29
+220,2024-01-30 22:04:42,Libtong,"Vomiting, Runny Nose, Muscle Pain, Joint Pain, Cough",30-39
+221,2024-01-31 01:04:16,San Miguel,"Retro-orbital Pain, Runny Nose, Nausea, Fatigue",50-59
+222,2024-01-31 06:01:19,San Aquilino,"Fatigue, Cough, Sore Throat, Joint Pain",10-19
+223,2024-01-31 06:41:25,Cantil,"Muscle Pain, Fatigue, Cough",10-19
+224,2024-01-31 07:48:05,Bagumbayan,"Runny Nose, Nausea, Cough, Headache",0-9
+225,2024-01-31 10:58:30,Little Tanauan,"Diarrhea, Cough, Joint Pain, Fatigue, Sore Throat, Runny Nose, Fever",30-39
+226,2024-01-31 11:39:53,Paclasan,Sore Throat,20-29
+227,2024-01-31 13:46:03,Paclasan,"Joint Pain, Rash, Vomiting, Fever, Retro-orbital Pain",20-29
+228,2024-01-31 18:45:36,Victoria,"Diarrhea, Retro-orbital Pain, Joint Pain",20-29
+229,2024-01-31 19:14:14,Paclasan,"Runny Nose, Diarrhea, Sore Throat, Fatigue, Cough",0-9
+230,2024-01-31 20:17:41,Maraska,"Diarrhea, Fever, Cough, Rash, Muscle Pain, Retro-orbital Pain, Fatigue",60+
+231,2024-01-31 22:41:13,Odiong,"Fever, Nausea, Headache",40-49
+232,2024-02-01 03:50:50,Libtong,"Runny Nose, Retro-orbital Pain, Rash, Fever, Diarrhea",50-59
+233,2024-02-01 06:04:10,Happy Valley,"Cough, Fatigue, Joint Pain, Diarrhea",0-9
+234,2024-02-01 11:43:57,San Mariano,"Diarrhea, Cough, Fever",40-49
+235,2024-02-01 15:13:18,San Miguel,"Cough, Runny Nose, Sore Throat, Fatigue",40-49
+236,2024-02-01 16:45:17,San Vicente,"Sore Throat, Rash, Nausea, Cough, Headache",20-29
+237,2024-02-01 17:32:45,Cantil,"Fatigue, Nausea, Runny Nose, Diarrhea, Headache, Sore Throat",30-39
+238,2024-02-01 17:37:47,San Mariano,"Cough, Diarrhea, Runny Nose, Fatigue, Joint Pain",40-49
+239,2024-02-01 20:15:36,San Aquilino,"Runny Nose, Diarrhea, Fatigue, Fever, Sore Throat, Cough",30-39
+240,2024-02-01 21:47:17,San Jose,"Diarrhea, Sore Throat, Mild Bleeding, Runny Nose, Cough, Muscle Pain",30-39
+241,2024-02-01 22:08:30,San Vicente,"Sore Throat, Fatigue, Diarrhea, Runny Nose",60+
+242,2024-02-01 22:53:51,San Mariano,"Fatigue, Cough, Runny Nose, Sore Throat, Nausea, Diarrhea",50-59
+243,2024-02-02 00:57:54,Bagumbayan,"Sore Throat, Diarrhea, Fever, Headache, Runny Nose",40-49
+244,2024-02-02 03:19:43,Dangay,"Sore Throat, Cough, Nausea",20-29
+245,2024-02-02 06:11:42,San Isidro,"Cough, Sore Throat, Fatigue, Runny Nose, Diarrhea",10-19
+246,2024-02-02 16:16:11,San Rafael,"Retro-orbital Pain, Diarrhea, Vomiting, Rash, Runny Nose",20-29
+247,2024-02-02 19:54:26,San Isidro,"Nausea, Fever, Mild Bleeding, Sore Throat",0-9
+248,2024-02-02 21:44:27,Paclasan,"Cough, Sore Throat, Headache",0-9
+249,2024-02-02 22:06:10,Little Tanauan,"Retro-orbital Pain, Runny Nose, Sore Throat, Fatigue",10-19
+250,2024-02-02 22:35:24,Libertad,"Nausea, Runny Nose, Fatigue, Cough, Joint Pain",40-49
+251,2024-02-03 01:27:54,Victoria,"Mild Bleeding, Vomiting, Fever",10-19
+252,2024-02-03 02:13:28,San Vicente,"Fatigue, Cough, Headache, Diarrhea, Mild Bleeding, Sore Throat",30-39
+253,2024-02-03 03:16:00,Libertad,"Cough, Fatigue",40-49
+254,2024-02-03 04:26:17,Dangay,"Sore Throat, Cough, Retro-orbital Pain, Diarrhea, Runny Nose, Fatigue",30-39
+255,2024-02-03 04:31:18,Victoria,"Muscle Pain, Fatigue, Cough, Sore Throat, Diarrhea",40-49
+256,2024-02-03 08:37:46,San Jose,"Fatigue, Vomiting, Joint Pain, Cough",50-59
+257,2024-02-03 10:48:32,Happy Valley,"Sore Throat, Diarrhea, Fever",10-19
+258,2024-02-03 18:17:45,Victoria,"Mild Bleeding, Sore Throat, Nausea, Diarrhea, Cough, Runny Nose, Fatigue",40-49
+259,2024-02-03 18:28:42,Happy Valley,"Sore Throat, Cough, Nausea",40-49
+260,2024-02-03 20:47:11,Little Tanauan,"Cough, Fatigue, Rash, Diarrhea",40-49
+261,2024-02-03 22:05:34,San Rafael,"Headache, Cough, Rash, Muscle Pain, Fatigue, Runny Nose",50-59
+262,2024-02-04 01:25:38,Libertad,"Nausea, Sore Throat",30-39
+263,2024-02-04 01:38:12,Paclasan,Fatigue,30-39
+264,2024-02-04 02:56:02,Maraska,"Mild Bleeding, Nausea, Fatigue",10-19
+265,2024-02-04 03:26:36,Odiong,"Fatigue, Retro-orbital Pain, Runny Nose, Headache, Sore Throat",20-29
+266,2024-02-04 04:34:55,Bagumbayan,"Vomiting, Diarrhea, Runny Nose",0-9
+267,2024-02-04 14:56:00,Dangay,"Muscle Pain, Vomiting, Retro-orbital Pain, Headache, Nausea, Joint Pain, Diarrhea, Fever, Rash, Mild Bleeding",10-19
+268,2024-02-04 16:11:31,Maraska,"Cough, Retro-orbital Pain, Diarrhea, Fatigue, Runny Nose",20-29
+269,2024-02-04 17:24:59,Dangay,"Sore Throat, Runny Nose, Diarrhea",50-59
+270,2024-02-04 21:04:37,Maraska,"Runny Nose, Retro-orbital Pain, Vomiting, Diarrhea, Headache",60+
+271,2024-02-05 04:41:20,Cantil,"Sore Throat, Diarrhea",20-29
+272,2024-02-05 05:18:05,Bagumbayan,"Rash, Headache, Runny Nose, Sore Throat",60+
+273,2024-02-05 07:13:03,San Mariano,"Fever, Mild Bleeding, Sore Throat, Diarrhea",50-59
+274,2024-02-05 08:21:11,San Jose,Fatigue,50-59
+275,2024-02-05 08:26:51,San Rafael,"Retro-orbital Pain, Mild Bleeding, Fatigue, Joint Pain, Sore Throat, Diarrhea",40-49
+276,2024-02-05 11:55:44,Maraska,"Sore Throat, Cough, Diarrhea, Fatigue, Runny Nose",10-19
+277,2024-02-05 11:56:13,San Vicente,"Mild Bleeding, Joint Pain, Fatigue, Cough",60+
+278,2024-02-05 13:41:33,Victoria,"Retro-orbital Pain, Runny Nose, Mild Bleeding, Fatigue, Fever, Nausea, Diarrhea",60+
+279,2024-02-05 13:44:38,San Vicente,"Cough, Fever, Rash, Headache, Vomiting, Mild Bleeding, Runny Nose, Joint Pain, Muscle Pain, Nausea, Retro-orbital Pain",30-39
+280,2024-02-05 19:33:54,San Jose,"Vomiting, Muscle Pain, Fever, Fatigue, Joint Pain, Headache, Sore Throat",20-29
+281,2024-02-05 23:46:23,San Vicente,"Cough, Sore Throat, Diarrhea, Runny Nose",0-9
+282,2024-02-06 00:03:20,Dangay,"Sore Throat, Mild Bleeding, Fatigue, Diarrhea",60+
+283,2024-02-06 05:53:30,San Miguel,Cough,10-19
+284,2024-02-06 06:57:45,Libtong,"Rash, Retro-orbital Pain, Fever, Muscle Pain, Nausea",60+
+285,2024-02-06 07:10:18,Poblacion,"Mild Bleeding, Diarrhea, Fatigue, Vomiting, Sore Throat",60+
+286,2024-02-06 08:57:53,Happy Valley,"Joint Pain, Cough, Fatigue, Rash, Fever, Diarrhea",40-49
+287,2024-02-06 09:37:01,San Mariano,"Joint Pain, Fever, Runny Nose, Sore Throat",50-59
+288,2024-02-06 10:54:54,Poblacion,"Muscle Pain, Mild Bleeding, Fever, Fatigue",60+
+289,2024-02-06 12:47:54,Libertad,"Sore Throat, Diarrhea, Mild Bleeding",50-59
+290,2024-02-06 16:48:00,San Rafael,"Runny Nose, Rash",20-29
+291,2024-02-06 23:37:23,San Mariano,Fatigue,50-59
+292,2024-02-07 02:46:57,Dangay,"Mild Bleeding, Vomiting, Fever, Runny Nose",20-29
+293,2024-02-07 03:07:45,Paclasan,"Cough, Runny Nose",60+
+294,2024-02-07 08:15:43,Bagumbayan,"Retro-orbital Pain, Joint Pain, Fatigue, Fever, Mild Bleeding",0-9
+295,2024-02-07 08:38:52,Bagumbayan,"Fatigue, Joint Pain",10-19
+296,2024-02-07 09:15:46,Libertad,"Muscle Pain, Fatigue, Vomiting",50-59
+297,2024-02-07 13:18:05,Dangay,"Sore Throat, Headache",0-9
+298,2024-02-07 20:59:38,Happy Valley,"Mild Bleeding, Rash, Sore Throat, Cough",60+
+299,2024-02-08 02:54:00,San Jose,"Rash, Mild Bleeding, Headache, Fatigue",30-39
+300,2024-02-08 07:21:15,San Miguel,"Sore Throat, Fever",40-49
+301,2024-02-08 07:22:13,Dangay,"Cough, Muscle Pain, Runny Nose, Retro-orbital Pain, Nausea",50-59
+302,2024-02-08 10:37:26,Libtong,"Diarrhea, Rash, Fatigue, Retro-orbital Pain, Sore Throat, Vomiting",40-49
+303,2024-02-08 14:34:30,Maraska,"Muscle Pain, Rash, Diarrhea, Sore Throat, Mild Bleeding",0-9
+304,2024-02-08 20:04:21,Maraska,"Muscle Pain, Cough, Runny Nose",30-39
+305,2024-02-08 21:54:42,Cantil,"Runny Nose, Mild Bleeding, Fatigue, Sore Throat, Diarrhea",40-49
+306,2024-02-09 00:37:31,Little Tanauan,"Cough, Diarrhea, Runny Nose, Retro-orbital Pain",20-29
+307,2024-02-09 03:44:03,San Isidro,"Runny Nose, Fever, Headache",60+
+308,2024-02-09 07:33:57,Odiong,"Headache, Fatigue, Joint Pain, Sore Throat",40-49
+309,2024-02-09 11:22:26,Libertad,"Sore Throat, Rash, Diarrhea, Headache, Cough",40-49
+310,2024-02-09 14:31:26,Paclasan,"Fatigue, Cough, Diarrhea, Sore Throat, Runny Nose",30-39
+311,2024-02-09 19:36:25,Cantil,"Cough, Diarrhea",30-39
+312,2024-02-09 21:36:22,San Vicente,"Fatigue, Cough, Vomiting, Sore Throat, Runny Nose, Diarrhea",30-39
+313,2024-02-09 22:32:09,Happy Valley,"Retro-orbital Pain, Vomiting, Fatigue",60+
+314,2024-02-10 01:51:34,Odiong,"Nausea, Sore Throat, Runny Nose, Fatigue, Diarrhea",40-49
+315,2024-02-10 04:28:59,Poblacion,"Muscle Pain, Vomiting, Fatigue, Rash, Diarrhea, Joint Pain, Fever",60+
+316,2024-02-10 06:38:57,Paclasan,"Runny Nose, Cough, Sore Throat",0-9
+317,2024-02-10 11:19:01,Bagumbayan,Cough,20-29
+318,2024-02-10 11:47:08,Libtong,"Joint Pain, Headache, Nausea, Mild Bleeding, Fever",60+
+319,2024-02-10 12:20:43,San Rafael,"Sore Throat, Cough",50-59
+320,2024-02-10 13:04:07,Victoria,"Runny Nose, Sore Throat, Retro-orbital Pain, Fatigue, Headache",50-59
+321,2024-02-10 20:52:58,San Miguel,"Retro-orbital Pain, Joint Pain, Runny Nose, Mild Bleeding",20-29
+322,2024-02-10 22:20:44,Maraska,"Headache, Fatigue, Runny Nose, Cough, Sore Throat",10-19
+323,2024-02-11 00:51:24,Maraska,"Cough, Fatigue, Diarrhea",60+
+324,2024-02-11 07:58:48,Little Tanauan,"Runny Nose, Cough, Joint Pain",30-39
+325,2024-02-11 18:42:10,Libertad,"Headache, Nausea, Cough",0-9
+326,2024-02-11 22:08:43,San Rafael,"Headache, Sore Throat",20-29
+327,2024-02-11 22:40:21,Little Tanauan,"Fatigue, Retro-orbital Pain, Diarrhea, Runny Nose",0-9
+328,2024-02-12 02:09:57,Victoria,"Runny Nose, Fever, Diarrhea, Cough",20-29
+329,2024-02-12 18:52:01,San Mariano,"Sore Throat, Cough, Headache, Joint Pain, Fever, Vomiting",60+
+330,2024-02-12 21:01:54,San Aquilino,"Fever, Runny Nose, Fatigue, Cough, Mild Bleeding, Diarrhea, Retro-orbital Pain",20-29
+331,2024-02-12 21:40:02,San Vicente,"Mild Bleeding, Cough, Runny Nose",50-59
+332,2024-02-12 22:09:28,Paclasan,"Diarrhea, Retro-orbital Pain",10-19
+333,2024-02-13 00:21:48,Victoria,"Headache, Muscle Pain, Fatigue, Runny Nose, Diarrhea, Retro-orbital Pain, Mild Bleeding",0-9
+334,2024-02-13 01:17:31,Little Tanauan,"Rash, Cough, Diarrhea, Joint Pain",30-39
+335,2024-02-13 03:38:45,San Vicente,"Sore Throat, Cough, Runny Nose, Diarrhea, Fatigue",60+
+336,2024-02-13 07:23:21,Happy Valley,"Sore Throat, Fatigue, Diarrhea, Cough, Fever",60+
+337,2024-02-13 09:54:39,Cantil,"Joint Pain, Rash, Fever, Retro-orbital Pain, Headache, Vomiting, Nausea, Diarrhea",0-9
+338,2024-02-13 11:03:16,San Mariano,"Sore Throat, Cough, Diarrhea, Fatigue, Vomiting, Runny Nose, Nausea",40-49
+339,2024-02-13 14:31:59,Libertad,"Cough, Fever, Fatigue, Vomiting",10-19
+340,2024-02-13 16:00:44,San Aquilino,"Vomiting, Retro-orbital Pain, Cough, Diarrhea, Runny Nose",40-49
+341,2024-02-13 23:53:53,San Isidro,"Fatigue, Diarrhea, Runny Nose",40-49
+342,2024-02-14 00:34:05,San Miguel,"Diarrhea, Runny Nose, Cough, Fatigue",50-59
+343,2024-02-14 02:55:11,San Jose,"Cough, Runny Nose, Sore Throat",40-49
+344,2024-02-14 08:09:19,Bagumbayan,"Runny Nose, Fatigue, Diarrhea, Nausea, Cough",60+
+345,2024-02-14 08:13:06,San Vicente,"Nausea, Vomiting, Fever",60+
+346,2024-02-14 18:00:00,Libtong,"Sore Throat, Runny Nose, Nausea, Cough, Fatigue, Diarrhea",10-19
+347,2024-02-15 03:14:34,Happy Valley,"Fatigue, Cough, Diarrhea, Runny Nose",60+
+348,2024-02-15 06:45:34,Poblacion,"Retro-orbital Pain, Fatigue",20-29
+349,2024-02-15 08:09:19,Libertad,"Joint Pain, Runny Nose",60+
+350,2024-02-15 17:19:29,San Isidro,"Sore Throat, Rash",0-9
+351,2024-02-15 19:53:51,San Miguel,"Cough, Fever, Joint Pain, Runny Nose",40-49
+352,2024-02-15 21:00:58,San Aquilino,"Sore Throat, Joint Pain, Diarrhea, Vomiting",10-19
+353,2024-02-16 07:32:56,San Jose,"Headache, Runny Nose, Joint Pain, Cough, Fatigue, Vomiting, Diarrhea",10-19
+354,2024-02-16 08:35:32,Little Tanauan,"Headache, Muscle Pain, Sore Throat, Rash, Vomiting, Fever, Runny Nose, Nausea, Retro-orbital Pain",0-9
+355,2024-02-16 10:18:23,Poblacion,"Joint Pain, Mild Bleeding, Headache, Sore Throat, Vomiting, Runny Nose",40-49
+356,2024-02-16 11:07:48,Odiong,"Runny Nose, Sore Throat, Headache, Diarrhea, Cough, Fatigue, Vomiting",60+
+357,2024-02-16 12:10:32,Cantil,"Retro-orbital Pain, Fever, Rash, Vomiting, Muscle Pain",60+
+358,2024-02-16 13:18:03,San Vicente,"Cough, Sore Throat, Fatigue, Diarrhea, Fever, Joint Pain, Runny Nose",10-19
+359,2024-02-16 15:26:30,San Vicente,"Diarrhea, Retro-orbital Pain, Sore Throat, Cough, Fatigue",40-49
+360,2024-02-16 16:04:39,San Vicente,"Rash, Fever, Headache, Joint Pain, Muscle Pain",30-39
+361,2024-02-16 21:33:11,Poblacion,"Muscle Pain, Fatigue, Cough, Sore Throat",50-59
+362,2024-02-17 06:11:43,San Vicente,"Diarrhea, Fatigue, Vomiting, Runny Nose, Cough",0-9
+363,2024-02-17 08:23:54,Bagumbayan,"Mild Bleeding, Headache, Sore Throat",40-49
+364,2024-02-17 11:46:28,Bagumbayan,"Fatigue, Headache, Runny Nose, Cough, Muscle Pain",10-19
+365,2024-02-17 15:10:58,Little Tanauan,"Cough, Runny Nose, Fatigue",30-39
+366,2024-02-17 15:55:03,San Miguel,"Runny Nose, Rash",50-59
+367,2024-02-17 16:51:35,Little Tanauan,"Fatigue, Cough, Nausea, Diarrhea, Sore Throat, Runny Nose",30-39
+368,2024-02-18 00:50:25,San Aquilino,"Runny Nose, Cough, Sore Throat, Fatigue",30-39
+369,2024-02-18 02:38:11,Bagumbayan,"Runny Nose, Fatigue, Sore Throat, Diarrhea",50-59
+370,2024-02-18 06:38:06,Little Tanauan,"Fatigue, Diarrhea, Runny Nose, Joint Pain, Fever",60+
+371,2024-02-18 07:15:20,San Mariano,"Vomiting, Mild Bleeding, Runny Nose, Rash, Cough, Fever, Sore Throat",30-39
+372,2024-02-18 07:51:23,San Aquilino,"Vomiting, Fever, Sore Throat, Cough",10-19
+373,2024-02-18 10:31:32,San Jose,"Sore Throat, Cough, Diarrhea, Runny Nose",10-19
+374,2024-02-18 17:39:19,San Jose,"Rash, Fatigue, Runny Nose",60+
+375,2024-02-18 18:02:01,Bagumbayan,"Diarrhea, Fatigue, Vomiting, Runny Nose, Mild Bleeding",10-19
+376,2024-02-18 18:46:30,Paclasan,"Cough, Sore Throat, Fatigue, Diarrhea, Vomiting, Retro-orbital Pain, Runny Nose",30-39
+377,2024-02-18 18:51:16,San Isidro,"Mild Bleeding, Diarrhea, Cough, Retro-orbital Pain",0-9
+378,2024-02-19 00:34:41,Libertad,"Runny Nose, Fever, Headache",10-19
+379,2024-02-19 02:27:59,San Isidro,"Runny Nose, Cough",50-59
+380,2024-02-19 03:22:24,Paclasan,"Cough, Vomiting",20-29
+381,2024-02-19 03:51:26,San Jose,"Nausea, Sore Throat, Fever, Runny Nose",50-59
+382,2024-02-19 06:45:06,San Jose,"Sore Throat, Cough, Runny Nose, Muscle Pain, Fatigue, Diarrhea, Rash",40-49
+383,2024-02-19 10:30:25,San Vicente,"Diarrhea, Headache",30-39
+384,2024-02-19 12:32:13,San Vicente,"Retro-orbital Pain, Fever, Headache, Diarrhea",0-9
+385,2024-02-19 15:59:48,San Aquilino,"Runny Nose, Rash, Joint Pain, Fatigue, Cough",30-39
+386,2024-02-19 18:53:09,Happy Valley,"Fever, Joint Pain, Retro-orbital Pain, Nausea, Mild Bleeding",60+
+387,2024-02-20 03:18:09,San Aquilino,"Runny Nose, Nausea, Sore Throat, Joint Pain, Mild Bleeding, Fatigue",0-9
+388,2024-02-20 10:53:01,San Isidro,"Fatigue, Mild Bleeding, Muscle Pain, Cough, Diarrhea",30-39
+389,2024-02-20 13:56:35,San Miguel,"Fatigue, Runny Nose, Diarrhea, Cough, Sore Throat, Retro-orbital Pain, Vomiting",20-29
+390,2024-02-20 15:23:23,San Aquilino,"Rash, Fever, Cough, Nausea, Muscle Pain, Vomiting",10-19
+391,2024-02-20 20:45:26,San Rafael,"Sore Throat, Fatigue",60+
+392,2024-02-20 21:24:16,Cantil,"Cough, Headache, Runny Nose, Fatigue, Fever",10-19
+393,2024-02-20 23:41:57,Dangay,"Retro-orbital Pain, Nausea, Sore Throat, Diarrhea, Runny Nose",20-29
+394,2024-02-20 23:41:58,Bagumbayan,"Rash, Mild Bleeding, Fever, Retro-orbital Pain, Nausea, Vomiting, Fatigue, Joint Pain, Muscle Pain, Headache",30-39
+395,2024-02-21 00:35:09,San Rafael,"Fatigue, Vomiting, Mild Bleeding",20-29
+396,2024-02-21 06:10:21,San Mariano,"Cough, Sore Throat, Retro-orbital Pain",40-49
+397,2024-02-21 06:23:08,San Miguel,"Sore Throat, Fatigue, Runny Nose, Diarrhea, Cough",10-19
+398,2024-02-21 07:18:37,San Jose,"Nausea, Fatigue, Mild Bleeding",30-39
+399,2024-02-21 09:55:05,Libtong,"Muscle Pain, Runny Nose, Diarrhea",20-29
+400,2024-02-22 02:55:39,Happy Valley,"Runny Nose, Cough, Sore Throat, Rash",20-29
+401,2024-02-22 05:21:27,San Jose,"Headache, Runny Nose, Fever, Diarrhea, Fatigue",0-9
+402,2024-02-22 06:11:59,San Miguel,"Diarrhea, Retro-orbital Pain, Cough, Fever, Runny Nose, Sore Throat, Fatigue",10-19
+403,2024-02-22 17:39:54,Happy Valley,"Diarrhea, Fatigue, Headache, Fever",0-9
+404,2024-02-22 20:44:52,Little Tanauan,"Sore Throat, Vomiting",0-9
+405,2024-02-22 21:57:29,San Miguel,"Fatigue, Cough, Joint Pain",60+
+406,2024-02-22 22:22:21,Cantil,"Mild Bleeding, Cough, Runny Nose, Diarrhea, Sore Throat, Fatigue",10-19
+407,2024-02-23 02:35:28,Bagumbayan,"Muscle Pain, Runny Nose, Rash, Diarrhea, Sore Throat, Cough",20-29
+408,2024-02-23 04:22:46,Happy Valley,"Runny Nose, Cough, Diarrhea, Joint Pain, Nausea, Mild Bleeding, Muscle Pain",60+
+409,2024-02-23 08:25:30,Little Tanauan,"Fatigue, Diarrhea, Vomiting, Cough, Muscle Pain, Fever",20-29
+410,2024-02-23 09:00:33,Poblacion,"Retro-orbital Pain, Sore Throat, Mild Bleeding",50-59
+411,2024-02-23 09:22:56,Victoria,"Fever, Mild Bleeding, Runny Nose, Fatigue, Retro-orbital Pain",40-49
+412,2024-02-23 19:02:44,Dangay,"Cough, Runny Nose, Diarrhea, Sore Throat, Rash, Fatigue",30-39
+413,2024-02-23 20:43:17,San Miguel,"Diarrhea, Sore Throat, Cough, Fatigue",30-39
+414,2024-02-23 21:56:31,Bagumbayan,"Fatigue, Sore Throat, Runny Nose",0-9
+415,2024-02-23 23:20:09,Cantil,"Fatigue, Diarrhea, Vomiting, Rash",10-19
+416,2024-02-24 03:41:49,San Aquilino,"Joint Pain, Retro-orbital Pain, Muscle Pain, Vomiting, Nausea, Fever",0-9
+417,2024-02-24 06:06:34,San Mariano,"Retro-orbital Pain, Cough, Muscle Pain",0-9
+418,2024-02-24 08:08:36,Victoria,"Mild Bleeding, Diarrhea, Sore Throat, Runny Nose",0-9
+419,2024-02-24 14:52:10,Libertad,"Diarrhea, Cough, Fatigue, Fever, Runny Nose, Sore Throat",30-39
+420,2024-02-24 15:16:21,San Miguel,"Sore Throat, Runny Nose, Diarrhea, Retro-orbital Pain, Fatigue",20-29
+421,2024-02-24 16:06:05,Victoria,"Diarrhea, Cough",50-59
+422,2024-02-24 17:10:52,San Isidro,"Diarrhea, Fatigue, Vomiting, Headache, Cough",30-39
+423,2024-02-24 20:14:16,Paclasan,"Cough, Fatigue, Mild Bleeding, Headache, Diarrhea, Runny Nose, Sore Throat",0-9
+424,2024-02-24 20:16:21,San Isidro,"Fatigue, Diarrhea, Vomiting, Cough, Retro-orbital Pain",10-19
+425,2024-02-24 21:10:22,San Jose,Cough,30-39
+426,2024-02-24 21:54:19,Maraska,"Runny Nose, Headache, Fatigue, Sore Throat, Mild Bleeding, Cough",20-29
+427,2024-02-24 23:38:22,Cantil,"Muscle Pain, Sore Throat, Fever, Rash, Fatigue",20-29
+428,2024-02-25 02:32:27,Cantil,"Vomiting, Diarrhea, Fatigue",60+
+429,2024-02-25 02:56:29,Libtong,"Runny Nose, Sore Throat, Rash, Fever, Diarrhea",60+
+430,2024-02-25 04:53:01,San Aquilino,"Nausea, Fatigue, Diarrhea, Cough",10-19
+431,2024-02-25 07:04:26,Libtong,"Cough, Fever, Runny Nose, Sore Throat, Mild Bleeding",40-49
+432,2024-02-25 09:31:08,San Aquilino,"Headache, Runny Nose, Diarrhea, Sore Throat, Joint Pain, Cough",20-29
+433,2024-02-25 14:30:45,Maraska,"Diarrhea, Rash, Mild Bleeding, Cough, Nausea, Runny Nose",50-59
+434,2024-02-25 16:16:03,San Mariano,"Fatigue, Runny Nose, Cough, Headache, Sore Throat",30-39
+435,2024-02-25 17:50:50,San Aquilino,"Cough, Diarrhea, Fatigue, Vomiting",40-49
+436,2024-02-25 18:34:35,San Aquilino,"Nausea, Fatigue, Mild Bleeding, Retro-orbital Pain",30-39
+437,2024-02-25 19:49:20,San Miguel,"Fever, Diarrhea, Sore Throat, Nausea, Fatigue, Cough, Runny Nose",0-9
+438,2024-02-25 22:40:15,Poblacion,"Cough, Muscle Pain, Runny Nose, Diarrhea",10-19
+439,2024-02-26 12:00:55,Cantil,"Sore Throat, Fatigue, Vomiting, Retro-orbital Pain, Runny Nose",40-49
+440,2024-02-26 15:52:49,San Jose,"Sore Throat, Diarrhea, Headache, Cough, Runny Nose",40-49
+441,2024-02-26 18:25:51,Cantil,"Retro-orbital Pain, Fatigue, Fever, Vomiting",60+
+442,2024-02-26 20:52:11,Libertad,"Fever, Sore Throat, Joint Pain",20-29
+443,2024-02-26 23:17:52,Paclasan,"Mild Bleeding, Joint Pain, Diarrhea",50-59
+444,2024-02-27 05:51:51,San Mariano,"Sore Throat, Diarrhea, Vomiting, Muscle Pain, Nausea, Runny Nose",0-9
+445,2024-02-27 07:41:15,San Isidro,"Diarrhea, Cough, Nausea, Runny Nose, Mild Bleeding, Retro-orbital Pain",10-19
+446,2024-02-27 13:28:48,San Mariano,"Muscle Pain, Fever, Fatigue, Joint Pain, Diarrhea, Nausea, Cough",0-9
+447,2024-02-27 17:21:25,Happy Valley,"Joint Pain, Fatigue, Runny Nose",50-59
+448,2024-02-27 20:13:58,Poblacion,"Runny Nose, Joint Pain, Cough, Fever, Diarrhea",0-9
+449,2024-02-27 22:16:47,Odiong,"Cough, Sore Throat, Fatigue, Mild Bleeding",30-39
+450,2024-02-28 00:39:00,San Aquilino,"Nausea, Diarrhea, Muscle Pain, Vomiting, Cough, Fever",10-19
+451,2024-02-28 02:43:23,Libertad,"Cough, Nausea, Muscle Pain, Mild Bleeding, Runny Nose",40-49
+452,2024-02-28 19:47:22,Maraska,"Fatigue, Nausea",30-39
+453,2024-02-28 20:02:25,San Rafael,"Headache, Cough, Sore Throat, Muscle Pain, Nausea, Fever, Diarrhea",10-19
+454,2024-02-28 21:51:15,Dangay,"Mild Bleeding, Muscle Pain, Cough",30-39
+455,2024-02-28 22:16:55,San Jose,"Sore Throat, Mild Bleeding, Nausea, Runny Nose",10-19
+456,2024-02-28 23:47:21,Cantil,Diarrhea,50-59
+457,2024-02-29 01:54:36,San Jose,"Sore Throat, Fever, Fatigue, Muscle Pain, Nausea",10-19
+458,2024-02-29 05:24:20,Bagumbayan,"Diarrhea, Fatigue, Sore Throat, Runny Nose, Rash, Cough",30-39
+459,2024-02-29 15:33:56,Victoria,"Diarrhea, Fatigue, Sore Throat",30-39
+460,2024-02-29 21:20:16,San Aquilino,"Joint Pain, Sore Throat, Retro-orbital Pain, Muscle Pain",40-49
+461,2024-03-01 02:51:24,Maraska,"Retro-orbital Pain, Muscle Pain, Fatigue",20-29
+462,2024-03-01 04:01:04,Happy Valley,"Headache, Runny Nose, Cough, Retro-orbital Pain",20-29
+463,2024-03-01 04:23:19,San Mariano,"Cough, Fatigue, Retro-orbital Pain, Joint Pain",50-59
+464,2024-03-01 04:42:26,Bagumbayan,"Rash, Mild Bleeding, Vomiting, Fever, Runny Nose",30-39
+465,2024-03-01 09:14:43,Victoria,"Runny Nose, Fatigue, Cough, Diarrhea",60+
+466,2024-03-01 10:38:19,San Aquilino,"Sore Throat, Cough",0-9
+467,2024-03-01 11:35:50,San Isidro,"Diarrhea, Mild Bleeding, Fatigue, Fever",10-19
+468,2024-03-01 12:28:08,San Rafael,"Cough, Fever, Sore Throat, Diarrhea, Fatigue, Runny Nose",30-39
+469,2024-03-01 15:06:21,San Vicente,"Sore Throat, Vomiting, Cough, Headache, Fever, Fatigue, Nausea",40-49
+470,2024-03-01 17:00:44,San Mariano,"Headache, Diarrhea, Runny Nose, Cough, Sore Throat, Fever",50-59
+471,2024-03-02 00:46:42,Paclasan,"Mild Bleeding, Runny Nose, Diarrhea, Fatigue, Sore Throat, Cough",30-39
+472,2024-03-02 05:57:08,Bagumbayan,"Cough, Sore Throat, Fatigue",60+
+473,2024-03-02 18:45:51,Happy Valley,"Fever, Runny Nose, Joint Pain, Diarrhea, Rash, Nausea, Cough",60+
+474,2024-03-02 20:40:19,Bagumbayan,"Retro-orbital Pain, Nausea, Fever, Vomiting, Headache",50-59
+475,2024-03-03 00:14:41,Victoria,"Muscle Pain, Mild Bleeding, Fever, Nausea, Sore Throat",50-59
+476,2024-03-03 08:51:00,Bagumbayan,"Vomiting, Joint Pain, Fever, Muscle Pain, Runny Nose, Nausea, Sore Throat",50-59
+477,2024-03-03 12:52:57,Paclasan,"Headache, Rash, Cough, Mild Bleeding, Sore Throat",40-49
+478,2024-03-03 14:12:56,Bagumbayan,"Sore Throat, Runny Nose, Cough, Nausea",60+
+479,2024-03-03 15:41:20,Dangay,"Cough, Retro-orbital Pain, Fever, Nausea",0-9
+480,2024-03-03 16:50:52,San Mariano,"Diarrhea, Nausea, Joint Pain",10-19
+481,2024-03-03 21:46:17,Victoria,"Fatigue, Nausea, Diarrhea, Sore Throat",10-19
+482,2024-03-03 23:51:36,Bagumbayan,"Cough, Fever, Headache, Fatigue, Nausea, Runny Nose",10-19
+483,2024-03-04 01:37:06,Bagumbayan,"Joint Pain, Cough, Muscle Pain, Runny Nose, Fever, Mild Bleeding, Vomiting",10-19
+484,2024-03-04 10:21:52,Bagumbayan,"Cough, Vomiting, Retro-orbital Pain, Muscle Pain, Rash, Diarrhea, Fever",20-29
+485,2024-03-04 16:12:09,Bagumbayan,"Runny Nose, Sore Throat, Diarrhea",0-9
+486,2024-03-05 01:55:18,Bagumbayan,"Runny Nose, Fatigue, Muscle Pain, Vomiting, Sore Throat, Fever",10-19
+487,2024-03-05 02:39:32,Bagumbayan,"Fever, Mild Bleeding, Joint Pain, Runny Nose, Fatigue, Sore Throat",10-19
+488,2024-03-05 02:47:38,Bagumbayan,"Rash, Nausea, Joint Pain, Fever, Mild Bleeding, Diarrhea, Runny Nose",60+
+489,2024-03-05 02:57:11,Libtong,"Sore Throat, Diarrhea, Runny Nose, Fatigue, Cough, Joint Pain",50-59
+490,2024-03-05 03:34:35,Libtong,"Muscle Pain, Fever, Sore Throat, Rash, Mild Bleeding, Headache, Nausea, Joint Pain, Vomiting, Diarrhea",20-29
+491,2024-03-05 05:28:31,Little Tanauan,"Joint Pain, Vomiting, Nausea, Rash, Retro-orbital Pain, Fever, Headache",30-39
+492,2024-03-05 08:26:26,Bagumbayan,"Sore Throat, Fever, Retro-orbital Pain, Diarrhea, Rash",0-9
+493,2024-03-05 11:34:54,San Rafael,"Fatigue, Cough",10-19
+494,2024-03-05 12:00:58,Bagumbayan,"Sore Throat, Runny Nose, Retro-orbital Pain, Fever, Muscle Pain, Cough",0-9
+495,2024-03-05 15:00:35,Bagumbayan,"Joint Pain, Muscle Pain, Fever, Headache, Vomiting, Rash, Retro-orbital Pain, Nausea",0-9
+496,2024-03-05 17:28:15,Bagumbayan,"Vomiting, Diarrhea",40-49
+497,2024-03-05 19:19:15,Bagumbayan,"Runny Nose, Diarrhea, Cough, Rash, Fever",30-39
+498,2024-03-05 22:51:40,Bagumbayan,"Runny Nose, Fever, Retro-orbital Pain",20-29
+499,2024-03-06 05:25:09,Bagumbayan,"Retro-orbital Pain, Fatigue, Fever, Cough, Joint Pain, Muscle Pain",10-19
+500,2024-03-06 05:31:13,Cantil,"Sore Throat, Retro-orbital Pain, Nausea, Cough",10-19
+501,2024-03-06 14:46:14,Bagumbayan,"Muscle Pain, Sore Throat, Retro-orbital Pain, Vomiting",10-19
+502,2024-03-06 18:26:40,San Jose,"Retro-orbital Pain, Joint Pain, Fatigue, Vomiting",10-19
+503,2024-03-06 19:55:11,Dangay,"Nausea, Cough, Diarrhea",10-19
+504,2024-03-06 21:38:48,Libtong,"Fever, Muscle Pain, Vomiting, Rash, Fatigue, Retro-orbital Pain",20-29
+505,2024-03-06 23:09:45,Bagumbayan,"Headache, Joint Pain, Muscle Pain, Fatigue, Cough, Vomiting, Fever",10-19
+506,2024-03-07 00:55:24,Bagumbayan,"Vomiting, Joint Pain, Mild Bleeding, Fever, Rash, Headache, Nausea",60+
+507,2024-03-07 01:10:17,Bagumbayan,"Sore Throat, Fatigue, Cough, Diarrhea, Runny Nose, Vomiting",40-49
+508,2024-03-07 01:17:58,Maraska,"Diarrhea, Sore Throat, Headache",20-29
+509,2024-03-07 06:28:39,Little Tanauan,"Fatigue, Rash, Sore Throat, Nausea, Runny Nose, Cough",30-39
+510,2024-03-07 10:50:33,Bagumbayan,"Fever, Joint Pain, Retro-orbital Pain, Vomiting, Sore Throat",40-49
+511,2024-03-07 12:10:49,Victoria,"Sore Throat, Diarrhea, Cough, Fatigue, Runny Nose",40-49
+512,2024-03-07 13:21:13,Maraska,"Fever, Sore Throat, Diarrhea, Mild Bleeding, Rash",30-39
+513,2024-03-07 15:49:46,Maraska,"Mild Bleeding, Runny Nose, Cough, Sore Throat, Fever, Retro-orbital Pain",60+
+514,2024-03-07 15:58:29,San Vicente,"Diarrhea, Fever, Vomiting, Cough",10-19
+515,2024-03-07 16:29:49,San Isidro,"Runny Nose, Sore Throat, Joint Pain, Fatigue, Cough, Vomiting, Diarrhea",50-59
+516,2024-03-07 17:05:33,Odiong,"Diarrhea, Cough, Sore Throat, Fatigue, Runny Nose",0-9
+517,2024-03-07 19:30:36,Bagumbayan,"Mild Bleeding, Diarrhea, Runny Nose, Cough, Retro-orbital Pain",20-29
+518,2024-03-07 21:40:24,Libtong,"Cough, Runny Nose, Rash, Fatigue",20-29
+519,2024-03-07 22:55:48,San Aquilino,"Retro-orbital Pain, Vomiting, Fever, Sore Throat, Diarrhea, Nausea, Mild Bleeding",60+
+520,2024-03-08 02:35:48,Bagumbayan,"Fever, Mild Bleeding, Vomiting, Runny Nose, Nausea, Cough, Joint Pain",20-29
+521,2024-03-08 03:33:11,Bagumbayan,"Fatigue, Fever, Cough, Sore Throat, Rash",60+
+522,2024-03-08 04:43:19,Bagumbayan,"Headache, Rash, Nausea, Retro-orbital Pain, Fever, Diarrhea, Mild Bleeding, Vomiting, Muscle Pain, Joint Pain, Sore Throat",60+
+523,2024-03-08 07:45:25,Bagumbayan,"Joint Pain, Fever, Muscle Pain, Cough",10-19
+524,2024-03-08 08:20:57,Bagumbayan,"Cough, Nausea, Fever, Mild Bleeding, Sore Throat, Rash, Diarrhea",40-49
+525,2024-03-08 09:13:54,Happy Valley,"Headache, Fever, Nausea, Cough",40-49
+526,2024-03-08 12:43:18,Dangay,"Mild Bleeding, Fever, Headache, Diarrhea, Retro-orbital Pain",10-19
+527,2024-03-08 17:14:54,San Aquilino,"Joint Pain, Fatigue, Diarrhea, Runny Nose",0-9
+528,2024-03-08 18:14:34,Bagumbayan,"Retro-orbital Pain, Fever, Rash, Muscle Pain, Joint Pain, Sore Throat, Fatigue, Vomiting",0-9
+529,2024-03-09 15:28:50,San Jose,"Sore Throat, Diarrhea, Headache, Cough, Runny Nose, Fatigue",50-59
+530,2024-03-09 19:59:25,Happy Valley,"Vomiting, Sore Throat, Headache, Cough, Fatigue",50-59
+531,2024-03-09 21:04:16,San Miguel,"Sore Throat, Mild Bleeding, Cough",50-59
+532,2024-03-09 21:49:56,San Aquilino,"Retro-orbital Pain, Mild Bleeding, Muscle Pain, Cough, Fever, Joint Pain, Rash, Headache, Nausea",0-9
+533,2024-03-10 05:50:04,Little Tanauan,"Joint Pain, Mild Bleeding, Fatigue, Sore Throat",60+
+534,2024-03-10 06:04:06,San Rafael,"Runny Nose, Cough, Vomiting, Sore Throat, Fever",20-29
+535,2024-03-10 08:47:12,Bagumbayan,"Sore Throat, Cough, Headache, Diarrhea, Joint Pain",50-59
+536,2024-03-10 09:42:54,San Mariano,"Sore Throat, Headache, Runny Nose, Fatigue, Fever, Cough",50-59
+537,2024-03-10 10:02:21,Bagumbayan,"Joint Pain, Vomiting, Headache, Muscle Pain, Rash, Retro-orbital Pain, Nausea, Fever",0-9
+538,2024-03-10 16:50:32,Bagumbayan,"Fever, Retro-orbital Pain, Mild Bleeding, Joint Pain",60+
+539,2024-03-10 19:12:45,Dangay,"Muscle Pain, Diarrhea, Runny Nose, Sore Throat, Cough, Fatigue",40-49
+540,2024-03-10 19:48:49,Paclasan,"Diarrhea, Sore Throat, Runny Nose, Fever, Fatigue",30-39
+541,2024-03-10 21:45:18,Bagumbayan,"Vomiting, Cough, Nausea, Fever, Diarrhea, Headache",20-29
+542,2024-03-11 03:54:35,Libtong,"Runny Nose, Rash, Fatigue",50-59
+543,2024-03-11 06:44:50,Paclasan,"Headache, Mild Bleeding, Joint Pain, Fever",50-59
+544,2024-03-11 07:58:11,San Aquilino,"Sore Throat, Cough, Fatigue, Retro-orbital Pain, Headache",30-39
+545,2024-03-11 08:00:11,Bagumbayan,"Joint Pain, Headache, Fever, Rash",50-59
+546,2024-03-11 13:55:06,San Isidro,"Mild Bleeding, Fatigue, Runny Nose",60+
+547,2024-03-11 15:18:43,San Isidro,"Vomiting, Cough, Diarrhea, Fatigue, Retro-orbital Pain, Muscle Pain",40-49
+548,2024-03-11 16:45:42,Odiong,"Mild Bleeding, Sore Throat, Headache, Fatigue",20-29
+549,2024-03-11 17:49:39,Bagumbayan,"Joint Pain, Fever, Mild Bleeding, Runny Nose, Nausea, Headache, Vomiting",20-29
+550,2024-03-11 22:27:21,Bagumbayan,"Joint Pain, Fever, Diarrhea, Mild Bleeding, Headache",50-59
+551,2024-03-11 23:42:05,Bagumbayan,"Muscle Pain, Fever, Nausea, Joint Pain, Headache",10-19
+552,2024-03-12 04:42:26,Cantil,"Muscle Pain, Runny Nose, Joint Pain",10-19
+553,2024-03-12 11:49:51,San Rafael,"Runny Nose, Fatigue, Cough",10-19
+554,2024-03-12 13:43:58,San Miguel,"Nausea, Fever, Cough, Headache, Runny Nose, Fatigue",50-59
+555,2024-03-12 20:48:30,San Aquilino,"Diarrhea, Fatigue, Runny Nose, Cough",20-29
+556,2024-03-12 22:23:42,Bagumbayan,"Sore Throat, Cough, Nausea, Fever, Mild Bleeding, Muscle Pain",0-9
+557,2024-03-13 12:39:06,Victoria,"Fatigue, Diarrhea",10-19
+558,2024-03-13 13:32:04,Maraska,"Retro-orbital Pain, Rash, Fever, Joint Pain, Muscle Pain, Cough, Diarrhea, Vomiting",50-59
+559,2024-03-13 17:51:10,Dangay,"Mild Bleeding, Runny Nose, Fever, Vomiting, Cough, Muscle Pain, Rash",10-19
+560,2024-03-14 00:31:19,Bagumbayan,"Joint Pain, Sore Throat, Mild Bleeding, Fever",20-29
+561,2024-03-14 04:32:34,San Rafael,"Fever, Headache, Cough, Sore Throat, Rash, Joint Pain, Fatigue",10-19
+562,2024-03-14 08:39:49,Bagumbayan,"Fever, Cough, Joint Pain, Fatigue",0-9
+563,2024-03-14 11:41:52,Bagumbayan,Runny Nose,30-39
+564,2024-03-14 18:18:20,Bagumbayan,"Runny Nose, Muscle Pain, Joint Pain, Mild Bleeding, Fever, Fatigue",10-19
+565,2024-03-14 23:55:59,Victoria,"Diarrhea, Fatigue, Runny Nose, Sore Throat, Cough",0-9
+566,2024-03-15 05:43:34,San Miguel,Cough,40-49
+567,2024-03-15 09:28:07,Bagumbayan,"Diarrhea, Fever, Nausea, Runny Nose, Cough, Mild Bleeding, Rash",0-9
+568,2024-03-15 09:41:21,Bagumbayan,"Muscle Pain, Cough, Vomiting, Retro-orbital Pain, Fatigue, Fever",0-9
+569,2024-03-15 12:38:04,Odiong,"Muscle Pain, Sore Throat, Mild Bleeding, Fatigue",0-9
+570,2024-03-15 16:35:33,Libertad,"Diarrhea, Runny Nose, Vomiting, Mild Bleeding, Fever, Headache, Retro-orbital Pain",60+
+571,2024-03-15 16:49:12,Odiong,"Fever, Mild Bleeding, Joint Pain, Fatigue, Diarrhea, Headache",40-49
+572,2024-03-15 17:02:01,Bagumbayan,"Joint Pain, Nausea, Sore Throat, Runny Nose, Fever, Retro-orbital Pain",10-19
+573,2024-03-15 21:57:11,Bagumbayan,"Retro-orbital Pain, Cough, Headache, Sore Throat, Fever",0-9
+574,2024-03-15 23:12:45,Bagumbayan,"Runny Nose, Joint Pain, Diarrhea, Sore Throat, Nausea",30-39
+575,2024-03-16 01:27:03,Bagumbayan,"Retro-orbital Pain, Joint Pain, Fever",30-39
+576,2024-03-16 02:00:56,San Jose,"Cough, Vomiting, Headache, Fever, Retro-orbital Pain",0-9
+577,2024-03-16 09:33:19,San Rafael,"Runny Nose, Sore Throat, Diarrhea",60+
+578,2024-03-16 10:51:16,Bagumbayan,"Diarrhea, Runny Nose, Joint Pain, Sore Throat, Cough, Retro-orbital Pain",40-49
+579,2024-03-16 14:23:56,San Jose,"Diarrhea, Fatigue, Joint Pain, Cough, Sore Throat",60+
+580,2024-03-16 17:28:02,Dangay,"Rash, Fatigue, Fever, Mild Bleeding, Cough",20-29
+581,2024-03-17 00:38:22,Little Tanauan,"Fever, Mild Bleeding, Runny Nose",10-19
+582,2024-03-17 12:41:36,Maraska,"Joint Pain, Muscle Pain, Cough, Fatigue, Sore Throat",60+
+583,2024-03-17 15:23:34,Bagumbayan,"Sore Throat, Retro-orbital Pain, Nausea, Muscle Pain, Vomiting, Fever, Mild Bleeding, Joint Pain, Headache",50-59
+584,2024-03-17 19:52:14,Bagumbayan,"Runny Nose, Nausea, Fever, Rash, Fatigue",60+
+585,2024-03-18 01:47:53,Victoria,"Sore Throat, Fatigue, Diarrhea, Runny Nose, Cough",10-19
+586,2024-03-18 02:34:20,Bagumbayan,"Fever, Diarrhea, Vomiting, Cough, Retro-orbital Pain, Mild Bleeding, Runny Nose, Joint Pain",10-19
+587,2024-03-18 06:03:12,San Vicente,"Sore Throat, Fatigue, Cough, Retro-orbital Pain",10-19
+588,2024-03-18 06:48:45,Bagumbayan,"Muscle Pain, Sore Throat, Fever, Runny Nose",30-39
+589,2024-03-18 07:54:38,San Jose,"Cough, Joint Pain, Vomiting",10-19
+590,2024-03-18 09:07:40,Bagumbayan,Sore Throat,20-29
+591,2024-03-18 12:30:03,Bagumbayan,"Rash, Vomiting, Fatigue, Muscle Pain, Mild Bleeding, Nausea, Cough, Retro-orbital Pain",60+
+592,2024-03-18 17:20:22,Bagumbayan,"Runny Nose, Muscle Pain, Sore Throat",60+
+593,2024-03-19 03:01:17,Bagumbayan,"Fever, Fatigue, Rash, Retro-orbital Pain, Mild Bleeding, Headache, Nausea, Vomiting, Joint Pain, Muscle Pain",60+
+594,2024-03-19 11:00:47,Bagumbayan,"Fever, Cough, Mild Bleeding, Vomiting, Headache, Nausea, Muscle Pain, Rash",40-49
+595,2024-03-19 11:31:49,Happy Valley,"Fever, Runny Nose, Fatigue, Cough, Sore Throat",50-59
+596,2024-03-19 12:06:39,Libtong,"Fatigue, Nausea, Cough, Sore Throat, Diarrhea, Vomiting",20-29
+597,2024-03-19 12:39:55,San Miguel,"Sore Throat, Cough, Runny Nose, Rash, Diarrhea",40-49
+598,2024-03-19 19:48:34,San Mariano,"Nausea, Vomiting, Fever, Mild Bleeding, Rash, Muscle Pain, Joint Pain, Headache",10-19
+599,2024-03-19 21:00:19,Paclasan,"Runny Nose, Sore Throat, Cough",60+
+600,2024-03-19 23:36:22,San Mariano,"Retro-orbital Pain, Runny Nose, Diarrhea, Sore Throat, Rash, Headache",10-19
+601,2024-03-20 07:31:01,Bagumbayan,"Joint Pain, Rash, Headache, Fever, Runny Nose, Vomiting",20-29
+602,2024-03-20 07:55:58,San Miguel,"Diarrhea, Mild Bleeding",50-59
+603,2024-03-20 08:22:56,Bagumbayan,"Fever, Diarrhea, Cough, Runny Nose, Retro-orbital Pain",10-19
+604,2024-03-20 22:10:31,Bagumbayan,"Nausea, Retro-orbital Pain, Headache, Muscle Pain, Fever",30-39
+605,2024-03-21 01:18:04,Bagumbayan,"Sore Throat, Fever, Diarrhea, Vomiting, Fatigue, Mild Bleeding, Headache",40-49
+606,2024-03-21 02:37:40,Bagumbayan,"Mild Bleeding, Fatigue, Runny Nose, Sore Throat, Headache",60+
+607,2024-03-21 05:12:29,San Vicente,"Joint Pain, Runny Nose, Diarrhea, Vomiting, Fever, Headache",60+
+608,2024-03-21 07:19:41,San Mariano,"Sore Throat, Runny Nose, Cough, Diarrhea, Vomiting",20-29
+609,2024-03-21 09:31:20,Happy Valley,"Cough, Nausea, Mild Bleeding",10-19
+610,2024-03-21 11:37:38,Bagumbayan,"Vomiting, Sore Throat, Joint Pain, Headache, Muscle Pain",50-59
+611,2024-03-21 12:50:52,Bagumbayan,"Sore Throat, Headache, Rash",60+
+612,2024-03-21 14:25:29,Bagumbayan,"Runny Nose, Cough, Vomiting, Sore Throat, Mild Bleeding, Nausea, Fever",0-9
+613,2024-03-21 16:29:57,Paclasan,Diarrhea,60+
+614,2024-03-21 23:24:55,Libtong,"Rash, Headache, Retro-orbital Pain, Fever, Muscle Pain",60+
+615,2024-03-21 23:51:22,Bagumbayan,"Vomiting, Joint Pain, Fever, Headache, Muscle Pain, Retro-orbital Pain",60+
+616,2024-03-22 00:40:41,San Isidro,"Sore Throat, Fever, Rash, Diarrhea",20-29
+617,2024-03-22 04:25:25,Bagumbayan,"Fever, Cough, Retro-orbital Pain",30-39
+618,2024-03-22 11:25:28,Victoria,"Diarrhea, Vomiting, Retro-orbital Pain, Cough, Sore Throat",20-29
+619,2024-03-22 12:26:11,Bagumbayan,"Runny Nose, Nausea, Fatigue, Diarrhea, Sore Throat, Cough, Rash",30-39
+620,2024-03-22 16:31:31,Little Tanauan,"Nausea, Muscle Pain, Rash, Retro-orbital Pain, Fever, Headache, Vomiting",60+
+621,2024-03-22 18:33:42,Bagumbayan,"Fever, Vomiting, Muscle Pain, Runny Nose",10-19
+622,2024-03-22 18:34:51,Bagumbayan,"Mild Bleeding, Nausea, Runny Nose",0-9
+623,2024-03-22 18:59:03,San Rafael,"Fatigue, Diarrhea, Sore Throat",0-9
+624,2024-03-22 22:07:35,Bagumbayan,"Rash, Fever, Vomiting, Runny Nose",50-59
+625,2024-03-22 22:31:26,San Aquilino,"Nausea, Mild Bleeding, Cough, Fatigue",0-9
+626,2024-03-22 23:42:06,San Jose,"Sore Throat, Cough, Runny Nose",10-19
+627,2024-03-23 06:17:11,Bagumbayan,"Cough, Diarrhea, Nausea, Fever, Fatigue",0-9
+628,2024-03-23 08:24:43,Bagumbayan,"Rash, Fever, Nausea",50-59
+629,2024-03-23 08:39:28,Dangay,"Diarrhea, Headache, Joint Pain",20-29
+630,2024-03-23 15:32:01,San Miguel,"Runny Nose, Nausea",50-59
+631,2024-03-23 19:54:28,Bagumbayan,"Cough, Sore Throat, Vomiting, Fever, Nausea, Rash, Joint Pain, Retro-orbital Pain, Muscle Pain",60+
+632,2024-03-23 23:47:53,Happy Valley,"Fatigue, Rash, Sore Throat, Runny Nose, Cough, Retro-orbital Pain, Diarrhea",60+
+633,2024-03-24 01:31:59,Bagumbayan,"Joint Pain, Headache, Vomiting, Muscle Pain, Rash",20-29
+634,2024-03-24 02:24:31,Bagumbayan,"Retro-orbital Pain, Headache, Fever, Sore Throat",50-59
+635,2024-03-24 04:36:50,Odiong,"Runny Nose, Diarrhea, Cough, Sore Throat, Nausea, Fatigue",0-9
+636,2024-03-24 10:07:28,San Jose,"Fatigue, Runny Nose, Muscle Pain, Mild Bleeding, Sore Throat",60+
+637,2024-03-24 11:25:42,Maraska,"Fatigue, Runny Nose, Cough, Joint Pain, Sore Throat",40-49
+638,2024-03-24 18:46:12,Libtong,"Fatigue, Mild Bleeding, Joint Pain",60+
+639,2024-03-24 19:06:30,San Jose,"Retro-orbital Pain, Sore Throat, Joint Pain, Muscle Pain",0-9
+640,2024-03-25 00:19:55,Bagumbayan,"Fever, Sore Throat, Diarrhea, Cough, Vomiting, Muscle Pain, Fatigue",30-39
+641,2024-03-25 02:22:40,Libtong,"Sore Throat, Nausea, Rash",10-19
+642,2024-03-25 04:09:17,San Vicente,"Fatigue, Cough, Diarrhea, Sore Throat",20-29
+643,2024-03-25 10:51:34,San Vicente,"Runny Nose, Diarrhea, Vomiting, Cough",30-39
+644,2024-03-25 12:30:35,Cantil,"Sore Throat, Mild Bleeding, Cough, Joint Pain, Fatigue, Vomiting",30-39
+645,2024-03-25 18:18:51,Libtong,"Headache, Nausea, Fatigue, Cough",10-19
+646,2024-03-25 18:53:44,San Mariano,"Mild Bleeding, Diarrhea, Retro-orbital Pain",30-39
+647,2024-03-25 20:10:11,San Miguel,"Runny Nose, Rash, Fatigue, Sore Throat",60+
+648,2024-03-25 22:32:16,Libertad,"Runny Nose, Cough",30-39
+649,2024-03-26 01:46:41,Poblacion,"Mild Bleeding, Headache, Sore Throat, Runny Nose",50-59
+650,2024-03-26 06:10:59,San Miguel,"Headache, Diarrhea, Joint Pain, Sore Throat",0-9
+651,2024-03-26 11:11:20,Bagumbayan,"Diarrhea, Joint Pain, Fatigue, Fever, Runny Nose, Cough, Sore Throat",0-9
+652,2024-03-26 14:04:55,San Isidro,"Diarrhea, Cough, Runny Nose, Headache, Sore Throat",40-49
+653,2024-03-26 15:10:46,San Miguel,"Cough, Sore Throat, Vomiting, Headache, Retro-orbital Pain, Fatigue",40-49
+654,2024-03-26 18:42:43,San Mariano,"Mild Bleeding, Joint Pain, Runny Nose, Vomiting, Fatigue, Cough",10-19
+655,2024-03-26 23:39:45,Happy Valley,"Runny Nose, Retro-orbital Pain, Nausea, Diarrhea, Fatigue",30-39
+656,2024-03-27 01:54:42,Victoria,"Vomiting, Fatigue, Joint Pain, Sore Throat, Headache, Runny Nose",30-39
+657,2024-03-27 04:58:26,Libertad,"Joint Pain, Fever, Runny Nose, Cough, Fatigue",30-39
+658,2024-03-27 07:23:50,San Miguel,"Vomiting, Sore Throat, Cough, Fatigue, Runny Nose",30-39
+659,2024-03-27 08:45:59,San Mariano,"Sore Throat, Fatigue, Diarrhea, Rash",10-19
+660,2024-03-27 08:48:34,Dangay,"Fatigue, Sore Throat, Diarrhea, Retro-orbital Pain",0-9
+661,2024-03-27 11:09:42,Odiong,"Fever, Runny Nose, Sore Throat, Vomiting, Cough, Muscle Pain",50-59
+662,2024-03-27 11:28:32,San Rafael,"Headache, Cough, Joint Pain, Retro-orbital Pain, Sore Throat",0-9
+663,2024-03-27 15:26:56,San Aquilino,"Fatigue, Diarrhea, Cough",0-9
+664,2024-03-27 20:24:56,San Aquilino,"Runny Nose, Sore Throat, Nausea, Muscle Pain, Mild Bleeding",30-39
+665,2024-03-27 23:06:20,Libertad,"Fatigue, Sore Throat, Retro-orbital Pain, Diarrhea, Nausea",60+
+666,2024-03-28 19:11:19,San Rafael,"Retro-orbital Pain, Fever, Nausea, Mild Bleeding",0-9
+667,2024-03-28 23:09:55,Cantil,"Muscle Pain, Diarrhea",30-39
+668,2024-03-29 01:12:46,San Mariano,Fatigue,0-9
+669,2024-03-29 03:49:41,Poblacion,"Sore Throat, Fatigue, Runny Nose, Diarrhea, Cough",0-9
+670,2024-03-29 06:25:33,Dangay,"Diarrhea, Retro-orbital Pain, Sore Throat",40-49
+671,2024-03-29 06:54:36,Libtong,"Sore Throat, Cough, Fatigue, Runny Nose",10-19
+672,2024-03-29 18:17:35,San Mariano,"Sore Throat, Fatigue, Mild Bleeding, Runny Nose, Cough, Diarrhea, Muscle Pain",20-29
+673,2024-03-29 23:38:14,Happy Valley,"Fatigue, Rash, Sore Throat",10-19
+674,2024-03-30 01:42:54,Libtong,"Retro-orbital Pain, Nausea, Cough, Mild Bleeding, Fatigue",60+
+675,2024-03-30 13:44:10,Paclasan,Cough,40-49
+676,2024-03-30 13:46:08,Dangay,"Retro-orbital Pain, Runny Nose, Fever, Mild Bleeding, Sore Throat, Cough",20-29
+677,2024-03-30 20:34:00,Odiong,"Vomiting, Runny Nose, Nausea, Diarrhea, Fever",60+
+678,2024-03-30 20:45:20,Victoria,"Sore Throat, Cough, Runny Nose",40-49
+679,2024-03-30 20:58:12,Bagumbayan,"Mild Bleeding, Fatigue, Runny Nose, Sore Throat, Cough, Diarrhea",10-19
+680,2024-03-30 21:57:05,Paclasan,"Headache, Sore Throat, Retro-orbital Pain, Runny Nose",10-19
+681,2024-03-30 23:03:50,San Rafael,"Runny Nose, Fatigue, Cough",60+
+682,2024-03-30 23:37:15,Cantil,"Runny Nose, Cough, Fatigue, Sore Throat, Diarrhea",40-49
+683,2024-03-31 12:19:39,Victoria,"Fatigue, Cough, Sore Throat, Runny Nose",10-19
+684,2024-03-31 13:25:32,Cantil,"Fatigue, Runny Nose, Cough",40-49
+685,2024-03-31 15:42:25,San Aquilino,"Muscle Pain, Headache, Sore Throat, Runny Nose, Rash",60+
+686,2024-03-31 16:38:25,Dangay,"Diarrhea, Cough, Mild Bleeding, Retro-orbital Pain, Fever",30-39
+687,2024-03-31 16:53:03,Bagumbayan,"Muscle Pain, Nausea, Joint Pain, Headache, Vomiting, Rash, Fever",10-19
+688,2024-03-31 18:54:59,Little Tanauan,"Sore Throat, Joint Pain, Muscle Pain",0-9
+689,2024-03-31 23:15:11,San Aquilino,"Fatigue, Fever, Headache, Joint Pain",10-19
+690,2024-04-01 00:22:04,Poblacion,"Diarrhea, Muscle Pain, Headache, Sore Throat, Joint Pain",60+
+691,2024-04-01 01:11:25,Libertad,"Diarrhea, Nausea, Rash, Sore Throat",30-39
+692,2024-04-01 01:51:13,Bagumbayan,"Runny Nose, Nausea, Fatigue, Vomiting",10-19
+693,2024-04-01 02:21:33,San Vicente,"Mild Bleeding, Vomiting, Diarrhea, Fatigue, Cough, Sore Throat",50-59
+694,2024-04-01 02:41:49,San Miguel,"Fatigue, Headache",20-29
+695,2024-04-01 04:35:16,Happy Valley,"Joint Pain, Runny Nose, Fatigue",40-49
+696,2024-04-01 06:37:16,San Aquilino,"Cough, Runny Nose, Diarrhea, Retro-orbital Pain",40-49
+697,2024-04-01 09:17:40,Cantil,"Sore Throat, Rash, Fatigue, Cough, Mild Bleeding",10-19
+698,2024-04-01 13:17:10,San Mariano,"Headache, Muscle Pain, Nausea, Fever, Vomiting",60+
+699,2024-04-01 16:55:04,Libertad,"Cough, Sore Throat",30-39
+700,2024-04-01 18:32:45,Libtong,"Runny Nose, Diarrhea, Cough, Nausea, Sore Throat, Mild Bleeding",30-39
+701,2024-04-01 20:34:16,Dangay,"Mild Bleeding, Sore Throat, Runny Nose, Fever",40-49
+702,2024-04-01 20:40:24,Libtong,"Fever, Vomiting, Nausea, Mild Bleeding, Runny Nose",0-9
+703,2024-04-01 21:10:51,Cantil,"Vomiting, Fatigue, Sore Throat, Runny Nose, Cough, Muscle Pain, Diarrhea",0-9
+704,2024-04-01 22:28:48,San Miguel,"Diarrhea, Runny Nose, Fatigue, Sore Throat, Vomiting, Cough",20-29
+705,2024-04-01 23:14:02,Victoria,"Sore Throat, Headache, Fatigue, Runny Nose",40-49
+706,2024-04-02 02:21:08,San Miguel,"Diarrhea, Fever, Runny Nose, Fatigue",40-49
+707,2024-04-02 03:20:45,Little Tanauan,"Retro-orbital Pain, Vomiting, Nausea, Muscle Pain, Rash",10-19
+708,2024-04-02 06:06:23,San Vicente,"Joint Pain, Sore Throat, Fatigue, Diarrhea, Runny Nose, Cough",30-39
+709,2024-04-02 07:39:03,Cantil,"Runny Nose, Diarrhea, Sore Throat, Headache, Retro-orbital Pain",60+
+710,2024-04-02 09:16:43,San Jose,"Cough, Rash, Headache",10-19
+711,2024-04-02 10:47:15,San Mariano,"Retro-orbital Pain, Fatigue, Runny Nose, Sore Throat",30-39
+712,2024-04-02 11:49:33,San Aquilino,"Muscle Pain, Mild Bleeding, Runny Nose, Sore Throat",10-19
+713,2024-04-02 15:49:04,San Aquilino,"Sore Throat, Nausea, Vomiting, Fever, Retro-orbital Pain",30-39
+714,2024-04-02 15:55:34,San Mariano,"Muscle Pain, Vomiting, Cough",60+
+715,2024-04-03 00:19:32,San Isidro,"Fever, Fatigue, Runny Nose, Rash",20-29
+716,2024-04-03 00:24:03,Dangay,"Runny Nose, Rash, Retro-orbital Pain, Fatigue",10-19
+717,2024-04-03 00:35:58,Libertad,"Rash, Runny Nose, Muscle Pain, Diarrhea",30-39
+718,2024-04-03 03:07:19,San Vicente,"Vomiting, Diarrhea, Rash, Cough, Nausea",50-59
+719,2024-04-03 06:41:13,San Isidro,"Cough, Fatigue, Diarrhea, Headache, Sore Throat, Vomiting",50-59
+720,2024-04-03 07:47:09,Maraska,"Muscle Pain, Runny Nose, Vomiting",20-29
+721,2024-04-03 09:44:47,Libtong,"Diarrhea, Sore Throat, Cough",20-29
+722,2024-04-03 10:44:07,Poblacion,"Runny Nose, Diarrhea, Sore Throat, Cough, Fatigue",50-59
+723,2024-04-03 13:36:40,San Rafael,"Mild Bleeding, Cough, Nausea",0-9
+724,2024-04-03 22:39:52,San Rafael,"Vomiting, Cough, Sore Throat, Muscle Pain",10-19
+725,2024-04-03 23:36:29,Cantil,"Runny Nose, Sore Throat, Diarrhea",10-19
+726,2024-04-04 00:30:32,Maraska,"Runny Nose, Sore Throat, Cough, Retro-orbital Pain",10-19
+727,2024-04-04 02:33:45,Cantil,"Cough, Rash",20-29
+728,2024-04-04 05:52:34,San Aquilino,"Fever, Headache, Mild Bleeding, Cough, Fatigue, Sore Throat",40-49
+729,2024-04-04 07:00:02,Bagumbayan,"Diarrhea, Fatigue, Cough, Runny Nose",30-39
+730,2024-04-04 12:29:44,Odiong,"Rash, Diarrhea",20-29
+731,2024-04-05 05:53:40,Dangay,"Mild Bleeding, Muscle Pain, Fever, Rash, Nausea, Retro-orbital Pain, Vomiting, Headache, Joint Pain, Sore Throat",50-59
+732,2024-04-05 06:48:54,Happy Valley,"Diarrhea, Runny Nose, Mild Bleeding",20-29
+733,2024-04-05 10:46:34,Happy Valley,"Retro-orbital Pain, Vomiting, Diarrhea, Cough, Fatigue, Runny Nose",30-39
+734,2024-04-05 12:13:49,Libertad,"Fever, Muscle Pain, Runny Nose",20-29
+735,2024-04-05 12:28:54,Dangay,"Cough, Joint Pain, Diarrhea, Sore Throat",0-9
+736,2024-04-05 17:19:23,Libertad,"Mild Bleeding, Runny Nose, Vomiting, Cough",0-9
+737,2024-04-05 18:18:46,San Aquilino,"Fatigue, Fever, Runny Nose, Cough, Diarrhea",0-9
+738,2024-04-05 19:43:08,San Aquilino,"Fever, Runny Nose, Mild Bleeding, Joint Pain",10-19
+739,2024-04-06 04:37:36,Cantil,"Diarrhea, Sore Throat, Mild Bleeding, Vomiting, Fatigue",50-59
+740,2024-04-06 05:52:18,Dangay,"Muscle Pain, Fever, Nausea, Fatigue, Diarrhea",30-39
+741,2024-04-06 10:27:37,Odiong,"Sore Throat, Joint Pain, Diarrhea, Cough",30-39
+742,2024-04-06 14:56:52,San Miguel,"Vomiting, Runny Nose, Sore Throat",20-29
+743,2024-04-06 15:34:10,Little Tanauan,Runny Nose,50-59
+744,2024-04-06 16:40:34,San Miguel,"Runny Nose, Diarrhea, Sore Throat, Vomiting, Mild Bleeding, Fatigue",0-9
+745,2024-04-06 18:12:27,Paclasan,"Cough, Rash, Nausea",20-29
+746,2024-04-07 06:31:29,Odiong,"Muscle Pain, Cough, Fatigue, Runny Nose",20-29
+747,2024-04-07 10:57:29,San Jose,"Sore Throat, Nausea",0-9
+748,2024-04-07 14:23:32,San Isidro,"Cough, Vomiting, Joint Pain, Rash",50-59
+749,2024-04-07 17:10:29,San Miguel,"Muscle Pain, Cough, Fatigue, Runny Nose",40-49
+750,2024-04-07 18:22:48,Bagumbayan,"Cough, Fatigue, Sore Throat, Runny Nose",30-39
+751,2024-04-07 18:54:57,San Vicente,"Sore Throat, Joint Pain, Diarrhea, Retro-orbital Pain",20-29
+752,2024-04-07 19:57:50,Odiong,"Mild Bleeding, Sore Throat, Cough, Fever, Joint Pain",60+
+753,2024-04-07 22:43:57,Little Tanauan,"Sore Throat, Diarrhea, Cough, Fatigue",0-9
+754,2024-04-08 04:27:23,Happy Valley,"Cough, Mild Bleeding, Rash, Fatigue",0-9
+755,2024-04-08 04:39:07,San Rafael,"Muscle Pain, Runny Nose, Sore Throat, Diarrhea",20-29
+756,2024-04-08 05:19:50,Cantil,"Fever, Diarrhea, Headache, Vomiting, Rash, Mild Bleeding",40-49
+757,2024-04-08 11:47:41,San Rafael,"Sore Throat, Joint Pain, Runny Nose, Fatigue",60+
+758,2024-04-08 12:07:35,Dangay,"Fatigue, Sore Throat",20-29
+759,2024-04-08 15:01:36,Cantil,"Fatigue, Retro-orbital Pain, Joint Pain",40-49
+760,2024-04-08 18:37:02,San Isidro,"Muscle Pain, Sore Throat, Diarrhea, Joint Pain, Cough, Runny Nose, Fatigue",0-9
+761,2024-04-08 22:35:05,San Vicente,"Runny Nose, Diarrhea, Sore Throat",60+
+762,2024-04-08 22:46:45,Odiong,"Fatigue, Muscle Pain, Rash",20-29
+763,2024-04-09 00:26:10,Dangay,"Runny Nose, Joint Pain",40-49
+764,2024-04-09 00:36:44,Bagumbayan,"Muscle Pain, Nausea, Sore Throat, Retro-orbital Pain, Joint Pain",10-19
+765,2024-04-09 01:38:53,Victoria,"Sore Throat, Headache, Diarrhea",60+
+766,2024-04-09 07:49:45,San Vicente,"Headache, Retro-orbital Pain, Joint Pain, Fever, Mild Bleeding, Vomiting, Diarrhea, Fatigue",50-59
+767,2024-04-09 13:40:54,Little Tanauan,"Joint Pain, Mild Bleeding, Fatigue, Headache",20-29
+768,2024-04-09 14:54:48,Little Tanauan,"Sore Throat, Fever, Fatigue, Runny Nose, Mild Bleeding, Cough",50-59
+769,2024-04-09 19:04:22,Cantil,"Runny Nose, Fatigue, Cough, Muscle Pain",20-29
+770,2024-04-09 21:21:08,Paclasan,"Headache, Muscle Pain, Diarrhea, Fatigue, Cough, Runny Nose",40-49
+771,2024-04-09 21:34:40,San Rafael,"Runny Nose, Diarrhea, Sore Throat, Fatigue",40-49
+772,2024-04-09 23:03:09,Paclasan,"Nausea, Joint Pain, Sore Throat, Runny Nose, Fever, Mild Bleeding",50-59
+773,2024-04-10 01:40:38,Bagumbayan,"Retro-orbital Pain, Mild Bleeding, Headache, Diarrhea",50-59
+774,2024-04-10 01:47:46,Poblacion,"Headache, Fatigue, Fever, Nausea",50-59
+775,2024-04-10 04:26:41,Dangay,"Fever, Rash, Headache, Fatigue, Joint Pain, Muscle Pain, Sore Throat",10-19
+776,2024-04-10 06:01:57,San Aquilino,"Diarrhea, Cough, Fatigue, Sore Throat",50-59
+777,2024-04-10 07:30:19,San Vicente,"Fatigue, Runny Nose, Diarrhea, Cough",0-9
+778,2024-04-10 09:54:23,San Miguel,"Fever, Joint Pain, Sore Throat, Runny Nose",10-19
+779,2024-04-10 19:52:38,Poblacion,"Muscle Pain, Cough, Vomiting, Fever, Joint Pain, Sore Throat",0-9
+780,2024-04-11 00:45:53,Little Tanauan,"Headache, Diarrhea, Fever",60+
+781,2024-04-11 03:24:02,Bagumbayan,"Fatigue, Retro-orbital Pain, Cough, Diarrhea, Rash",40-49
+782,2024-04-11 17:34:00,San Aquilino,"Nausea, Fatigue, Muscle Pain, Rash",50-59
+783,2024-04-11 17:58:58,Paclasan,"Runny Nose, Diarrhea, Headache, Sore Throat, Cough",60+
+784,2024-04-11 18:21:06,San Miguel,"Retro-orbital Pain, Runny Nose, Fatigue, Joint Pain, Diarrhea, Fever, Headache",20-29
+785,2024-04-12 00:00:49,Cantil,"Mild Bleeding, Fatigue, Headache, Diarrhea",40-49
+786,2024-04-12 02:30:39,Paclasan,"Headache, Runny Nose, Joint Pain, Mild Bleeding",10-19
+787,2024-04-12 02:56:51,San Aquilino,"Vomiting, Mild Bleeding, Retro-orbital Pain, Fatigue",40-49
+788,2024-04-12 03:42:30,Maraska,"Vomiting, Runny Nose, Sore Throat, Nausea, Muscle Pain",60+
+789,2024-04-12 08:24:13,San Isidro,Diarrhea,10-19
+790,2024-04-12 09:33:02,San Jose,"Diarrhea, Muscle Pain, Runny Nose, Retro-orbital Pain, Mild Bleeding",30-39
+791,2024-04-12 11:04:21,Little Tanauan,"Cough, Diarrhea, Runny Nose, Sore Throat, Fatigue",40-49
+792,2024-04-12 19:08:41,San Miguel,"Fatigue, Fever, Mild Bleeding, Diarrhea, Runny Nose, Muscle Pain, Retro-orbital Pain",40-49
+793,2024-04-13 05:49:23,San Mariano,"Sore Throat, Runny Nose, Cough",40-49
+794,2024-04-13 07:03:53,Odiong,"Sore Throat, Diarrhea, Runny Nose, Muscle Pain",40-49
+795,2024-04-13 08:35:30,San Aquilino,"Cough, Runny Nose, Headache, Rash",50-59
+796,2024-04-13 17:38:25,Paclasan,"Cough, Runny Nose, Rash, Retro-orbital Pain, Headache, Diarrhea",20-29
+797,2024-04-13 20:09:21,Victoria,"Nausea, Fever, Vomiting, Headache, Rash, Retro-orbital Pain, Muscle Pain, Mild Bleeding, Cough",10-19
+798,2024-04-13 23:29:24,Victoria,"Fatigue, Cough, Sore Throat, Runny Nose, Diarrhea, Muscle Pain",30-39
+799,2024-04-13 23:39:14,Cantil,"Runny Nose, Cough, Mild Bleeding, Sore Throat",50-59
+800,2024-04-14 05:04:50,San Vicente,Cough,30-39
+801,2024-04-14 05:18:32,San Miguel,"Fatigue, Cough, Mild Bleeding, Diarrhea",10-19
+802,2024-04-14 07:28:03,San Miguel,"Sore Throat, Cough",0-9
+803,2024-04-14 08:26:59,Libertad,"Muscle Pain, Runny Nose, Nausea, Sore Throat, Fatigue, Cough",0-9
+804,2024-04-14 11:17:36,San Mariano,"Runny Nose, Muscle Pain, Diarrhea, Sore Throat, Fatigue, Fever, Cough",0-9
+805,2024-04-14 11:51:26,Libertad,"Cough, Sore Throat, Retro-orbital Pain, Fatigue, Runny Nose, Diarrhea, Vomiting",10-19
+806,2024-04-14 15:48:48,Libtong,"Diarrhea, Vomiting",0-9
+807,2024-04-15 01:45:44,San Aquilino,"Runny Nose, Muscle Pain, Cough, Nausea, Fatigue, Retro-orbital Pain",10-19
+808,2024-04-15 07:57:27,San Rafael,"Sore Throat, Runny Nose, Muscle Pain, Nausea, Joint Pain",20-29
+809,2024-04-15 08:32:40,San Mariano,"Vomiting, Sore Throat, Rash, Diarrhea",0-9
+810,2024-04-15 10:27:13,Libtong,"Joint Pain, Diarrhea, Cough, Runny Nose",10-19
+811,2024-04-15 16:31:24,Maraska,"Rash, Cough, Diarrhea, Runny Nose",50-59
+812,2024-04-15 16:50:20,Bagumbayan,"Fever, Joint Pain, Sore Throat",20-29
+813,2024-04-15 20:50:08,Happy Valley,"Runny Nose, Vomiting, Diarrhea, Rash, Cough",10-19
+814,2024-04-16 01:03:12,Paclasan,"Sore Throat, Retro-orbital Pain, Diarrhea, Runny Nose, Fatigue, Cough",0-9
+815,2024-04-16 04:16:26,Libtong,"Fatigue, Sore Throat, Diarrhea",50-59
+816,2024-04-16 05:52:13,San Miguel,Cough,40-49
+817,2024-04-16 09:21:45,San Jose,"Fatigue, Runny Nose, Vomiting, Cough, Fever, Diarrhea, Sore Throat",20-29
+818,2024-04-16 11:36:22,Libertad,"Fatigue, Cough",20-29
+819,2024-04-16 14:07:55,Paclasan,"Vomiting, Cough, Fatigue, Sore Throat",20-29
+820,2024-04-16 16:08:32,Poblacion,"Joint Pain, Fatigue, Runny Nose, Sore Throat, Cough, Vomiting",10-19
+821,2024-04-16 16:34:52,San Aquilino,"Fatigue, Diarrhea, Runny Nose, Sore Throat, Cough",30-39
+822,2024-04-16 18:44:09,Libtong,"Rash, Fatigue, Vomiting, Mild Bleeding",50-59
+823,2024-04-16 22:01:39,Happy Valley,"Cough, Fever, Fatigue, Sore Throat, Nausea",20-29
+824,2024-04-16 23:31:40,San Rafael,"Muscle Pain, Vomiting, Fever, Mild Bleeding, Headache",0-9
+825,2024-04-17 01:01:10,Libertad,"Fever, Sore Throat, Retro-orbital Pain, Rash, Cough, Fatigue, Runny Nose, Headache",50-59
+826,2024-04-17 08:18:28,San Aquilino,"Retro-orbital Pain, Diarrhea, Vomiting",60+
+827,2024-04-17 12:08:29,Odiong,"Cough, Headache, Diarrhea, Nausea",30-39
+828,2024-04-17 12:17:52,Happy Valley,"Diarrhea, Fatigue, Rash",50-59
+829,2024-04-17 14:03:54,San Rafael,"Runny Nose, Mild Bleeding, Fatigue, Cough, Muscle Pain",20-29
+830,2024-04-17 14:05:46,San Vicente,"Sore Throat, Fatigue, Nausea, Vomiting, Cough, Diarrhea",20-29
+831,2024-04-17 21:27:32,Bagumbayan,"Sore Throat, Headache, Diarrhea, Joint Pain",0-9
+832,2024-04-18 02:29:07,San Vicente,"Fatigue, Mild Bleeding, Runny Nose, Retro-orbital Pain",20-29
+833,2024-04-18 10:02:29,San Rafael,"Vomiting, Rash, Mild Bleeding, Cough, Joint Pain, Fever",10-19
+834,2024-04-18 15:10:46,San Rafael,"Muscle Pain, Cough, Fatigue, Diarrhea, Sore Throat, Retro-orbital Pain",50-59
+835,2024-04-18 17:20:14,Bagumbayan,"Fatigue, Nausea, Sore Throat",40-49
+836,2024-04-18 20:34:14,San Rafael,"Sore Throat, Fatigue, Muscle Pain, Vomiting",60+
+837,2024-04-18 20:58:36,Dangay,"Diarrhea, Fatigue, Runny Nose, Cough",60+
+838,2024-04-18 21:01:02,Libtong,"Fatigue, Fever, Cough, Mild Bleeding, Joint Pain",0-9
+839,2024-04-18 21:26:54,San Miguel,"Muscle Pain, Diarrhea, Joint Pain, Fatigue",10-19
+840,2024-04-19 02:08:37,San Isidro,"Muscle Pain, Vomiting, Headache, Fever, Retro-orbital Pain",10-19
+841,2024-04-19 02:11:17,Bagumbayan,"Sore Throat, Nausea, Runny Nose, Fever, Cough, Diarrhea",40-49
+842,2024-04-19 05:38:18,Libertad,"Rash, Fever, Headache, Cough",40-49
+843,2024-04-19 10:17:20,Little Tanauan,"Diarrhea, Retro-orbital Pain, Rash",30-39
+844,2024-04-19 11:30:34,San Aquilino,Sore Throat,50-59
+845,2024-04-19 12:27:54,Bagumbayan,"Cough, Rash, Sore Throat",20-29
+846,2024-04-19 22:48:59,Bagumbayan,"Sore Throat, Headache",50-59
+847,2024-04-20 00:01:25,San Isidro,"Cough, Rash, Sore Throat",0-9
+848,2024-04-20 04:17:57,San Isidro,"Cough, Sore Throat, Retro-orbital Pain, Muscle Pain, Diarrhea, Rash",20-29
+849,2024-04-20 04:18:33,Dangay,"Diarrhea, Runny Nose, Joint Pain, Sore Throat, Fever, Cough",10-19
+850,2024-04-20 06:04:31,Maraska,"Fatigue, Runny Nose, Cough, Sore Throat",0-9
+851,2024-04-20 10:10:42,San Miguel,"Diarrhea, Sore Throat, Runny Nose, Fatigue, Fever",0-9
+852,2024-04-20 13:56:32,Poblacion,Fatigue,0-9
+853,2024-04-20 19:20:15,Odiong,"Joint Pain, Fatigue, Sore Throat, Runny Nose, Headache, Diarrhea",50-59
+854,2024-04-21 02:18:12,Paclasan,"Retro-orbital Pain, Nausea, Runny Nose, Cough, Mild Bleeding, Fever",60+
+855,2024-04-21 03:17:29,Poblacion,"Retro-orbital Pain, Sore Throat",20-29
+856,2024-04-21 09:40:39,San Isidro,"Diarrhea, Fatigue, Runny Nose",0-9
+857,2024-04-21 12:23:02,Paclasan,Diarrhea,60+
+858,2024-04-21 13:51:11,Dangay,"Fatigue, Headache, Sore Throat",60+
+859,2024-04-21 18:23:29,Poblacion,Diarrhea,0-9
+860,2024-04-21 18:33:22,Libertad,"Sore Throat, Rash, Runny Nose, Cough, Fatigue",30-39
+861,2024-04-21 23:42:58,San Vicente,"Fatigue, Cough, Muscle Pain, Nausea, Runny Nose, Sore Throat, Fever, Rash",0-9
+862,2024-04-22 03:29:33,Cantil,"Rash, Headache, Nausea, Cough, Sore Throat, Diarrhea, Fatigue",60+
+863,2024-04-22 03:59:33,Libtong,"Headache, Cough",60+
+864,2024-04-22 04:25:09,San Miguel,"Diarrhea, Fatigue, Retro-orbital Pain, Runny Nose, Joint Pain, Sore Throat",0-9
+865,2024-04-22 08:02:26,Odiong,"Sore Throat, Cough, Diarrhea, Mild Bleeding, Runny Nose, Muscle Pain",60+
+866,2024-04-22 10:27:33,Maraska,"Sore Throat, Runny Nose, Diarrhea, Rash",10-19
+867,2024-04-22 12:52:52,Maraska,"Diarrhea, Joint Pain, Mild Bleeding, Vomiting, Fatigue, Runny Nose",20-29
+868,2024-04-22 20:43:32,Dangay,"Cough, Fatigue, Diarrhea",30-39
+869,2024-04-22 21:20:08,San Rafael,Runny Nose,0-9
+870,2024-04-23 02:46:16,Libtong,Diarrhea,40-49
+871,2024-04-23 03:36:14,Libertad,"Nausea, Fatigue, Rash, Runny Nose",20-29
+872,2024-04-23 09:53:05,Poblacion,"Runny Nose, Joint Pain, Rash, Sore Throat",50-59
+873,2024-04-23 12:33:29,Poblacion,"Runny Nose, Sore Throat, Cough, Fever, Joint Pain, Fatigue",30-39
+874,2024-04-23 13:20:06,Paclasan,"Cough, Mild Bleeding, Vomiting, Fatigue, Sore Throat, Diarrhea",30-39
+875,2024-04-23 14:35:38,Maraska,"Sore Throat, Vomiting, Runny Nose, Fever",40-49
+876,2024-04-23 16:16:44,Paclasan,"Sore Throat, Runny Nose, Fatigue, Diarrhea, Cough, Headache",20-29
+877,2024-04-23 17:27:48,San Isidro,"Sore Throat, Diarrhea, Mild Bleeding, Cough, Runny Nose, Fever, Fatigue",30-39
+878,2024-04-23 18:23:53,Maraska,"Rash, Runny Nose, Retro-orbital Pain, Fever",0-9
+879,2024-04-23 20:35:48,Bagumbayan,"Fatigue, Joint Pain, Runny Nose, Mild Bleeding, Diarrhea, Fever",60+
+880,2024-04-23 22:39:23,Libtong,"Vomiting, Headache, Fever, Retro-orbital Pain, Sore Throat",0-9
+881,2024-04-24 05:47:39,Dangay,"Fatigue, Sore Throat",60+
+882,2024-04-24 06:19:55,San Miguel,"Sore Throat, Diarrhea, Retro-orbital Pain, Fatigue, Cough",40-49
+883,2024-04-24 06:46:30,Little Tanauan,"Rash, Fatigue, Headache, Fever, Joint Pain, Muscle Pain, Vomiting, Nausea, Diarrhea, Mild Bleeding, Retro-orbital Pain",20-29
+884,2024-04-24 07:36:03,San Vicente,Sore Throat,60+
+885,2024-04-24 08:06:49,San Isidro,"Runny Nose, Fatigue, Vomiting, Joint Pain, Cough",0-9
+886,2024-04-24 12:39:23,San Vicente,"Cough, Joint Pain, Diarrhea, Muscle Pain, Runny Nose",30-39
+887,2024-04-24 17:32:52,Victoria,"Fatigue, Sore Throat, Nausea, Diarrhea, Runny Nose, Headache",20-29
+888,2024-04-24 18:06:01,San Miguel,"Fatigue, Fever",10-19
+889,2024-04-24 19:37:48,San Mariano,"Muscle Pain, Diarrhea, Retro-orbital Pain, Joint Pain",0-9
+890,2024-04-25 01:00:36,Poblacion,"Fever, Nausea, Rash, Muscle Pain, Mild Bleeding, Vomiting, Retro-orbital Pain, Joint Pain, Headache",30-39
+891,2024-04-25 01:40:09,Libtong,"Fatigue, Runny Nose, Vomiting, Diarrhea, Sore Throat, Muscle Pain, Cough",50-59
+892,2024-04-25 03:59:57,Libtong,"Diarrhea, Nausea, Vomiting, Retro-orbital Pain",20-29
+893,2024-04-25 04:43:32,Bagumbayan,"Fatigue, Diarrhea, Retro-orbital Pain, Headache",20-29
+894,2024-04-25 08:34:50,San Miguel,"Diarrhea, Cough, Vomiting, Muscle Pain, Mild Bleeding, Sore Throat",30-39
+895,2024-04-25 13:45:26,San Vicente,"Sore Throat, Mild Bleeding, Diarrhea, Runny Nose, Cough",50-59
+896,2024-04-25 13:57:53,San Miguel,"Fatigue, Headache, Diarrhea, Rash, Cough",30-39
+897,2024-04-25 15:04:03,San Mariano,"Vomiting, Cough, Sore Throat, Runny Nose",20-29
+898,2024-04-25 15:17:09,Maraska,"Cough, Joint Pain",60+
+899,2024-04-25 16:02:27,Paclasan,"Sore Throat, Runny Nose, Cough, Diarrhea, Rash",60+
+900,2024-04-25 16:59:03,Little Tanauan,"Runny Nose, Diarrhea, Fever, Fatigue, Sore Throat",30-39
+901,2024-04-25 22:20:40,Paclasan,"Cough, Joint Pain",50-59
+902,2024-04-25 22:20:50,Poblacion,"Nausea, Fatigue",0-9
+903,2024-04-25 23:28:35,Bagumbayan,"Fever, Cough, Diarrhea",20-29
+904,2024-04-26 00:24:38,Dangay,"Diarrhea, Headache, Mild Bleeding",30-39
+905,2024-04-26 04:31:25,San Aquilino,"Runny Nose, Rash, Headache",50-59
+906,2024-04-26 05:42:46,Dangay,"Joint Pain, Retro-orbital Pain, Cough",10-19
+907,2024-04-26 20:48:14,Little Tanauan,"Nausea, Fever, Sore Throat, Joint Pain",30-39
+908,2024-04-26 22:32:36,San Rafael,"Nausea, Cough, Runny Nose, Vomiting, Sore Throat, Muscle Pain, Fever",40-49
+909,2024-04-26 23:06:36,San Jose,"Fatigue, Cough, Runny Nose, Joint Pain, Diarrhea, Mild Bleeding",0-9
+910,2024-04-27 02:13:45,San Mariano,"Runny Nose, Diarrhea, Fatigue, Headache, Cough, Sore Throat",30-39
+911,2024-04-27 08:41:24,Maraska,"Headache, Joint Pain, Sore Throat",0-9
+912,2024-04-27 09:58:48,San Rafael,"Cough, Diarrhea, Sore Throat, Fatigue",30-39
+913,2024-04-27 16:13:01,San Aquilino,"Rash, Cough, Mild Bleeding, Fatigue",0-9
+914,2024-04-27 18:24:20,Bagumbayan,"Nausea, Muscle Pain, Vomiting, Fever, Cough",60+
+915,2024-04-27 20:06:58,Paclasan,"Joint Pain, Nausea, Muscle Pain, Diarrhea, Retro-orbital Pain, Runny Nose, Fever, Headache, Mild Bleeding, Vomiting",60+
+916,2024-04-27 23:23:36,Bagumbayan,"Diarrhea, Runny Nose, Retro-orbital Pain, Rash, Fever, Headache",0-9
+917,2024-04-28 04:36:31,Cantil,"Retro-orbital Pain, Sore Throat, Fatigue, Cough",60+
+918,2024-04-28 07:46:56,San Vicente,"Headache, Diarrhea",50-59
+919,2024-04-28 07:56:06,Paclasan,"Diarrhea, Nausea, Joint Pain",60+
+920,2024-04-28 07:57:20,Victoria,"Runny Nose, Diarrhea, Sore Throat, Fatigue, Cough",0-9
+921,2024-04-28 11:34:21,San Mariano,"Retro-orbital Pain, Diarrhea",10-19
+922,2024-04-28 13:21:33,Little Tanauan,"Joint Pain, Sore Throat, Diarrhea, Runny Nose, Cough, Nausea",0-9
+923,2024-04-28 13:43:32,San Aquilino,Runny Nose,10-19
+924,2024-04-28 13:45:01,Libtong,"Runny Nose, Joint Pain, Vomiting, Fatigue, Sore Throat",20-29
+925,2024-04-28 20:48:06,San Isidro,"Diarrhea, Vomiting, Rash, Fatigue, Cough, Runny Nose",60+
+926,2024-04-28 22:37:00,Cantil,Sore Throat,50-59
+927,2024-04-29 02:25:04,Paclasan,"Joint Pain, Fatigue, Nausea",0-9
+928,2024-04-29 04:47:14,Paclasan,"Fatigue, Headache",0-9
+929,2024-04-29 05:11:20,San Aquilino,"Vomiting, Diarrhea, Cough, Fatigue, Runny Nose, Sore Throat, Joint Pain",0-9
+930,2024-04-29 07:16:00,San Vicente,Sore Throat,60+
+931,2024-04-29 09:48:55,Victoria,"Runny Nose, Sore Throat, Cough, Diarrhea",0-9
+932,2024-04-29 21:16:01,Libertad,"Runny Nose, Cough, Diarrhea, Sore Throat",20-29
